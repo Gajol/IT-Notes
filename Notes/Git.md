@@ -9,6 +9,7 @@ git clone --branch <tag> <repo>
 git clone -depth=1 <repo>
 git clone -branch <branch>
 ```
+[Github Clone](https://github.com/git-guides/git-clone)
 
 git Clone Fetch Pull push
 : [Medium Git clone](https://1drv.ms/b/s!AkwXSmFk-_xpge0PfSj2vBcejizhMQ?e=enF18t)

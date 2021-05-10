@@ -8,3 +8,11 @@ const power = (base, exponent) => {
 }
 
 console.log("2^8: " + power(2,8))
+
+/*
+When there is only one parameter name, you can omit the parentheses
+around the parameter list. If the body is a single expression, rather than a
+block in braces, that expression will be returned from the function.
+*/
+const square1 = (x) => { return x * x; };
+const square2 = x => x * x;

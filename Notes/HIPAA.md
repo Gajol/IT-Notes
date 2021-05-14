@@ -51,5 +51,5 @@ A Scholary Journal of Informatics in Health and Biomedicine (JAMIA)
 - [Calculate Risk of Re-Identification](https://lexjansen.com/phuse/2016/dh/DH09.pdf)
 
 ## References
-- [Estimating Re-Identification - CHEO Authors - 2012](https://- bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-- 6947-12-66#author-information)
+- [Estimating Re-Identification - CHEO Authors - 2012](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-12-66)
 - [GCP Estimating Re-Id FR&EN](https://cloud.google.com/dlp/docs/visualizing_re-id_risk)

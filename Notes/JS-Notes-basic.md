@@ -1,5 +1,6 @@
 # JavaScript Notes
 
+
 ## Testing and Debugging
 
 How to Debug JS Errors

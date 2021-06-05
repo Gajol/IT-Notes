@@ -9,16 +9,23 @@
 Array Methods
 :
 - `pop()` : remove last element
-- `push()` : an element at the end (could also use *a[a.length]=x*)
+- `push()` : add an element at the end (could also use *a[a.length]=x*)
 - `shift()` : removes first element of array
 - `unshift()` : adds an element at beginning of array
 - `spice(index, noremove, elements)`: adds elements to array at index after removing "noremove" elements.  Example, `a.splice(0, 1)` removes the first element of an array.
 - `concat()` : a.concat(b) joins b to a.
 - `slice(index)` : slice an array into another array
-- `reverse()` : reverse array
 
 Array Objects
 - `delete a[0]` : deletes object in array at index 0.  a[0] is now undefined.
+
+Data Structures
+: A variable that has not been assigned a value has the value undefined. ([MDN Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures))
+Flow Control
+: [MDN Flow Control](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
+
+Functions - Parameters
+: parameters are mutable.  There is no way to make them constants [StackOverflow JS Parameters](https://stackoverflow.com/questions/30314457/how-to-make-function-parameter-constant-in-javascript)
 
 Immutable
 : numbers, strings, and Booleans, are all immutable—it
@@ -62,6 +69,8 @@ Pure function
 function has the pleasant property that, when called with the same arguments, it always produces the same value (and doesn’t do anything else). A call to such a function can be substituted by its return value without changing the
 meaning of the code.
 
+Structs in JavaScript
+: ([StackOverflow Structs & JS](https://stackoverflow.com/questions/502366/structs-in-javascript))
 
 Tenary Operator
 : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator   

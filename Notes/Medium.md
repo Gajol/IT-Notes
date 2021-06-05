@@ -7,3 +7,6 @@ https://towardsdatascience.com/9-things-i-learned-from-blogging-on-medium-for-th
 - Cross-reference sources and embed videos wherever relevant to offer - richer background knowledge. (Also to my own articles too, of course 😉)
 - Make full use of Medium’s rich editing and layout tools, like emoji, ‘@’, - blockquote, etc. to make the story less boring and more vibrant to the - eyes.
 - Contemplating good tags that are diversified and also relevant to increase reach.
+
+Medium has Top-Writer tags
+https://medium.com/tag/artificial-intelligence/top-writers

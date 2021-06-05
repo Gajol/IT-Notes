@@ -25,3 +25,8 @@ TO DO
 - Snapshot of Ubuntu before noisy-apps are Installed
 - JS slide show (version.js ??)
 - Accessiblity C2 row key sequence
+- Take TripleByte test (May 31)
+- WebHook, vs WebService vs REST vs
+- data flow vs pipeline
+- Github CI/CD webhook to JS build or something
+- Asciidoc/Pandoc - build Markdown into book [Blog Pandoc Markdown](https://medium.com/programmers-developers/building-books-with-markdown-using-pandoc-f0d19df7b2ca).  Create an epub or pdf.  Use these skills to make the C2 key-sequence tool

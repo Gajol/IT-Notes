@@ -1121,6 +1121,3 @@ if (typeof module != "undefined" && module.exports && (typeof window == "undefin
   module.exports = SCRIPTS;
 if (typeof global != "undefined" && !global.SCRIPTS)
   global.SCRIPTS = SCRIPTS;
-
-
-  exports.SCRIPTS = SCRIPTS;

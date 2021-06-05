@@ -18,6 +18,10 @@ Done
 - Used NodeJS as JS IDE for EloquentJS excercises
 - Installed Atom on Ubuntu
 
+2021-05-26
+- install svelte / typescript (sanity.io)
+- install Zotoro (windows) - reference manager (and chrome extension)
+
 TO LEARN / GOALS /
 
 

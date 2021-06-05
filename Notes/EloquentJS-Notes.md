@@ -27,6 +27,7 @@ Array Objects
 
 Data Structures
 : A variable that has not been assigned a value has the value undefined. ([MDN Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures))
+
 Flow Control
 : [MDN Flow Control](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
 
@@ -120,7 +121,6 @@ Pure function
 function has the pleasant property that, when called with the same arguments, it always produces the same value (and doesn’t do anything else). A call to such a function can be substituted by its return value without changing the
 meaning of the code.
 
-<<<<<<< HEAD
 Rest Parameters - Functions
 : The rest parameter syntax allows a function to accept an indefinite number of arguments as an array.  ([Wikipedia Variadic Functions](https://en.wikipedia.org/wiki/Variadic_function)) and ([MDN Rest Parameter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)).   The spread syntax can spread an array to help usage in functions with rest parameters ([MDN Spread Parameter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax))
 
@@ -146,10 +146,6 @@ console.log(String(6).padStart(3, "0"));
 - `split(string)` : split on occurence of string (string is removed)
 - `join(delimter)` : join, inserting delimeter between strings
 - `repeat(number)` : repeat string number of times (creates a copy)
-=======
-Structs in JavaScript
-: ([StackOverflow Structs & JS](https://stackoverflow.com/questions/502366/structs-in-javascript))
->>>>>>> 75fb727e0fda8bdd2801e6e2dd465c2466661a4a
 
 Tenary Operator
 : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator   
@@ -163,3 +159,7 @@ for (let char of "Hello") {
   console.log(char);
 }
 ```
+
+Structs in JavaScript
+: ([StackOverflow Structs & JS](https://stackoverflow.com/questions/502366/structs-in-javascript))
+>>>>>>> 75fb727e0fda8bdd2801e6e2dd465c2466661a4a

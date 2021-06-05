@@ -1,5 +1,5 @@
 
-Observability
+# Observability for HR Mod
 
 Business Process, and by inheritance/extrapolation/dependency/... the application spans two domains; high and low.   The connection between these two networks is a security-zone-transition (cross domain solution) that ensures sensitive information is not leaked to the low security zone.
 
@@ -11,6 +11,13 @@ How to observe transactions acorss this complexity?
 Why observability (general)
 - microservices and distributed architectures (high, low, cds, ...)
 - separte codes bases (e.g, our high and low side code)
+
+## Concept
+While industry observability involves vendor selection etc, the main concept that HR Mod must consider due to the distributed nature of business processes and applications is:
+- application owners manager their own metrics  [ do not repeat the SA* application problem]
+- observability on batch-processing, events, etc .. *?? need better concept??*
+
+
 
 # 3 Pillars ++
 pillars of observability: [these pillars must be challenged](https://www.infoq.com/news/2019/02/rethinking-observability/)

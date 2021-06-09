@@ -15,6 +15,8 @@ https://blog.logrocket.com/mern-stack-tutorial/
 
 [Medium #2 Multi-Part](https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1/) USes React-Router
 
+[LogRocket MERN Startup Guide](https://blog.logrocket.com/mern-stack-tutorial/)
+
 # Stack
 ## MongoDB
 

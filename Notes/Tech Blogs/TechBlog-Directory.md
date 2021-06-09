@@ -1,6 +1,9 @@
 
 # Major Companies
-[Lyft Tech Blog](https://www.lyft.com/blog): Envoy service mesh sidecar pattern.
+- [Airbnb Nerds](http://nerds.airbnb.com/)
+- [Lyft Tech Blog](https://www.lyft.com/blog): Envoy service mesh sidecar pattern.
+- [Pintrest](https://medium.com/@Pinterest_Engineering)
+- [Spotify Engineering](https://engineering.atspotify.com/)
 
 # Tech Blogs & Podcasts
 [The New Stack](https://thenewstack.io/podcasts/)

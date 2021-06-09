@@ -4,14 +4,6 @@
 This article discusses API management, some API management vendors and open-source and a comparison to other technologies.
 
 - [API Management](./API-Terms.md)
-
-
-#  Main section
-
-##  [sub-section](./child.md#sub-section)    
-##  [sub-section](/child.md#sub-section)
-##  [sub-section](child.md#sub-section)
-
 </details>
 
 ## Overview
@@ -21,6 +13,33 @@ This article discusses API management, some API management vendors and open-sour
 A single point of entry for all connected systems and services.  Helps developers (IT, client-external, business-citizen) develop to APIs.
 
 - [CMS Wire - Why API Management](https://www.cmswire.com/information-management/what-is-api-management-and-why-do-i-need-it/).   See the below informaation for the featres of API management.
+
+- [Use Cases for API Management - Confluent Kafka](https://www.kai-waehner.de/blog/2020/05/25/api-management-gateway-apache-kafka-comparison-mulesoft-kong-apigee/)
+- Open API: Developer portal and API Gateway
+- Partner Gateway: Access control for well-known external parties
+- Mobile App Gateway: Access control for apps deployed externally
+- Cloud Integration Gateway: Governance and mediation control for SaaS
+- Internal Governance: Manage, monetize and bill internal services and applications
+
+### API Strategy
+__2013__: See *2013 API Strategy Conference* - [John Musser - API Business Models - 2013](https://www.slideshare.net/jmusser/j-musser-apibizmodels2013) - [ John Musser Video API Science ](https://www.youtube.com/watch?v=gfguGS8HYvM)
+
+#### API Strategy - Why?
+Drive innovation, Extend product, Content acquisition, ...
+
+1. Why? First think about Why?
+1. Who? Who is the API?   Who is consumer.  Us, Customer/Partner, OpenAPI.
+1. What? What am I selling?  What is the service?  What is the value (data, audience, function)?
+
+- Twilio - Cloud API
+- Salesforce - 50% of transactions that go into Salesforce come from the API
+- Facebook - free to obtain social media knowledge
+- Paypal - transaction-fee
+- Amazon - pay-as-you-go
+
+#### API Business Model - ? How ?
+__2005__: API Universe.  Google Maps API, "web mashup" phrase. Free, Develop gets paid, Developer pays, indirect
+__2013__: 30+ business models.  More ways to monetize API's. build, provision, support - need money.
 
 ## Wikipedia - API management
 [Wikipedia API Management](https://en.wikipedia.org/wiki/API_management)
@@ -63,6 +82,16 @@ Features:
 2. __2010__: API Management : Came around 2010 (I'm guessing before microservices and containers).  API Management (and __API Gateways__) - runtime features (connect, secure and govern API traffice), plus, non-functionals (creating, testing, documenting, monetizing(billing), monitoring, user personas, ..)
 3. __2017__: Service Mesh : A pattern for monoliths or microservices on any platform (VMs, containers, kubernetes).  APIM has a role in service meshs (high similarity in functionality).  With the service mesh pattern, we are outsourcing the network management of any inbound or outbound request made by any service (not just the ones that we build but also third-party ones that we deploy) to an out-of-process application (the proxy) that will manage every inbound and outbound network request for us, and because it lives outside of the service, it is by default portable and agnostic in order to support any service written in any language or framework. [CNF Difference Between Service Mesh and API Gateway](https://www.cncf.io/blog/2020/03/06/the-difference-between-api-gateways-and-service-mesh/).  See the [cheat sheet](https://konghq.com/blog/the-difference-between-api-gateways-and-service-mesh/#cheatsheet) "Most likely, the organization will have both of these use cases, and therefore an API gateway and service mesh will be used simultaneously."
 
+- __2004__: Event Streaming History: PIPES - *A Public Infrastructure for Processing and Exploring Streams* [PIPES - University of Marburg DOI](http://dx.doi.org/10.1145/1007568.1007699)
+
+  <details>
+  <summary>
+  Abstract
+  </summary>
+  PIPES is a flexible and extensible infrastructure providing fundamental building blocks to implement a data stream management system (DSMS). It is seamlessly integrated into the Java library XXL [1, 2, 3] for advanced query processing and extends XXL's scope towards continuous data-driven query processing over autonomous data sources.
+  </details>
+
+
 # When to Use API Management
 There are many technologies to integration applications and expose APIs.   When should one use API-Management:
 - improved developer experience of creating, versioning, releasing and documenting APIs.   
@@ -97,7 +126,8 @@ producer-consumer problem: [Wikipedia - "bounded-buffer problem"](https://en.wik
 
 
 # Vendors
-Vendors include Mulesoft, Azura API Management, Axway, Mulesoft...
+Vendors include Mulesoft, Azura API Management, Axway, TIBCO...
+- [TIBCO](https://www.tibco.com/)
 
 - Amazon : [Amazon API] Gateway(https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)
 - Google : APIGee

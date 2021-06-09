@@ -2,6 +2,9 @@
 # Spring
 
 # Spring Boot
+http://www.mastertheboss.com/other/jboss-stuff/jboss-vs-tomcat-and-spring
+https://spring.io/projects/spring-boot
+https://en.wikipedia.org/wiki/Spring_Framework
 
 # Patterns / etc
 

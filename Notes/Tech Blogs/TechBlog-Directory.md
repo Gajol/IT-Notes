@@ -10,12 +10,17 @@
 
 # Data
 [DataStax - NoSQL](https://www.datastax.com/blog)
+[DataBricks - Spark](https://databricks.com/blog)
 
 # Development
 [DEV](https://dev.to/)
 
 # Integrations
 [Confluent - Kafka](https://www.confluent.io/blog/)
+
+# Government
+[TBS Canada](https://tbs-blog.canada.ca/en/unveiling-government-canadas-standards-apis)
+[TBS Canada](https://tbs-blog.canada.ca/)
 
 # Languages
 [Java Magainze](https://blogs.oracle.com/javamagazine/)

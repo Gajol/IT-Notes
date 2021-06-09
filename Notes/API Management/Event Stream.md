@@ -27,6 +27,35 @@
   // TODO
   - Flink - no data storage
 
+# Event Streaming vs Traditional API
+Event Streaming:
+- more scalable
+- more reliable
+- decoupled
+- real-time
+
+TODO - Need to defend the above, as most owuld say APIs with ESB have all those characterists.
+__2021__ : Handle data at scale.  REST APIs are not ideal (maybe not even possible) due to limitations with scalability.
+
+##  Comparison to API [Ref: Blog](https://www.kai-waehner.de/blog/2020/05/25/api-management-gateway-apache-kafka-comparison-mulesoft-kong-apigee/)
+### Request-Response communication has the following characteristics:
+- Low latency
+- Typically synchronous
+- Point-to-point
+- “Bespoke API”
+- e.g. HTTP, SOAP, gRPC
+
+### Event streams are based on these concepts:
+- Messaging / Pub Sub (sending data from A to B and C)
+- Continuous data processing (filtering, transformations, aggregations, business logic)
+- Often asynchrounous
+- Event-driven, supporting patterns like Event Sourcing and CQRS
+- General-purpose events
+- e.g. Apache Kafka
+
+[Starbucks does not use two-phase commit - 2004](https://www.kai-waehner.de/blog/2020/05/25/api-management-gateway-apache-kafka-comparison-mulesoft-kong-apigee/)
+
+
 # Kafka History
 1. Initial: de-facto storage layer for storing and moving possibly large volumes of streaming data with low latency .
 1. __2016__ Kafka Streams ([2016 announcement](https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple))([Streams](https://kafka.apache.org/documentation/streams/))
@@ -39,6 +68,7 @@ Kafka Streams:
 - [load balances - parallism model](https://docs.confluent.io/platform/current/streams/architecture.html#parallelism-model): balances the processing load as new app-instances are added (or existing ones crash)
 - [maintains local state](https://docs.confluent.io/platform/current/streams/architecture.html#state) for tables
 - [fault tolerancy - recover from failurs](https://docs.confluent.io/platform/current/streams/architecture.html#fault-tolerance)
+- Java language (good if you know Java, bad if you are a DBA.  Hence, ksqldb)
 
 Features/Solves:
 - Event-at-a-time processing (not microbatch) with - millisecond latency
@@ -60,6 +90,26 @@ Alternatives: a host of framewworks to make application more dynamic [reference]
 - [Swarm](https://www.docker.com/products/docker-swarm) from Docker
 - Various hosted container services such as [ECS](https://aws.amazon.com/ecs/) - from Amazon
 - [Cloud Foundry - Pivotal](http://pivotal.io/platform)
+
+### Streams vs Apache Flink
+[reference](https://www.confluent.io/blog/apache-flink-apache-kafka-streams-comparison-guideline-users/)
+- Streams API is out-of-the-box stream processing solution
+- highly scalable, elstic, fault-tolerant, distrubted
+- simple to build (Java) - Streams make kafka accessible as a mainstream application programming model
+- fills gap of building core applications and microservices that process data streams (verus analytics focused domain)
+
+|Workload|Tool|
+|--|--|
+|Process Data Stream|Kafka Streams|
+|Data Analytics|?? - Apache Spark, ...|
+
+Why use Streams? [Confluent Kafka vs Flink](https://www.confluent.io/blog/apache-flink-apache-kafka-streams-comparison-guideline-users/)
+1. embeddable library (with Kafka cluster).  No need to build a separate cluster.  Integrates with existing packaging, deployment, monitoring and operations tooling.
+2. Integrated with core Kafka abstraction.  Therefore benefits from kafka failover, elasticity, fault-tolerance, scalability and security
+1. Hardened:  Widely deployed by 1,000's of companies.
+1. New Stream Processing Concepts:  Integrating the abstraction of streams and tables (highly [performance joins](https://www.confluent.io/blog/distributed-real-time-joins-and-aggregations-on-user-activity-events-using-kafka-streams) and continuous queries)
+
+[Flink Concepts](https://ci.apache.org/projects/flink/flink-docs-release-1.1/concepts/concepts.html)
 
 
 ## Kafka Connect
@@ -91,21 +141,22 @@ Configuration File Driven:
                 "table.whitelist": "foobar",
                 "mode": "incrementing",
                 "incrementing.column.name": "foobar_pk"
-
         }
 }
-
 ```
-
 Connectors:
 - [SQL Servier](https://docs.confluent.io/cloud/current/connectors/cc-microsoft-sql-server-sink.html)
 - [Teradata](https://docs.confluent.io/kafka-connect-teradata/current/sink-connector/index.html)
 
-Methodology:
+##  Methodology:
 CDC : Change-Data-Capture (Log-Based)
 
-Methodology & Technology:
+### JDBC - Good to start with...Methodology & Technology:
 - JDBC, polls based on *poll.interval.ms*.  Not the best scaling.  Choose other connector-types.
+- Doesn’t give true CDC (capture delete records, want before/after record versions)
+- Latency in detecting new events
+- Impact of polling the source database continually (and balancing this with the desired latency)
+- Unless you’re doing a bulk pull from a table, you need to have an ID and/or timestamp that you can use to spot new records. If you don’t own the schema, this becomes a problem.
 
 |Workload|Method|Pros|Cons|
 |--|--|--|--|

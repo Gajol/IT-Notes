@@ -12,7 +12,10 @@ functional programming
 
 
 ## Language Features
-fu
+
+
+lambda function
+[anonymous function](https://en.wikipedia.org/wiki/Anonymous_function) - Anonymous functions have been a feature of programming languages since Lisp in 1958, and a growing number of modern programming languages support anonymous functions. [also known as: function literal, lambda abstraction, lambda function, lambda expression or block]
 
 ## python
 

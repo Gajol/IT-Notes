@@ -117,4 +117,4 @@ Know your requirements for data:
 - simple streaming data so it can be used for analytics and ETL
 - building event-driven applications (necessitates a log-based CDC approach) since you need all events (deletes, ...)
 
-see [Streams/CDC](./Streams/CDC.md)
+see [Streams/CDC](../Streams/CDC.md)

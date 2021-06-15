@@ -14,18 +14,26 @@
 
   # vendors
 
-  |Name|Type|Notes
+  |Name or Company|Type|Notes
   |--|--|--|
   |[Apache Kafka](https://kafka.apache.org/)|open-source|Confluent|
-  |[Apache Flink](https://en.wikipedia.org/wiki/Apache_Flink)||
+  |[Apache Flink](https://en.wikipedia.org/wiki/Apache_Flink)|
+  |[Apache Pulsar](https://pulsar.apache.org/)|open-source	|newer than Kafka, streams and queues, feature-rich and complex|
   |[IBM Streams](https://www.ibm.com/cloud/streaming-analytics)|commercial|any using IBM streams?|
   |Google|[Dataflow](https://cloud.google.com/dataflow/)|*TODO*|
   |AWS|[Lambda](https://aws.amazon.com/lambda/)|*TODO*|
+  |[NATS](https://nats.io/)||send small frequent messages with low latency (allows data loss)|
 
   # Flink vs Kafka
   [Confluent - Flink vs Kafka 2 - 2016](https://www.confluent.io/blog/apache-flink-apache-kafka-streams-comparison-guideline-users/)  (same article on [Data Artisans blog](https://data-artisans.com/blog/apache-flink-apache-kafka-streams))
   // TODO
   - Flink - no data storage
+
+## other
+- [0MQ](https://zeromq.org/) - ZeroMQ (also known as ØMQ, 0MQ, or zmq) looks like an embeddable networking library but acts like a concurrency framework. It gives you sockets that carry atomic messages across various transports like in-process, inter-process, TCP, and multicast. You can connect sockets N-to-N with patterns like fan-out, pub-sub, task distribution, and request-reply. It's fast enough to be the fabric for clustered products. Its asynchronous I/O model gives you scalable multicore applications, built as asynchronous message-processing tasks. It has a score of language APIs and runs on most operating systems.
+- [tinymsg](https://github.com/iamso/tinymsg) - Tiny real-time messaging server (?? What was the tiny___ open-source messaging tool??)
+
+
 
 # Event Streaming vs Traditional API
 Event Streaming:

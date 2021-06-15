@@ -13,5 +13,15 @@ synchronous request/response
 
 asynchronous communication:
 
+message oriented middleware (MOM) [ApacheMQ Artmeic - Messaging Concepts](https://activemq.apache.org/components/artemis/documentation/1.0.0/messaging-concepts.html)})
+
+publish-subscriber pattern features [from ApacheMQ](https://activemq.apache.org/components/artemis/documentation/1.0.0/messaging-concepts.html)
+- delivery guarantees (once and only once, at least once, ...)
+- transactions : large global transactions (Apache MQ uses [Java JTA - Java Transaction Api](https://www.progress.com/tutorials/jdbc/understanding-jta))
+- durability / non-durable (survive server failure and restart)
+- messaging APIs : JMS, system-specific APIs, RESTful API, STOMP, AMQP, ...
+- High-Availability
+- Clusters
+
 
 promise : [JS promise](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)

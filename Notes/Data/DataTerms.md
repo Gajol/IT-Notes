@@ -23,6 +23,17 @@ developers are the new king makers [The New Kingmakers - 2013 - ](https://thenew
 - declarative
 - intuitive
 
+CQRS: Command Query Responsibility Segregation
+- [CQRS Wikipedia](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation#Command_query_responsibility_segregation)
+- separate return state from changing state.
+- Even in single-threaded programs, it is sometimes arguably significantly more convenient to have a method that is a combined query and command. Martin Fowler cites the pop() method of a stack as an example.[5]
+- [Martin Fowler CQS - Command Query Separation - 2005](https://martinfowler.com/bliki/CommandQuerySeparation.html)
+
+[Event Sourcing](https://dzone.com/articles/introduction-to-event-sourcing) - see [Dzone EDA Microservices Best Practices](https://dzone.com/articles/best-practices-for-event-driven-microservice-archi)
+  - In Event Sourcing, updates and deletes are never performed directly on the data; rather, state changes of an entity are saved as a series of events.
+
+
+
 # RDD - Resilient Distributed Dataset
 - RDD, DataFrames and Datasets [Databricks](https://databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html)
 - RDD is a logical abstraction or an entire cluster (a dataset across your storage in partitions) in S3, HSDS

@@ -1,0 +1,12 @@
+
+/* model for data related Terms
+- note JSON doesn't have comments:
+Web Archive - Douglas Crockford
+https://web.archive.org/web/20150105080225if_/https://plus.google.com/+DouglasCrockfordEsq/posts/RK8qyGVaGSr
+
+*/
+
+{
+  pattern: CQRS // reference to pattern...
+
+}

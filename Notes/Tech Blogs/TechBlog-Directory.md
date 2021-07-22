@@ -20,11 +20,17 @@
 # Development
 - [DEV](https://dev.to/)
 
+## EDA
+- [Solace PubSub+ Cloud - used by GC CDXP](https://solace.com/resources/blogs)
+
 ## Messaginge
 - [RabbitMQ](https://blog.rabbitmq.com/)
 
 # Integrations
 - [Confluent - Kafka](https://www.confluent.io/blog/)
+
+# Vendors
+- [SolarWinds](https://thwack.solarwinds.com/)
 
 # Government
 
@@ -34,6 +40,9 @@
 
 ### USA - Government?
 - [USA Learning Lab](https://usaidlearninglab.org/)
+
+## UK
+[UK - Centre for Data Ethics and Innovation Blog](https://cdei.blog.gov.uk/2021/06/21/engaging-with-the-public-about-algorithmic-transparency-in-the-public-sector/)
 
 ## Canada
 - [TBS Canada](https://tbs-blog.canada.ca/en/unveiling-government-canadas-standards-apis)
@@ -53,3 +62,6 @@
 
 # System Integrators
 [Ernst & Young](https://www.ey.com/)
+
+# Major Companies
+[Walmart](https://medium.com/walmartglobaltech)

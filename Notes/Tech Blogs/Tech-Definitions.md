@@ -3,6 +3,8 @@
 
 API : An API (application programming interface) is a computing interface which defines interactions between multiple software intermediaries. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc.
 
+DAM : Digital Asset Management. Digital Asset Management software allows storing, organizing, accessing, cataloging, and retrieving of your digital asset or content. It adds metadata to each content and searches for digital files easy. It can deliver content on multiple devices in various formats. It can integrate with other external tools and platforms to provide services like sending bulk data to external partners in a secure way.  (How does DAM relate to ECM and CMS?)
+
 
 
 # Persistent URL

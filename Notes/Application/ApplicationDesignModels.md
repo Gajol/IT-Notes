@@ -4,6 +4,7 @@ Event Driven Architecture - EDA
 - [The Queue vs the Log](https://jack-vanlightly.com/blog/2018/5/20/event-driven-architectures-the-queue-vs-the-log)
 - https://jack-vanlightly.com/blog/2018/5/21/event-driven-architectures-queue-vs-log-case-study
 - [Eventual Consistency](https://en.wikipedia.org/wiki/Eventual_consistency) vs ACID
+- [IBM Architectural Blueprint for EDA - Microservices systems](https://developer.ibm.com/depmodels/microservices/articles/eda-and-microservices-architecture-best-practices/)
 
 ## EDA Problems
 - see [Dzone Article](https://dzone.com/articles/best-practices-for-event-driven-microservice-archi)

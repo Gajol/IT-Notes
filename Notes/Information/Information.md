@@ -9,6 +9,7 @@ PURL
 Resilient URL
 Cool URL (old!)
 Link Rot
+[CleanURL](https://en.wikipedia.org/wiki/Clean_URL)
 
 [OMB Circular No. A–130, ‘Managing Information as a Strategic
 Resource’](https://www.cio.gov/policies-and-priorities/circular-a-130/) provides policy and guidelines for [ revised policy - A-130](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf):
@@ -77,3 +78,10 @@ Report
 - [2016 Strategy](https://chcoc.gov/content/federal-cybersecurity-workforce-strategy)
 
 - [2016 - Obama Cybersecurity National Action Plan - CNAP ](https://obamawhitehouse.archives.gov/the-press-office/2016/02/09/fact-sheet-cybersecurity-national-action-plan)
+
+
+# VEndor Bandwagon
+
+Socrate - enables governments to use data as a strategic asset.  Used by NY for Transportation.
+https://www.tylertech.com/products/socrata
+"help you identity trends and make the best decisions"

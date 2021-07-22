@@ -38,6 +38,17 @@ An important function of configuration management is defining the state of each 
 
 Configuration management is closely associated with change management, and as a result, the two terms are sometimes confused. Configuration management is most readily described as the automation, management, and maintenance of configurations at each state, while change management is the process by which configurations are redefined and changed to meet the conditions of new needs and dynamic circumstances.
 
+# DevOps Tools & Chain
+
+[Travis-CI](https://travis-ci.org/) - The simplest way to test and deploy your projects.
+
+# Agile
+
+Agile Manifesto
+
+Backlog Grooming
+
+Architecture Decision Logs - https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions
 
 # spotify
 DevOps : small, autonomous developer teams

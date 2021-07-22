@@ -6,6 +6,8 @@ This article discusses API management, some API management vendors and open-sour
 - [API Management](./API-Terms.md)
 </details>
 
+*Like a breaker panel for your services*
+
 ## Overview
  API management is the process of creating and publishing web application programming interfaces (APIs), enforcing their usage policies, controlling access, nurturing the subscriber community, collecting and analyzing usage statistics, and reporting on performance. API Management components provide mechanisms and tools to support developer and subscriber community ([Wikipedia - API Management](https://en.wikipedia.org/wiki/API_management))
 

@@ -15,3 +15,9 @@ An expression indicating that people should be chosen for jobs or roles based on
 
 "If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization."
   - [Gerald Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg)
+
+"In real open source, you have the right to control your own destiny." - Linus Torvalds
+
+
+
+  "I don't lack emotion, I just process it differently. "

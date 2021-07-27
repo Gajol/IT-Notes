@@ -115,3 +115,44 @@ NIST usability considerations/guideliness with identity and authentication:
 - consistent experience between IdP and RP
 - communication
 - help, training
+
+
+# Decisions to Make
+
+Architecture
+1. Architecture Model:  Modular Monolith -> Microservices
+  - Why?  We are not ready for DevOps, Microservices and Containers.   We need to strategically plan for a DevOps workforce.  This requires a culture change (DevOps are empowered to choose and approve technology and deploy this production, compared to our multi-branch approach to technology IT, IM, IS).  Microservices require other toolsets to provide Observability.   Departments are re-organized around a DevOps culture.  ETC...
+  - agility -> {modularity, deployability, testability} : We need to have modular, deployable components which can be tested, all in an automated manner.
+  - new roles result from a DevOps mantra - (see email to Stevens ************)
+1. Synchronous or Asynchronous Communication
+1. Queues (ESB, API Gateway) vs Topics (Pub, Sub)
+   - ETL, scheduled jobs (find scheduling blog...)
+1. Data Model (High, Low)
+1. Business Process - Ux High, Ux Low.
+1. DCI Models - K-anonymity (reference UK GOV Multi-Party Computation / FHE)
+   - Pattern: PCI Payment Card Industry - 2 different business parties (vs our same parties, different data on different networks, one process)
+1. Major Components
+   - High Side Data Model and API's (Guideline : Expose via APIs)
+   - Low Side Data Model and API's
+   - integration points
+
+*Never shoot for the best architecture, but rather the least worst architecture.*
+- Iterative: This suggests that architects should strive to design architecture to be as iterative as possible. If you can make changes to the architecture more easily, you can stress less about discovering the exact correct thing in the first attempt.
+ - Agile Software Development: One of the most important lessons of Agile software development is the value of iteration; this holds true at all levels of software development, including architecture.
+
+- Future Iterations:  API's -> API Gateways -> Pub/Sub Topics
+  - How can you move from API's to Pub/Sub?
+    - script through data model to publish all existing data.
+    - service-layer pub's new events...
+
+
+
+  explicit and implicit characteristics (from OReilly Fundamentals of Software Architecture)
+  - explicit: appear in requirements
+    - no requirements, but assume "DCI" is one, and DG HR "benefits of SaaS"
+    - privacy, security,
+    - accessibility, usability, ...
+    - interoperability (legacy apps, IdAM) ?
+  - implicit: derived from experience and knowledge
+    - availability
+    - security

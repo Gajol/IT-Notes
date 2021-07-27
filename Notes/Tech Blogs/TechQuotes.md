@@ -20,4 +20,13 @@ An expression indicating that people should be chosen for jobs or roles based on
 
 
 
-  "I don't lack emotion, I just process it differently. "
+"I don't lack emotion, I just process it differently. "
+
+Architecture
+*Architecture is the stuff you can’t Google.* (Mark Richards)
+*There are no right or wrong answers in architecture—only trade-offs.*
+*Programmers know the benefits of everything and the trade-offs of nothing. Architects need to understand both* - Rich Hickey creator of Clojure
+
+*A system is never the sum of its parts. It is the product of the interactions of its parts.*[Dr Russell Ackoff - pioneer  in the field of operations research, systems thinking and management science.](https://en.wikipedia.org/wiki/Russell_L._Ackoff)
+
+*Never shoot for the best architecture, but rather the least worst architecture.*

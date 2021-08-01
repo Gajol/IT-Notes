@@ -45,3 +45,9 @@
 
 # Platforms
 1. [Chromium - Google ](https://www.chromium.org/)
+
+
+# universities
+
+- [Cornell - Arxiv](https://arxiv.org/)
+- [Harvard Technoloyg Review](https://hbr.org/topic/technology)

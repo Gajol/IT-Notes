@@ -11,3 +11,11 @@ The Hershey Company
 
 
 Never shoot for the best architecture, but rather the least worst architecture.
+
+If I had an hour to solve a problem I’d spend 55 minutes thinking about the problem and 5 minutes thinking about solutions. — Albert Einstein
+
+Software development is a learning process; working code is a side effect. - Alberto Brandolini1 Event Storming. See also [O'Reilly Design It! - Event Storming Chapter](https://learning.oreilly.com/library/view/design-it/9781680502923/f_0132.xhtml)
+
+Any intelligent fool can make things bigger, more complex, and more violent.  It takes a touch of genius - ad a lot of courage to move in the opposite direction. - Erns F. Schumacher (Development Economist & Statistician)
+
+Organizations which design systems … are constrained to produce designs which are copies of the communication structures of these organizations. - Melvin Conway 1960's

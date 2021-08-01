@@ -17,7 +17,7 @@ The goal of software architecture is to minimize the human resources required to
 Modes / Dev Methodologies
 - test-driven development (TDD)
 
-PHrases
+Phrases
 - cleanliness of the
 - the structure of the design
 - good, clean, well-designed code matters,

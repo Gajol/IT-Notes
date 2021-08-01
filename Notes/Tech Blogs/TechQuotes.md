@@ -30,3 +30,5 @@ Architecture
 *A system is never the sum of its parts. It is the product of the interactions of its parts.*[Dr Russell Ackoff - pioneer  in the field of operations research, systems thinking and management science.](https://en.wikipedia.org/wiki/Russell_L._Ackoff)
 
 *Never shoot for the best architecture, but rather the least worst architecture.*
+
+*Maintainability is inversely proportional to the number of public classes, dependencies and microservices - Simon Bronw (Modular Monolith)

@@ -4,6 +4,9 @@ why to not use markdown.
 - one sentence per line (https://news.ycombinator.com/item?id=4642395)
 - or one line < 80chars?
 
+# Markdown & Pandoc
+[multiple files / links:](https://stackoverflow.com/questions/4779582/markdown-and-including-multiple-files#5529508)
+
 # Antora
 The multi-repository documentation site generator for tech writers who love writing in AsciiDoc.
 - Enforces a clear and consistent separation of text content and supporting assets (such as images, videos, and code).
@@ -80,3 +83,9 @@ Jekyll, Hugo, Sculpin, Gatsby
 
 
 - [surge.sh](https://surge.sh/) - Surge has been built from the ground up for native web application publishing and is committed to being the best way for Front-End Developers to put HTML5 applications into production.  (Cloud only)
+
+
+
+# Tools
+
+ASIN (Amazon) to ISBN : https://www.asinlist.com/asin-to-ISBN/

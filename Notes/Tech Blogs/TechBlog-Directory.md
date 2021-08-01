@@ -6,6 +6,13 @@
 - [Pintrest](https://medium.com/@Pinterest_Engineering)
 - [Spotify Engineering](https://engineering.atspotify.com/)
 
+## FAANG
+- [Facebook](https://engineering.fb.com/)
+- [Amazon AWS](https://aws.amazon.com/fr/blogs/aws/)
+- [Apple](https://developer.apple.com/)
+- [Netflix](https://netflixtechblog.com/)
+- [Google](https://developers.googleblog.com/)
+
 # Tech Blogs & Podcasts
 [The New Stack](https://thenewstack.io/podcasts/)
 
@@ -19,15 +26,20 @@
 
 # Development
 - [DEV](https://dev.to/)
+- [read write](https://readwrite.com/)
 
 ## EDA
 - [Solace PubSub+ Cloud - used by GC CDXP](https://solace.com/resources/blogs)
 
-## Messaginge
+## Messaging
 - [RabbitMQ](https://blog.rabbitmq.com/)
+
 
 # Integrations
 - [Confluent - Kafka](https://www.confluent.io/blog/)
+
+# Skills / Learning
+- [OReilly](https://www.oreilly.com/radar/)
 
 # Vendors
 - [SolarWinds](https://thwack.solarwinds.com/)
@@ -56,6 +68,9 @@
   - https://castbox.fm/channel/Masters-of-Data-Podcast-id3775349?country=ca
   - https://www.greaterthancode.com/
 
+
+
+
 # Standards Organizations
 [The Open Group](https://blog.opengroup.org/)
 
@@ -65,3 +80,8 @@
 
 # Major Companies
 [Walmart](https://medium.com/walmartglobaltech)
+
+# News / Not Technology Blogs
+[BBC Technology](https://www.bbc.com/news/technology)
+[NYT](https://www.nytimes.com/section/technology)
+[Washington Post](https://www.washingtonpost.com/business/technology/)

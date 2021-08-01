@@ -148,6 +148,10 @@ Some Architecture Characteristics
 |Cross-Cutting|Interoperability|
 |Cross-Cutting|
 
+See __[Wikipedia Software Quality Attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes). "*Within systems engineering, quality attributes are realized non-functional requirements used to evaluate the performance of a system. These are sometimes named "ilities" after the suffix many of the words share. They are usually Architecturally Significant Requirements that require architects' attention.*" [referenced in Neal Ford's presentation 2017](http://nealford.com/downloads/Evolutionary_Architectures_by_Neal_Ford.pdf)
+
+An evolutionary architecture supports incremental, guided change as a first principle across multiple dimensions. [referenced in Neal Ford's presentation 2017](http://nealford.com/downloads/Evolutionary_Architectures_by_Neal_Ford.pdf)
+
 ## Functional suitability
 This characteristic represents the degree to which a product or system provides functions that meet stated and implied needs when used under specified conditions. This characteristic is composed of the following subcharacteristics:
 
@@ -180,10 +184,47 @@ Domain Concerns:
 
 
 # 6. Measuring and Governing Architecture Characteristics
-Architects deal with a wide variety of architecture characterists across different aspects of software projects:
+Architects deal with a wide variety of architecture characteristics across different aspects of software projects:
  - operational aspects: performance, elasticity, scalability, observability.
 
  Difficult to measure architecture since:
- - characterists have vague meanings : performance vs capacity vs elasticity
- - common defiitions and understandings are rare across developers, architects and operations
+ - characteristics have vague meanings : performance vs capacity vs elasticity.
+ - common definitions and understandings are rare across developers, architects and operations
  - composite characteristics : some characteristics can be de-composed into other ones (e.g. agility -> {modularity, deployability, testability})
+
+## Operational Measures
+Many flavours of performance:
+- response time (average less than 1sec), but what about outliers and the impact of a few slow response times to the overall system
+   - Ux norm of showing user-interface "sign of progress" within 0.5s otherwise user experience diminishes
+   - Page Weight budget for faster load times [k-weight budgets](K-weight budgets). A page weight budget is literally a budget of how much a webpage can weigh. Not in grams of course, but in kilobytes or megabytes of files. Specifically, it is the size of files transferred over the internet when a webpage is loaded.  Base definitions on statistical analysis.
+
+## Structural Measures
+- Structural characteristics like well-defined modularity.  
+- Comprehensive tools for code quality do not exists.  Some tools do exist:
+  - Cyclometric Complexity (CC): CC is a code-level metric designed to provide an object measure for the complexity of code, at the function/method, class, or application level, developed by Thomas McCabe, Sr., in 1976.  Applies graph theory to code.
+- Some code measures:
+  - lines of code,
+  - number of parameters,
+  - cyclomatic complexity,
+  - cyclomatic density,
+  - Halstead complexity measures,
+  - the maintainability index,
+  - first-order density,
+  - change cost and
+  - core size.
+  - see [../Assets/software_design_complexity.pdf]
+
+### Static Code Analysis Tools
+|Language|Tool|Comments|
+|--|--|--|
+|JavaScript|[JSHint](https://jshint.com/)||
+|Java|[Crap4J](http://www.crap4j.org/)|CRAP - Change Risk Analysis and Predictions|
+|Java|[ArchUnit](https://www.archunit.org/)|[Examples](https://github.com/TNG/ArchUnit-Examples|)
+
+## Process Measures
+Some architectural characteristics (e.g., agility) intersect with software development processes.   Agility can be decomponsed into features such as testability, observability and deployability:
+- testability: Testability is measurable through code coverage tools for virtually all platforms that assess the completeness of testing
+- observabilty: Observability is tooling or a technical solution that allows teams to actively debug their system. Observability is based on exploring properties and patterns not defined in advance.  [Google - DevOps measurement - Monitoring and Observability](https://cloud.google.com/architecture/devops/devops-measurement-monitoring-and-observability)
+- deployability: Teams can measure deployability via a variety of metrics: percentage of successful to failed deployments, how long deployments take, issues/bugs raised by deployments, and a host of others
+
+[See Neal Ford's Presentation with List of Quality Attributes](http://nealford.com/downloads/Evolutionary_Architectures_by_Neal_Ford.pdf)

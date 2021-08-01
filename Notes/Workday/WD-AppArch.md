@@ -50,7 +50,7 @@ What are HRMIS attributes?
 - role
 - gender
 - Supervisor
-- language qualitifications
+- language qualifications
 - visible minority, indigenous, ...  (what is outcome of Queen's issue in 2021-06 where they may/may not have accepted people as indigenous without any investigation?)
 
 ### De-Identification  
@@ -156,3 +156,15 @@ Architecture
   - implicit: derived from experience and knowledge
     - availability
     - security
+
+# Approach - To Think About
+
+"Risk-driven architecture" - [Just enough software architecture - George Fairbanks - 2010](https://www.georgefairbanks.com/book/ - ISBN 978-0-9846181-0-1
+- risk-driven architecture : No meticulous designs when risks are small, nor excuse for sloppy designs when risks threaten project success
+- democratizes architecture - make architecture relevant to software developers (not just architects)
+- cultavates *declarative* language - The difference between procedure knowledge (knowing how) and declarative knowledge (knowing why)
+- emphasises engineering - what developers do to ensure the system works - it's engineering - principled design tradeoffs.
+
+# To Read / Think About
+
+Building Data Pipeline - kinda dull, but has a DW and the key aspects - https://readwrite.com/2021/07/27/building-a-big-data-pipeline-the-right-way/

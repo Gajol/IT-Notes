@@ -20,9 +20,16 @@
 - [DataStax - NoSQL](https://www.datastax.com/blog)
 - [DataBricks - Spark](https://databricks.com/blog)
 
+## Data Science
+- [Anaconda](https://www.anaconda.com/blog)
+
 # Access Management
 - [Okta](https://www.okta.com/blog)
 - [Keycloak](https://www.keycloak.org/blog)
+
+# Collaboration, Messaging, SMS, ...
+- [Twilio](https://www.twilio.com/blog)
+
 
 # Development
 - [DEV](https://dev.to/)

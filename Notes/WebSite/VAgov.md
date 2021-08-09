@@ -30,5 +30,5 @@ https://www.oit.va.gov/Services/TRM/ToolPage.aspx?tid=9533
 
 (see Keep notes - July 20)
 (va.gov - good software catalog)
-OBM VA Investments ($1bn's) https://itdashboard.gov/drupal/summary/029
+OMB VA Investments ($1bn's) https://itdashboard.gov/drupal/summary/029
 Design Guide - https://www.oit.va.gov/design-guide/

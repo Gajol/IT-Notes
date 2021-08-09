@@ -6,3 +6,6 @@ When one uses open source, they must also ensure they stay up-to-date of vulnera
 1. [Equifax - 2017 - Apache Struts](https://securitystudio.com/top-7-vendor-related-breaches-of-all-time/).  $1.38Bn USD settlement by Equifax [[ref-NYT](https://int.nyt.com/data/documenthelper/1484-proposed-equifax-data-breach-s/cd3e6bc513a9ba71c129/optimized/full.pdf#page=1)]. The hackers exploited a vulnerability in the open-source software Apache Struts, which is a tool used for building web applications. Equifax used Apache Struts to support its online dispute portal – the place, where the company’s customers log issues with their credit reports.
 1. [Heartbleed 2014 - OpenSSL](https://heartbleed.com/)
 1. [Apple SSL Code - IF {} GOTO - SSLVerifySignedServerKeyExchange](https://news.ycombinator.com/item?id=7281378)
+
+## Vulnerabilities:
+1. [Open Source Software Attack on Apple, Tesla and Paypal - Supply Chain, Package Naming](https://9to5mac.com/2021/02/10/security-researcher-hacks-apple-tesla-paypal-more-in-clever-open-source-software-attack/).  See [Twilios Analysis and Resolution](https://www.twilio.com/blog/avoiding-dependency-confusion-attacks)

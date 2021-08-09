@@ -17,8 +17,12 @@
 - [CPO Management - Singapore](https://www.cpomagazine.com/) : data protection, privacy and cyber security professionals
 - [Programmable Web](https://www.programmableweb.com/)
 
+## FAANG Open Source Contributions
+[Netflix](https://netflix.github.io/)
+
 # Commerce
 - [The Future of Commerce](https://www.the-future-of-commerce.com/) [Post Pendemic Trends](https://www.the-future-of-commerce.com/2020/12/03/2021-customer-service-trends/)
+- [Strategy + Business](https://www.strategy-business.com/)
 
 # Data
 - [mode](https://mode.com) - Collaborative Data Science Platform
@@ -36,7 +40,9 @@
 - [Verizon Verizon Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/dbir/)
 
 ## Governments
-[UK NCSC - National Cyber Security Centre](https://www.ncsc.gov.uk/) - [Useful Filter Results Search](https://www.ncsc.gov.uk/section/advice-guidance/all-topics?allTopics=true&topics=access%20control&sort=date%2Bdesc)
+- [UK NCSC - National Cyber Security Centre](https://www.ncsc.gov.uk/) - [Useful Filter Results Search](https://www.ncsc.gov.uk/section/advice-guidance/all-topics?allTopics=true&topics=access%20control&sort=date%2Bdesc)
+- [Statistics Canada - StatsCan](https://github.com/StatCan)
+  - [StatsCan - DAaaS - Kubernetes - KubeFlow](https://github.com/StatCan/daaas)
 
 
 # Cyber Security
@@ -45,6 +51,13 @@
 
 # Platforms
 1. [Chromium - Google ](https://www.chromium.org/)
+
+# Professional Services
+- [Deloitte Tech Trends](https://www2.deloitte.com/us/en/insights/focus/tech-trends.html)
+- KPMG
+- [Price Waterhouse Cooper (PWC)](https://www.pwc.com/)
+
+- [McKinsey](https://www.mckinsey.com/)
 
 
 # universities

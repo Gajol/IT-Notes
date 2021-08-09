@@ -35,3 +35,8 @@ Conclusion
 Having a firm understanding of the role and value of architectural levels is key for creating effective models and diagrams. After all, it is the function of the EA department to inform, guide and support change initiatives in an organization. If we boil it down, the way they achieve this is through productive communication, which means architects have the responsibility to get insights and information across to the wider business. That is as integral to their activity as is identifying these insights in the first place.
 
 By adopting the correct level of abstraction, i.e. the one most relevant to their audience’s background and the task at hand, the EA team ensures their deliverables generate maximum impact. Whether managing an integration program following a merger, or looking to digitalize a number of organizational processes, adequately leveling and positioning your work is a vital step in creating a practice that addresses issues correctly and achieves the desired outcomes.
+
+
+EA and IT Portfolio Management
+![EA and IT Portfolio Management ](./Assets/Portfolio-Venn-Diagram.png)
+- see OneDrive ./Architecture/Enterprise/EA-and-IT-Portfolio-Management.pdf

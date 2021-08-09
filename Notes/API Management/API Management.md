@@ -77,6 +77,7 @@ Features:
 
 ## API Management vs Service Message
 - [Cloud Native Foundation - API Management vs Service Mesh](https://www.cncf.io/blog/2020/03/06/the-difference-between-api-gateways-and-service-mesh/)
+  - [O'Reilly Istio Explained](https://learning.oreilly.com/library/view/istio-explained) - uses the Envoy proxy
 - [CNF - Cheat Sheat API-M vs Service Mesh Cheat Sheet](https://konghq.com/blog/the-difference-between-api-gateways-and-service-mesh/#cheatsheet)
 
 ### History

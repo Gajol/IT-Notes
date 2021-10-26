@@ -32,3 +32,13 @@ https://www.oit.va.gov/Services/TRM/ToolPage.aspx?tid=9533
 (va.gov - good software catalog)
 OMB VA Investments ($1bn's) https://itdashboard.gov/drupal/summary/029
 Design Guide - https://www.oit.va.gov/design-guide/
+
+
+## Gital Transformation
+- [Inforgraph - Driving Digital Transformation 2020 Review VA Government](https://1drv.ms/b/s!AkwXSmFk-_xpgocvD4nUtVRiOrB6iw?e=GiEsmg)
+- [Dring Digital Transformation 2020 Review VA Government](https://1drv.ms/b/s!AkwXSmFk-_xpgocuwvs-rVi0J3N5rQ?e=YgJG38)
+  1. Exceptional Customer Service
+  1. IT Modernization
+  1. Strategic Sourcing
+  1. IT Workforce Transformation
+  1. Seamless and Secure Interoperability

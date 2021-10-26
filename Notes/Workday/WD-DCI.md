@@ -19,3 +19,19 @@ PET Used [UK CEID](https://cdeiuk.github.io/pets-adoption-guide/repository)
 - Trusted Execution Environment
 
 [data intermediaries](https://cdei.blog.gov.uk/2021/07/22/exploring-the-role-of-data-intermediaries-in-supporting-responsible-data-sharing/): Each time data is shared, accessed, used or protected, a number of stewardship activities would typically take place at the intersection of the data sharing and access journeys. They can include, for example, finding data that is fit-for-purpose, managing transfers and usage rights, and ensuring that the right protections are in place.
+
+# DCI - So What?
+The DCI proces sis well underway.  Although the DCI is neither finalized, nor is it complete for the full HR business capability model, nor based on the end-state HR data model, many impacts can be derived from the current state of the DCI process.
+
+1. PII information is not permitted on the SaaS (low-side)
+1. Technology to mitigate the PII-data on the low-side will be required
+1. Technology to allow people to look-up / reverse-lookup PII-data will be required
+1. Technology on the high-side (custom coded - non-SaaS) will be required to support HR business processes
+
+The business processes, information flows, and business value streams are not currently shared with IT.  It is foreseeable that:
+1. Business processes will likely require a high and low-side component.  
+1. Business processes will likely result in KVM switches (low->high and high->low), and, in wait-times/delays in information being available for business processes.
+1. The end-user experience of business users will be impacted.
+
+## Decisions
+1. Identity:  It is currently unknown what identity will be used on the SaaS-WD module.  The decision is whether the UC-identity is used, or if an alternate-identity is used.   An additional identity to for users to manage will impact many factors of how they interact with the HR modernization solution.

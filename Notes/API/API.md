@@ -1,5 +1,5 @@
 
-
+# Amazon API Mandate (https://api-university.com/blog/the-api-mandate/ )
 # Compatibility
 [LinkedIn Compatibility Checker](https://linkedin.github.io/rest.li/modeling/compatibility_check) - discussed in LinkedIn's [Data Hub open source](https://engineering.linkedin.com/blog/2019/data-hub)
 

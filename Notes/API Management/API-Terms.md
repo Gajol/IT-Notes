@@ -35,3 +35,8 @@ comes from *declarative programming* where in declarative programming, developer
   - Rather than managing workloads at an application-level, they can now be broken down into small, ephemeral pieces. When a service becomes unavailable, another simply takes its place — when the need to scale occurs, distributed file systems allow multiple nodes to work in harmony, providing more resources to the overall applications.
   - RESTful APIs provide a standardized, stateless architecture that allows us to integrate and automate these disparate and separate software solutions, bringing all applications down to a common ground.
   - Coupling this with abstracted management and operation layers, APIs provide a means to deliver a highly automated, scale-out solution. [ref: the new stack](https://thenewstack.io/the-declarative-power-of-apis/)
+
+
+affordance: A potential action that is made possible by a given object or environment; especially, one that is made easily discoverable.  The qualities or properties of an object that define its possible uses or make clear how it can or should be used.  [Roy Fielding - an author of HTTP specification, defined REST as key principle of WWW](https://en.wikipedia.org/wiki/Roy_Fielding).  See [Three Mental Models of APIs](https://mooreniemi.github.io/3_models_of_apis/#/) and [WADM - Web API Design Maturity Model](http://amundsen.com/talks/2016-11-apistrat-wadm/2016-11-apistrat-wadm.pdf)
+
+web api maturity model: [WADM](http://amundsen.com/talks/2016-11-apistrat-wadm/2016-11-apistrat-wadm.pdf) Database Centric -> Object Centric -> Resource Centric -> Affordance Centric .  See alse [3 Models of APIS - 2016](https://mooreniemi.github.io/3_models_of_apis)

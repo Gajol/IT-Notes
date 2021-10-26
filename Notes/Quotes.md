@@ -19,3 +19,11 @@ Software development is a learning process; working code is a side effect. - Alb
 Any intelligent fool can make things bigger, more complex, and more violent.  It takes a touch of genius - ad a lot of courage to move in the opposite direction. - Erns F. Schumacher (Development Economist & Statistician)
 
 Organizations which design systems … are constrained to produce designs which are copies of the communication structures of these organizations. - Melvin Conway 1960's
+
+"Today you are you, that is truer than true, there is no one alive that is youer than you." [Dr. Seuss]
+
+Doug Nielsen, "automation doesn't reduce the number of jobs, no more than LEDs save electricity, or, laundry machines freed our weekends...; like goldfish, humans expand to their environment."
+
+My favorite things in life don’t cost any money. It’s really clear that the most precious resource we all have is time. – Steve Jobs
+
+Wisdom the Wisdom the difference between the things we can change, the things that we can't and the things that we shouldn't.

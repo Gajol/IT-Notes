@@ -16,6 +16,10 @@
 - [Protocol](https://www.protocol.com/) : USA politics and technology.
 - [CPO Management - Singapore](https://www.cpomagazine.com/) : data protection, privacy and cyber security professionals
 - [Programmable Web](https://www.programmableweb.com/)
+- [Microservices, Software Architecture - Fowler](https://www.martinfowler.com/microservices/)
+
+## Integrators & iPaaS
+- [Mulesoft Blog](https://blogs.mulesoft.com/bloghome/)
 
 ## FAANG Open Source Contributions
 [Netflix](https://netflix.github.io/)
@@ -45,15 +49,23 @@
   - [StatsCan - DAaaS - Kubernetes - KubeFlow](https://github.com/StatCan/daaas)
 
 
+
 # Cyber Security
 ## Dark Web
 - [The Dark Web Journal](https://darkwebjournal.com/)
+
+# Government
+
+## USA
+[USA Chief Data Office](https://www.cdo.gov/)
+- [USA Federal Data Stratey](https://www.cdo.gov/federal-data-strategy/)
+
 
 # Platforms
 1. [Chromium - Google ](https://www.chromium.org/)
 
 # Professional Services
-- [Deloitte Tech Trends](https://www2.deloitte.com/us/en/insights/focus/tech-trends.html)
+- [Deloitte Tech Trends](https://www2.deloitte.com/us/en/insights/focus/tech-trends.html) - [OneDrive](https://1drv.ms/u/s!AkwXSmFk-_xpgoZVgXXfOuIBHkkeuA?e=W3BDak)
 - KPMG
 - [Price Waterhouse Cooper (PWC)](https://www.pwc.com/)
 

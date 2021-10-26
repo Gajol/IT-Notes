@@ -99,6 +99,14 @@ Testing - QA
 
 # Application Architecture
 
+Invest in identity management and interoperability
+- identity management : how many identities will an employee have?
+
+
+## the GC guidance....
+open government : what datasets are we exposing open.canada.ca
+...
+
 
 # Risks
 

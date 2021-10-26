@@ -54,3 +54,28 @@ Architecture Decision Logs - https://cognitect.com/blog/2011/11/15/documenting-a
 DevOps : small, autonomous developer teams
 
 [Backstage](https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/)
+
+
+# Automation
+
+## Accenture - 4S Model
+Simple, Seemless, Scalable, Sustaibable.
+- [OneDrive - Accenture 4S Model Automation - 2021](https://1drv.ms/b/s!AkwXSmFk-_xpgocptgZ5ui1c7J7jcw?e=LDsK5l) - first step is to apply techniques like lean principles and six sigma.
+  - Simple : Make automation simple by identifying the right opportunities/use cases with the biggest impact to business
+  - Seamless : Make automation seam-less for use and adoption, so there is an ROI to the business
+  - Scalable : Make automation scalable across the enterprise so there is full realization of the automation value for the business
+  - Sustainable : Make automation sustainable and continuously evolving to ensure continuous value generation
+
+# Deployment
+- [Airbnb - Metric Deployment](https://medium.com/airbnb-engineering/airbnb-metric-computation-with-minerva-part-2-9afe6695b486)
+- [Airbnb - Scale - A/B Testing](https://medium.com/airbnb-engineering/how-airbnb-achieved-metric-consistency-at-scale-f23cc53dea70)
+
+
+## TO DO - Read / Absorb / ETC
+- 2012 Article: https://itrevolution.com/the-three-ways-principles-underpinning-devops/ - [OneDrive - 3 Principles of DevOps](https://1drv.ms/b/s!AkwXSmFk-_xpgoci2Ke4gezYoAf6xw?e=WDvG4h)
+  1. Systems Thinking - emphasize the performance of the entire system verus silos
+  1. Amplify Feedback Loops - process improvement goals to shorten feedback loops so corrections can be made
+  1. Culture - Continual Learning and Experimentation
+
+- 2021 - [Puppet - State of DevOps](https://1drv.ms/b/s!AkwXSmFk-_xpgocjvf4axw0SIKhuNQ?e=3vGOyw)
+- https://itrevolution.com/devops-culture-part-1/

@@ -45,18 +45,18 @@ Standard Structure
 
 - multi-repository document storage.  Git-literate. - playbook.yml (tells Antora where to get content)
 - content catalog - gets all files local (git fetch)
-- documentation have standard structure ROOT, assets, pages, partials, ... (good for wriers on many projects)
+- documentation have standard structure ROOT, assets, pages, partials, ... (good for writers on many projects)
 - versions stored on branches
 
 Git branch  (used by Couchbase I think) - version indicator dropdown
-- compoent description
+- component description
 
 source-to-source references :
 - resourceid:   version@component:module:family#path/to/resource.ext
   - page to page reference:  xref: [ resourceid ][text]
-- include::reosurceid[tag=why]
+- include::resourceid[tag=why]
 - content & UI separate
-  - UI is a different software project - common style accross all products
+  - UI is a different software project - common style across all products
   - content people just write documents
 - nav.adoc (referenced list)  
 

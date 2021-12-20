@@ -38,5 +38,14 @@ comes from *declarative programming* where in declarative programming, developer
 
 
 affordance: A potential action that is made possible by a given object or environment; especially, one that is made easily discoverable.  The qualities or properties of an object that define its possible uses or make clear how it can or should be used.  [Roy Fielding - an author of HTTP specification, defined REST as key principle of WWW](https://en.wikipedia.org/wiki/Roy_Fielding).  See [Three Mental Models of APIs](https://mooreniemi.github.io/3_models_of_apis/#/) and [WADM - Web API Design Maturity Model](http://amundsen.com/talks/2016-11-apistrat-wadm/2016-11-apistrat-wadm.pdf)
+- the qualities or properties of an object that define its possible uses or make clear how it can or should be used
+- *We sit or stand on a chair because those affordances are fairly obvious.* — Scott Lafee, San Diego Union-Tribune, 15 Aug. 1993
+- affordance (hypermedia): the qualities or properties of a representation that define its possible state changing transitions or make clear how it can or should be used to move to other program states.  the simultaneous presentation of information and controls such that the information becomes the affordance through which the user (or automaton) obtains choices and selects actions — Roy T. Fielding
+
+
 
 web api maturity model: [WADM](http://amundsen.com/talks/2016-11-apistrat-wadm/2016-11-apistrat-wadm.pdf) Database Centric -> Object Centric -> Resource Centric -> Affordance Centric .  See alse [3 Models of APIS - 2016](https://mooreniemi.github.io/3_models_of_apis)
+
+
+HATEOAS :
+[Hypermedia as the Engine of Application State](https://en.wikipedia.org/wiki/HATEOAS)

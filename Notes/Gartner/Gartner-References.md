@@ -22,6 +22,7 @@ A HIP must support:
   - digital integration hub  
 - cloud, on-premise, mixed/hybrid deployment models.
 
+[Gartner 2002 - Defining Architecture for IT - #109081](https://www.gartner.com/document/366198?ref=solrAll&refval=309270187) - Bricks, ...
 
 
 

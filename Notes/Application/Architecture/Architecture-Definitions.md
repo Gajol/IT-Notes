@@ -15,3 +15,12 @@ Technical Debt:
   - Technical debt is commonly associated with extreme programming, especially in the context of refactoring. That is, it implies that restructuring existing code (refactoring) is required as part of the development process. Under this line of thinking refactoring is not only a result of poorly written code, but is also done based on an evolving understanding of a problem and the best way to solve that problem.
   - Technical debt may also be known as design debt.
 - When taking short cuts and delivering code that is not quite right for the programming task of the moment, a development team incurs Technical Debt. This debt decreases productivity. This loss of productivity is the interest of the Technical Debt.[Technical Debt Metaphor - Agile Alliance](https://www.agilealliance.org/introduction-to-the-technical-debt-concept)
+
+Types of Architecture:
+The overall architecture of an enterprise can be described by four integrated sub-architectures. These are (reference [Sparx Systems](https://sparxsystems.com/enterprise_architect_user_guide/14.0/guidebooks/ea_types_of_architecture.html)):
+
+- Business Architecture
+- Information Architecture
+- Application Architecture
+- Technology Architecture
+- [+ Security, Privacy and Data]

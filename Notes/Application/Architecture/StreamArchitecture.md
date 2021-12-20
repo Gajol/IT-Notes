@@ -6,7 +6,7 @@ A streaming data architecture is a framework of software components built to ing
 
 
 ## Alternative - Legacy Pattern
-Batch Processiong : Also an ETL based pattern, but generally relies on creating a large batch-file from a source system (extract), transforming this large file (transform) and then loading the file (load) into one or more destination systems.   
+Batch Processing : Also an ETL based pattern, but generally relies on creating a large batch-file from a source system (extract), transforming this large file (transform) and then loading the file (load) into one or more destination systems.   
 
 General design challenges with the batch processing pattern are:
 - latency:  the ETL process by nature introduces latency as the entire source system is extracted, transformed and loaded.  

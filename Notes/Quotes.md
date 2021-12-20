@@ -27,3 +27,5 @@ Doug Nielsen, "automation doesn't reduce the number of jobs, no more than LEDs s
 My favorite things in life don’t cost any money. It’s really clear that the most precious resource we all have is time. – Steve Jobs
 
 Wisdom the Wisdom the difference between the things we can change, the things that we can't and the things that we shouldn't.
+
+John Madden [NFL], "3 rules, not many, since others had nothing to do with what we are trying to accomplish.  1) be on time, 2) pay attention and 3) play like hell."

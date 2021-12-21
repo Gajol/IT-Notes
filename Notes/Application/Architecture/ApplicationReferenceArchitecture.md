@@ -32,10 +32,12 @@ Architecture: [([from Google)](https://cloud.google.com/blog/products/applicatio
 Directives, Guidelines, Standards, Processes, Prodedures, ...
 
 
+# ------------------------------
 # Reference Architecture Outline:
 
 1. Forward
 1. introduction
+1. Guidelines
 1. Terms
 1. References
 1. Templates
@@ -50,6 +52,13 @@ Directives, Guidelines, Standards, Processes, Prodedures, ...
     - Focus on getting better not looking good
 # Introduction
 
+# Guidelines
+
+## UX Design
+- follow GC User Centric Design
+- see deisgn mothers for Ux - on CW - [UK 18F Methods](https://methods.18f.gov/) - referenced by GC standards - [18f technoloyg and design company - USA ](https://18f.gsa.gov/)
+- http://uxdesign.uw.edu/
+j -[Usability.gov - User Centric Design](https://www.usability.gov/what-and-why/user-centered-design.html)
 
 # Terms
 - Application:

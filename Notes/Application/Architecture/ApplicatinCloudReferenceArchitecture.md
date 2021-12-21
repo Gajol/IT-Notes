@@ -196,11 +196,12 @@ Design elements (principles/directives) :
       - single purpose, idempotent operation systems, no patching, no human hands
       - compliance as code, no misconfigurations of cloud resources
       - standardized delivery mechanisms : terraform, jenkins (but not multiple paths to delivery)
+
 Relevant technologies
       - kubernetes cluster configuration management (CCM) : policy driven cluster lifecycle management.  Not dependent on a person making a decision.  Well-defined enforced policies.
       - Kubernetes & Cloud Native services delivered via standardized operators
       - Continuous Compliance Engines integrated into pipelines, operators
-      - kubernetes worker node taints, strict isolation policies: manage infrastructure, very specific infrastructure for specific workloads
+      - kubernetes worker node [taints](https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/), strict isolation policies: manage infrastructure, very specific infrastructure for specific workloads
 
 ## Data Managmenent
       - most critical part of business.
@@ -209,6 +210,7 @@ Design elements:
         - all data in transit must be secured via a transport level security.  TLS regardless of the protocol.
         - all data transfers between clouds must traverse a clearinghouse. The clearinghouse inspects and secures the data through common approved patterns.  Public Cloud is more dangerous than Private Cloud.  Understanding what data is moving and where it is going is imperative to controlling and securing the data.   Clearinghouse interrogates data through technologies and potentially tokenizing / encrypting.
         - any in clear-processing must be done in memory with physical and logical isolation (see workload isolation)
+
 Relevant technologies:
         - data loss prevention tools for detection & scrubbing : ensures data is not residing unprotected
         - tokenization and encryption tools
@@ -221,6 +223,7 @@ Design elements:
       - service registration with service producers and consumer relationships : who is calling whom and the relationships.
       - service trust via tokens/certificates issued by trusted parties : PKI, token issuance
       - service isolation for APIs handling sensitive information : secure enclaves
+
 Relevant technologies:
       - Layer 3 Host & Pod network ingress/egress policies with Layer 7 API AuthN/Z via Mesh (authentication and contract between services )
       - __API Governance Portal__ with service registration, relationship identification & token issuance to each service (strict registration process so services are not thrown out into the world without governance)
@@ -233,6 +236,7 @@ Design elements:
       - Mutation of workloads with metadata based on application portfolios
       - physical & logical isolation of workloads based on application characteristics (e.g., sensitive data, PCI, Builds, R&D): based on this place into different segments, nodes, ...
       - Rejection of workloads that don't align to application portfolio metadata or label taxonomy
+
 Relevant Technologies:
       - APM for application metadata : central trust authority
       - K8s Mutating & Validating Admission Controllers to apply application metadata : teams do not apply their own metadata.  This is centralized (mutated and labelled) from what is provided.

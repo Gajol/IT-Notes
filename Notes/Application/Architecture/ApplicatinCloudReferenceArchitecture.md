@@ -147,7 +147,7 @@ In the target cloud architecture:
 Starting down the path to securing your workloads running on Kubernetes in the cloud can be a daunting task. There is no shortage of vendors with great tools in the cloud security space. There are a multitude of domains that must be accounted for, along with internal challenges in transitioning an organization into new ways of thinking. - Keith Nielsen, Director Cloud Architecture, Discover Financial Services (University of Manitoba Graduate).  Tiger.io.
 
 Notes:
-role : director of cloud arch.  Role (Discover 3 LOBs : Credit Card, Banking: Personal Lending (Studend and Personal), Payment Networks around globe (regulations))
+role : Director of Cloud Architecture.  Role (Discover 3 LOBs : Credit Card, Banking: Personal Lending (Student and Personal), Payment Networks around globe (regulations))
   - ensure we have a cloud strategy that articulates our position on public cloud adoption (vs private cloud) across all public cloud provides
   - governance and oversight for teams wishing to leverage the cloud : well architected and aligns to strategy across all cloud providers ultimately allowing us to deliver business value .
   - 5-years cloud, kubernetes (prior distributed platforms)
@@ -245,6 +245,7 @@ Design Elements:
 - __Least Privilege__: K8s platform administrators should not have access to application services (??>least privileges / two-person rule)
 - __PAM__: All administrative activities only through call after access with short lived tokens
 - __Enclaves__: Highly sensitive workloads must run in restricted environments with __no__ human access.  Locked-down.
+
 Relevant Technologies:  
 - __MFA__: MFA providers
 - __Secrets__: Externalization of secrets from K8s with secrets vault providers.  A principle is k8s secrets "arent' secret".  They are externalized with external vault providers.

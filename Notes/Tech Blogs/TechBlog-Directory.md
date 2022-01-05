@@ -75,7 +75,8 @@
   - https://castbox.fm/channel/Masters-of-Data-Podcast-id3775349?country=ca
   - https://www.greaterthancode.com/
 
-
+# businesses
+- [Micheline Tire - Driving Data to Intelligence - DDI](https://ddi.michelin.com/en/)
 
 
 # Standards Organizations

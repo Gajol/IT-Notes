@@ -24,7 +24,6 @@ TO LEARN / GOALS /
 TO DO
 - Snapshot of Ubuntu before noisy-apps are Installed
 - JS slide show (version.js ??)
-- Accessiblity C2 row key sequence
 - Take TripleByte test (May 31)
 - WebHook, vs WebService vs REST vs
 - data flow vs pipeline

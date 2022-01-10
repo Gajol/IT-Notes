@@ -29,3 +29,6 @@ My favorite things in life don’t cost any money. It’s really clear that the 
 Wisdom the Wisdom the difference between the things we can change, the things that we can't and the things that we shouldn't.
 
 John Madden [NFL], "3 rules, not many, since others had nothing to do with what we are trying to accomplish.  1) be on time, 2) pay attention and 3) play like hell."
+
+Jack Handey, I want to die peacefully in my sleep like my grandfather.  
+https://en.wikipedia.org/wiki/Jack_Handey

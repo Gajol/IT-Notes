@@ -1,5 +1,65 @@
+# Notes - Paper to Write-Up
+- GraphQL / RESTful
+- microservices,
+- REST HATEOAS
+- Scrum, LEAN, LEAN Six Sigma
+- Raman - Arch Bi-Lat 2021-12-16
+  1. HR mod
+  1. Ref Arch - mature organizations
+  1. Bricks
+  1. PB U/L
+  1. CMS / P-app
+  1. CMS - Drag & Drop
+  1. CBSA SSA
+  1. Partnership - Corey, Jackey Vanessa - SEL MERITAGE, OPSCOM  
+    - Guidebook Process, Principles
+    - IM, Access, IdM, ABAC, s.15 access control
+    - ICIS model / keystone model  
+    - Awareness of past, problmes, guide, problems it created, what to look out for
+    - adhere to principles
+    - ideas - Navita - c4model
+    - multi-security zone
+    - Amy said talk to Francis - Vision, Containers, AppDev, CI/CD
+    - Apps/Data - Arteryx
+    - Access Control - Hashicorp / Vault
+  1. CMS not deploying in March.   Vanessa said not ready.  Release Mangemetn Plan - not time driven, want more features.
+  1. UK Digital Services & Technoloyg (DST) Strategic Plan - 2018 - ICT Strategy 2018 - IaaC 23124
+  1. Google Zanzibar.  Lighthouse - measures site for accessibility.
+  1. OR - 3335 ORS by 1 person in 6 monhts.  Client of Intelligence - CAF
+  1. Task Management : What is solution?  Responded, who are the tasks being managed by (i.e., is the user-base within department or OGD - does solution need to cross air-gaps)
+  1. Raman: 4 Pillars:
+    - Consistencys: leverage same architecture, design patterns to help DEV drive consistency & future staff mentoring .
+    - Integrit, Robustness, Consistency
+    - Observability
+    - Data Driven Testability
+  1. Air Gap, DCI, On-Premise, Access Model (Case File, CodeName), eCDS, tokenization (Rube Goldberg idea of Workday)
+    - CMS, DL, P-App : LRS extract, visibility labels, system of record for entity
+    - Ref Arch : c4model
+    - Patterns: 5EE, EA, Fowler, ... , 12factores (web-app) SOLID, Design Pasterns - Booch, OWASP, CCCNS (CSE Cyber Centre)
+    - Patterns;  BFF / FE/BE, ..
+    - What affordances has our culture provided you?
+    - least wrong answer, most right answer : justification can be "developer experience"  
+    - Guidance: Courts, Classified Information, ...
+  1. Alpinist : Marc-Andre Leclerc
+  1. PPT - People, Process, Technology
+  1. Data-Sentinel
+- Upsolver, Snowflake ( Kafka, AWS Kenesis, ) -
+- Databricks (.../drive/...)
+- ../Downloads
+  - Data Sentinel - GRC / GPDR /
+  - Gartner - How_to_Document_Appl_750245_ndx.pdf  (../Downloads)
+  - Good-Cheap-Fast.jpg (../Downloads)
+  - 2017 - Martin Kleppmann Designing Data-Intensive Applications(2017)
+  - Dataiku-DataLabelling.pdf
+1. NIH (Raman shared 2018 strategy) - more surfing:
+   - [ NIH - EA Management as a Solution for Big Data 0 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7813431/pdf/10257_2020_Article_500.pdf) - [NIH EA - Persisent Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7813431/)
+   - [NIH EA - dated 1995 - 2003](https://ocio.nih.gov/ITGovPolicy/Pages/Enterprise-Architecture.aspx)
+   - [NIH Accessiblity - Section 508](https://ocio.nih.gov/ITGovPolicy/NIH508/Pages/default.aspx): The NIH Office of the Chief Information Officer (OCIO) is responsible for the oversight of the Section 508 program at NIH. �Section 508� refers to an amendment that was added to an existing law -- the Rehabilitation Act of 1973 � that requires all electronic and information technology (EIT) that is developed, procured, maintained, or used by the Federal government be accessible to people with disabilities.
+   - [NIH - EA](https://hr.nih.gov/working-nih/competencies/competencies-dictionary/enterprise-architecture) - Key Behaviours: ....
+   - [NIH EA Search Results](https://search.nih.gov/search?affiliate=nih&query=%22enterprise+architecture%22)
 
 
+# TO DO
 - [ ] : Enterprise Reference Architectures
 - [ ] : Enterprise Application Reference Architecture
 - [ ] : [c4model](https://c4model.com/) - system __c__ontext, __c__container, c__omponent, __c__ode

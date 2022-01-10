@@ -86,3 +86,7 @@ References
   = IdP - Identity Provider, Subscriber, Relying Party (RP)
   - ? Authenticator ?
   - SAML, Kerberos and oAuth examples
+
+
+# Terms
+Identity: “Identity is the critical point when you are thinking about connecting people and technology,” said McKinnon. “In the post-firewall world, we need to be able to free our technology from the datacenter. Everything today is connected. The value that all these identity connections have to the people that use them is now a component of business value itself. As we approach the point where data becomes an identifiable unit on the corporate balance sheet, identity will help validate that information value.” - [[CEO Okta - Todd McKinnon 2018]](https://www.forbes.com/sites/adrianbridgwater/2018/04/04/inside-privacy-okta-ceo-takes-hardcore-line-on-identity-management)

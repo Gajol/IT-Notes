@@ -12,10 +12,7 @@ functional programming
 
 
 ## Language Features
-
-
-lambda function
-[anonymous function](https://en.wikipedia.org/wiki/Anonymous_function) - Anonymous functions have been a feature of programming languages since Lisp in 1958, and a growing number of modern programming languages support anonymous functions. [also known as: function literal, lambda abstraction, lambda function, lambda expression or block]
+fu
 
 ## python
 
@@ -41,3 +38,11 @@ back-end
 
 
 # JavaScript Frameworks
+
+
+# What language to uses
+
+| Reason / Workload / ... | Note |
+|--|--|
+|OOP Friction|NoSQL - Schemaless.  For me, the real benefit of dynamic schema is the lack of setup and the reduced friction with OOP. This is particularly true when you're working with a static language. I've worked with MongoDB in both C# and Ruby, and the difference is striking. Ruby's dynamism and its popular ActiveRecord implementations already reduce much of the object-relational impedance mismatch. That isn't to say MongoDB isn't a good match for Ruby, it really is. Rather, I think most Ruby developers would see MongoDB as an incremental improvement, whereas C# or Java developers would see a fundamental shift in how they interact with their data. [Flexlbile Schema - The Little MongoDB Book](https://github.com/karlseguin/the-little-mongodb-book/blob/master/en/mongodb.markdown)|
+|Logging|Logs can take advantage of schema-less collections.  MongoDB writes can return quickly, can control durability [Little Book ](https://github.com/karlseguin/the-little-mongodb-book/blob/master/en/mongodb.markdown#writes).  Capped collections, by size, and automatically deletes older documents in collection|

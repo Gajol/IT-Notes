@@ -87,3 +87,58 @@ sudo apt install net-tools
 1. MongoDB Learning
   1. Mongodb *sudo apt install mongod*  
   1. see ../Data/MongoDB.md
+
+
+1. Python (via [Google Cloud](https://cloud.google.com/python/docs/setup#linux))
+  1. Install python
+  ```sh
+  sudo apt update
+  sudo apt install python3 python3-dev python3-venv
+  ```
+  1. Install pip (package installer for python )
+  ```sh
+  wget https://bootstrap.pypa.io/get-pip.py
+  sudo python3 get-pip.py
+  ```
+  *WARNING: Running pip as root will break packages and permissions. You should install packages reliably by using venv: https://pip.pypa.io/warnings/venv*
+  1. venv : venv is a tool that creates isolated Python environments. These isolated environments can have separate versions of Python packages, which allows you to isolate one project's dependencies from the dependencies of other projects. We recommend that you always use a per-project virtual environment when developing locally with Python.
+  ```sh
+  pip install virtualenv
+  cd your-project
+  python3 -m venv env
+  source env/bin/active
+  ```
+
+  1. Install [numpy](https://numpy.org/install/) - [NumPy Documentation](https://numpy.org/doc/stable/)
+  ```sh
+  pip install numpy
+  ```
+
+  1. Install matplotlib
+  ```sh
+  pip install matplotlib
+  ```
+
+  1. Install python toolkit for gui display [ref](https://stackoverflow.com/questions/56656777/userwarning-matplotlib-is-currently-using-agg-which-is-a-non-gui-backend-so)- this fixes the following warning: *UserWarning: Matplotlib is currently using agg, which is a non-GUI backend*
+  ```sh
+  sudo apt-get install python3-tk
+  ```
+
+# Jan 2022
+Github Pages - to have public website
+Work with Jekyll.  Therefore install [Jekyll](https://jekyllrb.com/docs/installation/ubuntu/).
+
+``` sh
+# install ruby
+sudo apt-get install ruby-full build-essential zlib1g-dev
+
+# create ruby gem directory
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+
+# install Jekyll
+# I did not install via bundler ( https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
+gem install jekyll bundler
+```

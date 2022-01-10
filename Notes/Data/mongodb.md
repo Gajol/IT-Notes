@@ -9,6 +9,7 @@
 - [MongoDB - Data Modelling](https://docs.mongodb.com/manual/core/data-modeling-introduction/)
 
 - [MongoDB Official Group - Community](https://developer.mongodb.com/community/forums/) & [MongoDB link - redirects to Community](https://community.mongodb.com)
+  - [MongoDB University](https://developer.mongodb.com/community/forums/c/university/19)
 
 # MongoDB Terms
   - database

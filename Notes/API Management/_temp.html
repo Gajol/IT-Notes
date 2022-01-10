@@ -1,0 +1,1001 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>@font-face {
+  font-family: octicons-link;
+  src: url(data:font/woff;charset=utf-8;base64,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) format('woff');
+}
+
+.markdown-body {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  color: #333;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
+.markdown-body a {
+  background-color: transparent;
+}
+
+.markdown-body a:active,
+.markdown-body a:hover {
+  outline: 0;
+}
+
+.markdown-body strong {
+  font-weight: bold;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+.markdown-body img {
+  border: 0;
+}
+
+.markdown-body hr {
+  box-sizing: content-box;
+  height: 0;
+}
+
+.markdown-body pre {
+  overflow: auto;
+}
+
+.markdown-body code,
+.markdown-body kbd,
+.markdown-body pre {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+.markdown-body input {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+.markdown-body html input[disabled] {
+  cursor: default;
+}
+
+.markdown-body input {
+  line-height: normal;
+}
+
+.markdown-body input[type="checkbox"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.markdown-body td,
+.markdown-body th {
+  padding: 0;
+}
+
+.markdown-body * {
+  box-sizing: border-box;
+}
+
+.markdown-body input {
+  font: 13px / 1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.markdown-body a {
+  color: #4078c0;
+  text-decoration: none;
+}
+
+.markdown-body a:hover,
+.markdown-body a:active {
+  text-decoration: underline;
+}
+
+.markdown-body hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.markdown-body hr:before {
+  display: table;
+  content: "";
+}
+
+.markdown-body hr:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  line-height: 1.1;
+}
+
+.markdown-body h1 {
+  font-size: 30px;
+}
+
+.markdown-body h2 {
+  font-size: 21px;
+}
+
+.markdown-body h3 {
+  font-size: 16px;
+}
+
+.markdown-body h4 {
+  font-size: 14px;
+}
+
+.markdown-body h5 {
+  font-size: 12px;
+}
+
+.markdown-body h6 {
+  font-size: 11px;
+}
+
+.markdown-body blockquote {
+  margin: 0;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body ol ol,
+.markdown-body ul ol {
+  list-style-type: lower-roman;
+}
+
+.markdown-body ul ul ol,
+.markdown-body ul ol ol,
+.markdown-body ol ul ol,
+.markdown-body ol ol ol {
+  list-style-type: lower-alpha;
+}
+
+.markdown-body dd {
+  margin-left: 0;
+}
+
+.markdown-body code {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 12px;
+}
+
+.markdown-body pre {
+  margin-top: 0;
+  margin-bottom: 0;
+  font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+.markdown-body .select::-ms-expand {
+  opacity: 0;
+}
+
+.markdown-body .octicon {
+  font: normal normal normal 16px/1 octicons-link;
+  display: inline-block;
+  text-decoration: none;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.markdown-body .octicon-link:before {
+  content: '\f05c';
+}
+
+.markdown-body:before {
+  display: table;
+  content: "";
+}
+
+.markdown-body:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.markdown-body>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+.markdown-body a:not([href]) {
+  color: inherit;
+  text-decoration: none;
+}
+
+.markdown-body .anchor {
+  display: inline-block;
+  padding-right: 2px;
+  margin-left: -18px;
+}
+
+.markdown-body .anchor:focus {
+  outline: none;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 1em;
+  margin-bottom: 16px;
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+.markdown-body h1 .octicon-link,
+.markdown-body h2 .octicon-link,
+.markdown-body h3 .octicon-link,
+.markdown-body h4 .octicon-link,
+.markdown-body h5 .octicon-link,
+.markdown-body h6 .octicon-link {
+  color: #000;
+  vertical-align: middle;
+  visibility: hidden;
+}
+
+.markdown-body h1:hover .anchor,
+.markdown-body h2:hover .anchor,
+.markdown-body h3:hover .anchor,
+.markdown-body h4:hover .anchor,
+.markdown-body h5:hover .anchor,
+.markdown-body h6:hover .anchor {
+  text-decoration: none;
+}
+
+.markdown-body h1:hover .anchor .octicon-link,
+.markdown-body h2:hover .anchor .octicon-link,
+.markdown-body h3:hover .anchor .octicon-link,
+.markdown-body h4:hover .anchor .octicon-link,
+.markdown-body h5:hover .anchor .octicon-link,
+.markdown-body h6:hover .anchor .octicon-link {
+  visibility: visible;
+}
+
+.markdown-body h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h1 .anchor {
+  line-height: 1;
+}
+
+.markdown-body h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h2 .anchor {
+  line-height: 1;
+}
+
+.markdown-body h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+
+.markdown-body h3 .anchor {
+  line-height: 1.2;
+}
+
+.markdown-body h4 {
+  font-size: 1.25em;
+}
+
+.markdown-body h4 .anchor {
+  line-height: 1.2;
+}
+
+.markdown-body h5 {
+  font-size: 1em;
+}
+
+.markdown-body h5 .anchor {
+  line-height: 1.1;
+}
+
+.markdown-body h6 {
+  font-size: 1em;
+  color: #777;
+}
+
+.markdown-body h6 .anchor {
+  line-height: 1.1;
+}
+
+.markdown-body p,
+.markdown-body blockquote,
+.markdown-body ul,
+.markdown-body ol,
+.markdown-body dl,
+.markdown-body table,
+.markdown-body pre {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.markdown-body hr {
+  height: 4px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: #e7e7e7;
+  border: 0 none;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 2em;
+}
+
+.markdown-body ul ul,
+.markdown-body ul ol,
+.markdown-body ol ol,
+.markdown-body ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body li>p {
+  margin-top: 16px;
+}
+
+.markdown-body dl {
+  padding: 0;
+}
+
+.markdown-body dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+.markdown-body blockquote {
+  padding: 0 15px;
+  color: #777;
+  border-left: 4px solid #ddd;
+}
+
+.markdown-body blockquote>:first-child {
+  margin-top: 0;
+}
+
+.markdown-body blockquote>:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+}
+
+.markdown-body table th {
+  font-weight: bold;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+
+.markdown-body table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+.markdown-body img {
+  max-width: 100%;
+  box-sizing: content-box;
+  background-color: #fff;
+}
+
+.markdown-body code {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+}
+
+.markdown-body code:before,
+.markdown-body code:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
+}
+
+.markdown-body pre>code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+
+.markdown-body .highlight {
+  margin-bottom: 16px;
+}
+
+.markdown-body .highlight pre,
+.markdown-body pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f7f7f7;
+  border-radius: 3px;
+}
+
+.markdown-body .highlight pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.markdown-body pre {
+  word-wrap: normal;
+}
+
+.markdown-body pre code {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+
+.markdown-body pre code:before,
+.markdown-body pre code:after {
+  content: normal;
+}
+
+.markdown-body kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font-size: 11px;
+  line-height: 10px;
+  color: #555;
+  vertical-align: middle;
+  background-color: #fcfcfc;
+  border: solid 1px #ccc;
+  border-bottom-color: #bbb;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #bbb;
+}
+
+.markdown-body .pl-c {
+  color: #969896;
+}
+
+.markdown-body .pl-c1,
+.markdown-body .pl-s .pl-v {
+  color: #0086b3;
+}
+
+.markdown-body .pl-e,
+.markdown-body .pl-en {
+  color: #795da3;
+}
+
+.markdown-body .pl-s .pl-s1,
+.markdown-body .pl-smi {
+  color: #333;
+}
+
+.markdown-body .pl-ent {
+  color: #63a35c;
+}
+
+.markdown-body .pl-k {
+  color: #a71d5d;
+}
+
+.markdown-body .pl-pds,
+.markdown-body .pl-s,
+.markdown-body .pl-s .pl-pse .pl-s1,
+.markdown-body .pl-sr,
+.markdown-body .pl-sr .pl-cce,
+.markdown-body .pl-sr .pl-sra,
+.markdown-body .pl-sr .pl-sre {
+  color: #183691;
+}
+
+.markdown-body .pl-v {
+  color: #ed6a43;
+}
+
+.markdown-body .pl-id {
+  color: #b52a1d;
+}
+
+.markdown-body .pl-ii {
+  background-color: #b52a1d;
+  color: #f8f8f8;
+}
+
+.markdown-body .pl-sr .pl-cce {
+  color: #63a35c;
+  font-weight: bold;
+}
+
+.markdown-body .pl-ml {
+  color: #693a17;
+}
+
+.markdown-body .pl-mh,
+.markdown-body .pl-mh .pl-en,
+.markdown-body .pl-ms {
+  color: #1d3e81;
+  font-weight: bold;
+}
+
+.markdown-body .pl-mq {
+  color: #008080;
+}
+
+.markdown-body .pl-mi {
+  color: #333;
+  font-style: italic;
+}
+
+.markdown-body .pl-mb {
+  color: #333;
+  font-weight: bold;
+}
+
+.markdown-body .pl-md {
+  background-color: #ffecec;
+  color: #bd2c00;
+}
+
+.markdown-body .pl-mi1 {
+  background-color: #eaffea;
+  color: #55a532;
+}
+
+.markdown-body .pl-mdr {
+  color: #795da3;
+  font-weight: bold;
+}
+
+.markdown-body .pl-mo {
+  color: #1d3e81;
+}
+
+.markdown-body kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  line-height: 10px;
+  color: #555;
+  vertical-align: middle;
+  background-color: #fcfcfc;
+  border: solid 1px #ccc;
+  border-bottom-color: #bbb;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #bbb;
+}
+
+.markdown-body .task-list-item {
+  list-style-type: none;
+}
+
+.markdown-body .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+
+.markdown-body .task-list-item input {
+  margin: 0 0.35em 0.25em -1.6em;
+  vertical-align: middle;
+}
+
+.markdown-body :checked+.radio-label {
+  z-index: 1;
+  position: relative;
+  border-color: #4078c0;
+}
+</style><style>/*
+
+github.com style (c) Vasily Polovnyov <vast@whiteants.net>
+
+*/
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: #333;
+  background: #f8f8f8;
+}
+
+.hljs-comment,
+.hljs-quote {
+  color: #998;
+  font-style: italic;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-subst {
+  color: #333;
+  font-weight: bold;
+}
+
+.hljs-number,
+.hljs-literal,
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag .hljs-attr {
+  color: #008080;
+}
+
+.hljs-string,
+.hljs-doctag {
+  color: #d14;
+}
+
+.hljs-title,
+.hljs-section,
+.hljs-selector-id {
+  color: #900;
+  font-weight: bold;
+}
+
+.hljs-subst {
+  font-weight: normal;
+}
+
+.hljs-type,
+.hljs-class .hljs-title {
+  color: #458;
+  font-weight: bold;
+}
+
+.hljs-tag,
+.hljs-name,
+.hljs-attribute {
+  color: #000080;
+  font-weight: normal;
+}
+
+.hljs-regexp,
+.hljs-link {
+  color: #009926;
+}
+
+.hljs-symbol,
+.hljs-bullet {
+  color: #990073;
+}
+
+.hljs-built_in,
+.hljs-builtin-name {
+  color: #0086b3;
+}
+
+.hljs-meta {
+  color: #999;
+  font-weight: bold;
+}
+
+.hljs-deletion {
+  background: #fdd;
+}
+
+.hljs-addition {
+  background: #dfd;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+</style><style>.markdown-body {
+    font-size: 11px;
+}
+
+img.emoji-img.emoji {
+  max-width: 11px;
+  max-height: 11px;
+  vertical-align: middle;
+}
+</style><style>/*
+ * Your Stylesheet
+ *
+ * This stylesheet is loaded when Atom starts up and is reloaded automatically
+ * when it is changed and saved.
+ *
+ * Add your own CSS or Less to fully customize Atom.
+ * If you are unfamiliar with Less, you can read more about it here:
+ * http://lesscss.org
+ */
+/*
+ * Examples
+ * (To see them, uncomment and save)
+ */
+</style>
+
+        <!--<script src=""></script>-->
+    </head>
+    <body class="markdown-body">
+        <h1 id="api-management">API management</h1>
+<h2 id="overview">Overview</h2>
+<p>API management is the process of creating and publishing web application programming interfaces (APIs), enforcing their usage policies, controlling access, nurturing the subscriber community, collecting and analyzing usage statistics, and reporting on performance. API Management components provide mechanisms and tools to support developer and subscriber community (<a href="https://en.wikipedia.org/wiki/API_management">Wikipedia - API Management</a>)</p>
+<h2 id="why-api-management">Why API management?</h2>
+<p>A single point of entry for all connected systems and services <a href="https://www.cmswire.com/information-management/what-is-api-management-and-why-do-i-need-it/">CMS Wire - Why API Management</a>.   See the below informaation for the featres of API management.</p>
+<h3 id="questions">Questions</h3>
+<ol>
+<li>OpenAPI : How does OpenAPI work within the API Management ecosystem?<ul>
+<li>I assume the API Management solution is the service catalog for APIs (e.g, the branded API catalog with API specfication, documentation, code samples, etc)</li></ul></li>
+</ol>
+<h3 id="gartner-references">Gartner References</h3>
+<ul>
+<li>[Gartner - Successfully Implement API Management](<a href="https://1drv.ms/b/-">https://1drv.ms/b/-</a> s!AkwXSmFk-_xpgfctpiuj_lCQhvddBg?e=pTsBeL)</li>
+<li>[Gartner Ensure API Management includes Cloud and Microservices](https://- 1drv.ms/b/s!AkwXSmFk-_xpgfcsWl1LEt_7Lsrteg?e=pcQg43)</li>
+<li>[Gartner API Stategy Maturity](<a href="https://1drv.ms/b/s!AkwXSmFk--">https://1drv.ms/b/s!AkwXSmFk--</a> _xpgfcrmapJmRoB7-wxfg?e=XFv5SC)</li>
+<li><a href="https://1drv.ms/b/s!AkwXSmFk-_xpgfcuxbMGU99AXAp6Vw?e=QjdZOd">Gartner Magic Quadrant - Full Lifecycle API Management</a></li>
+</ul>
+<h2 id="api-management-vs-service-message">API Management vs Service Message</h2>
+<ul>
+<li><a href="https://www.cncf.io/blog/2020/03/06/the-difference-between-api-gateways-and-service-mesh/">Cloud Native Foundation - API Management vs Service Mesh</a></li>
+<li><a href="https://konghq.com/blog/the-difference-between-api-gateways-and-service-mesh/#cheatsheet">CNF - Cheat Sheat API-M vs Service Mesh Cheat Sheet</a></li>
+</ul>
+<h3 id="history">History</h3>
+<ol>
+<li><strong>2003</strong>:  EIP : Enterprise Integration Patterns (<a href="https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns">EIP - 2003</a>).  Apache CAMel and Apache ServiceMix (ESB).  Many vendors have products in the ESB space (Oracle Fusion / Oracle SOA Suite, IBM Websphere, &#x2026;).  The SOA timeframe (Service Oriented Architecture) which replaced the 3-tier architecture.  Note, EIP has many patterns include &quot;data flow&quot; which ESB&apos;s provided and more recently products like Apache Nifi</li>
+<li><strong>2010</strong>: API Management : Came around 2010 (I&apos;m guessing before microservices and containers).  API Management (and <strong>API Gateways</strong>) - runtime features (connect, secure and govern API traffice), plus, non-functionals (creating, testing, documenting, monetizing(billing), monitoring, user personas, ..)</li>
+<li><strong>2017</strong>: Service Mesh : A pattern for monoliths or microservices on any platform (VMs, containers, kubernetes).  APIM has a role in service meshs (high similarity in functionality).  With the service mesh pattern, we are outsourcing the network management of any inbound or outbound request made by any service (not just the ones that we build but also third-party ones that we deploy) to an out-of-process application (the proxy) that will manage every inbound and outbound network request for us, and because it lives outside of the service, it is by default portable and agnostic in order to support any service written in any language or framework. <a href="https://www.cncf.io/blog/2020/03/06/the-difference-between-api-gateways-and-service-mesh/">CNF Difference Between Service Mesh and API Gateway</a>.  See the <a href="https://konghq.com/blog/the-difference-between-api-gateways-and-service-mesh/#cheatsheet">cheat sheet</a> &quot;Most likely, the organization will have both of these use cases, and therefore an API gateway and service mesh will be used simultaneously.&quot;</li>
+</ol>
+<h1 id="vendors">Vendors</h1>
+<p>Vendors include Mulesoft, Azura API Management, Axway, Mulesoft&#x2026;</p>
+<ul>
+<li>Amazon : [Amazon API] Gateway(<a href="https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html">https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html</a>)</li>
+<li>Google : APIGee</li>
+<li><a href="https://cloud.google.com/endpoints/">Google API Endpoints</a></li>
+<li>Microsoft : API Management</li>
+</ul>
+<h2 id="amazon-api-gateway">Amazon API Gateway</h2>
+<p><a href="https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html#api-gateway-overview-aws-backbone">Amazon API Gateway</a></p>
+<p>Features:</p>
+<ul>
+<li>support stateful and stateless - APIs</li>
+<li>flexible authentication mechanisms</li>
+<li>developer portal for publishing - APIs</li>
+<li>Canary Release (for safely rolling - out API)</li>
+<li>Logging for API usage and changes - (AWS Cloudtrail)</li>
+<li>CloudWatch : Logging</li>
+<li>Cloud Formation : template driven - API creation.</li>
+<li>Firewall : protection against - common threats (Web Application Firewall)</li>
+</ul>
+<p>Accessing:</p>
+<ul>
+<li>Management console</li>
+<li>SDK</li>
+<li>CLI</li>
+</ul>
+<h2 id="azura-apim">Azura APIM</h2>
+<p>[Microsoft APIM - 2017[(<a href="https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts">https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts</a>)<br>
+Features:</p>
+<ul>
+<li>API keys</li>
+<li>DOS Attack Throttling, Advanced Security - Policies - JWT Token Validatoin</li>
+</ul>
+<p>Benefits:</p>
+<ul>
+<li>Secure Mobile Infrastructure : gate access - with API keys, prevent DOS attackes, - advanced security with JWT token - validation.</li>
+<li>Partner Integration Ease: Fast partner - onboarding with developer portal, buidling - API facade to decouple internal - implementations that are not released.</li>
+<li>Internal API Program: Centralized location - for communication about API availability - and changes, gate access based on - organization accounts, foundation of - secure channel from API gateway to backend.</li>
+</ul>
+<p>Components</p>
+<ul>
+<li>API Gateway: accepts API calls, routes to backend.  Verifies API keys, JWT toekns, certificates, and other credentials,  enforce policy (quotas, rate limits), transform API, cache resonses, logs for analytics (metadata)</li>
+<li>Admin Portal (Azure Portal)- define API schema, package APIs into products, policies (quotas, transformations, ..), analytics, manage users</li>
+<li>Developer Portal : read API documentation, try API through console, create account, get API keys, view usage analystics</li>
+</ul>
+<p>See Microsoft&apos;s article on</p>
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern">The API Gateway Pattern versus the Direct client-to-microservices communication</a>.  </li>
+<li><a href="https://docs.microsoft.com/en-us/azure/application-gateway/overview">Azure Application Gateway - 2020</a> - Microsoft is not too clear in documenting the difference between their API-M and their Application Gateway <a href="https://docs.microsoft.com/en-us/answers/questions/35787/what-is-difference-between-api-gateway-provided-by.html">Microsoft Blog Q&amp;A</a></li>
+</ul>
+<h2 id="google-api-endpoints">Google API Endpoints</h2>
+<p><a href="https://cloud.google.com/endpoints/">Google API Endpoints</a> features:<br>
+API Proxy; why use it:</p>
+<ul>
+<li>manage your APIs</li>
+<li>protect your APIs</li>
+<li>Fast</li>
+<li>World Class monitoring</li>
+</ul>
+<p>Features:</p>
+<ul>
+<li>API keys</li>
+<li>user authenitcation</li>
+<li>Automated deployment</li>
+<li>Integration (Google <a href="https://cloud.google.com/endpoints/docs/frameworks/about-cloud-endpoints-frameworks">Cloud Endpoints Framework web framework for AppEngine</a> or add OpenAPI specfication)<ul>
+<li>API management via <a href="https://cloud.google.com/endpoints/docs/frameworks/about-cloud-endpoints-frameworks#python">Google Estensible Service Proxy - ESP</a>.  Supports both <a href="https://grpc.io/">gRPC</a> and [OpenAPI]() endpoints.</li></ul></li>
+<li>Logging and monitoring</li>
+</ul>
+<h2 id="wikipedia---api-management">Wikipedia - API management</h2>
+<p><a href="https://en.wikipedia.org/wiki/API_management">Wikipedia API Management</a><br>
+Features:</p>
+<ul>
+<li>gateway: API front-end, receives requests, enforces throtting &amp; security policies, passess requests to the back-end, and then passes response back to requestor<ul>
+<li>transformation engine: orchestrate and modify request and responses on the fly</li>
+<li>collect analytics data</li>
+<li>provide caching</li>
+<li>authentication, authorization, security, audit, regulatory compliance</li>
+<li>&quot;reverse proxy&quot;</li></ul></li>
+<li>publishing tools: tools to define APIs, (e.g. <a href="https://en.wikipedia.org/wiki/OpenAPI_Specification">OpenAPI</a>or <a href="https://en.wikipedia.org/wiki/RAML_(software)">RAML</a>), generate API documentation, govern API usage via access/usage policies, <em>test</em> and <em>debug</em> API (including security testing and automated test generation/test suites), deploy APIs to production/staging/test, coordinate API lifecycle</li>
+<li>developer API store: community site (usually branded by the API provider) - documentation, tutorials, sample code, SDK, interactive API console, &#x2026;</li>
+<li>reporting and analytics: monitor API usage and load (hits, transactions, data objects returned, compute time, ..)</li>
+<li>monetization : billing for use</li>
+</ul>
+<h1 id="api-gateway">API Gateway</h1>
+<p>A reverse proxy (e.g. <a href="https://www.nginx.com/">nginx</a>) with features:</p>
+<ul>
+<li>load balancing</li>
+<li>health checks</li>
+<li>API versioning</li>
+<li>routing</li>
+<li>request authentication &amp; authorization</li>
+<li>data transformation, anlaytics, logging</li>
+<li>SSL termination</li>
+</ul>
+<p>Vendors Kong, Tyk, AWS API Gateway, Azura API Management, Google Cloud Endpoings</p>
+<p>Benefits (from <a href="https://arcentry.com/blog/api-gateway-vs-service-mesh-vs-message-queue/">Gateway vs Mesh vs MQ</a>)</p>
+<ul>
+<li>powerful</li>
+<li>low complexity</li>
+<li>understood by IT professionals (web-services)</li>
+<li>layer of defense on public internet</li>
+<li>offload repetitive tasks (user authentication and data validation)</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>Centralized, horizontally scalable (but central registration for new API and configuration)</li>
+<li>single-team maintenance (centralized control)</li>
+<li>[see Service Mesh](# Service Mesh)</li>
+</ul>
+<h2 id="microgateway">Microgateway</h2>
+<ul>
+<li>IBM Strongloop: <a href="https://strongloop.com/projects/#mg">https://strongloop.com/projects/#mg</a>.  <a href="https://strongloop.com/projects/#mg">IBM OpenAPI-to-GraphQL</a></li>
+<li>APIGee Microgateway: <a href="https://github.com/apigee-internal/microgateway">https://github.com/apigee-internal/microgateway</a> <a href="https://docs.apigee.com/api-platform/microgateway/edge-microgateway-home">Official Docs Apigee Microgateway</a></li>
+</ul>
+<h2 id="umbrella--api-umbrella">Umbrella / API Umbrella</h2>
+<p><a href="https://apiumbrella.io/#features">API Umbrella</a></p>
+<ul>
+<li><p>API keys: Track API usage and control access to your APIs with API keys. API Umbrella provides an API key signup form that an be embedded on any website, or internal APIs you can leverage to create API keys programmatically.</p></li>
+<li><p>Rate Limiting: Control how many requests each user can make to your APIs to prevent abuse or define usage tiers. Flexible rate limits can be defined ranging from per-second to per-day limits. Different limits can be defined for different APIs or for specific users.</p></li>
+<li><p>Analytics: Understand how your API is being used with rich analytics about API requests. View high level summary data, or drill down into the specifics with a flexible analytics querying interface in the admin tool.</p></li>
+<li><p>Caching: API Umbrella integrates a standard HTTP caching layer in front of your APIs. Accelerating your APIs and offloading work from your API servers is as easy as setting standard Cache-Control headers.</p></li>
+<li><p>Unifying APIs: Provide a single, public entry point to all your APIs and microservices regardless of where your APIs might live behind the scenes or how many APIs you might have. API Umbrella can define how your public endpoints get routed to your API servers.</p></li>
+</ul>
+<h2 id="other-features">Other features</h2>
+<ul>
+<li><p>Consumer API Key : If you have multiple APIs, API Umbrella can simplify access for API consumers, with a single API key that can be used across different APIs. And by shifting common functionality, like API keys, rate limiting, and analytics outside of any individual API, API producers don&apos;t need to implement any of those details over and over again.</p></li>
+<li><p>Admin Web interface: An administrative web tool is available to manage all aspects of API Umbrella, including API routing configuration, user management, and viewing analytics.</p></li>
+<li><p>Admin REST APIs : programatically administer the system</p></li>
+<li><p>Multitenancy</p></li>
+</ul>
+<h2 id="netflix-zuul">Netflix zuul</h2>
+<ul>
+<li><a href="https://github.com/Netflix/zuul">Netlflix Zuul Github</a></li>
+<li><a href="https://github.com/Netflix/zuul">Netflix Zuul Medium</a></li>
+<li><a href="https://dzone.com/articles/spring-cloud-netflix-zuul-edge-serverapi-gatewayga">DZone Netflix Zuul - 2016</a></li>
+</ul>
+<h1 id="microservice-architecture">Microservice architecture</h1>
+<h2 id="microservices-benefits">Microservices benefits</h2>
+<p>Main benefits (rationale for microservices)<br>
+Rapid Development:  Develop and deploy single services independently.  Development &amp; operations focus on the service&apos;s repsonsiblity (not the entire systems or business application)<br>
+Scalability: Using kubernetes each service can scale independently without impacting other services.</p>
+<p>Other major benefits:</p>
+<ul>
+<li>Flexible: each service has flexibility (can use its own language, framework - polygot)</li>
+<li>Independent: services can have their own development cycle, delivery dates and priorities</li>
+<li>Full-Stack Teams: development of microservices suited for cross-functional teams</li>
+<li>Fault Isolation: improved fault isolation</li>
+<li>Stack Flexibility: eliminates long-term committment to a technology stack (debatable)</li>
+</ul>
+<p>To use microservices effectively you must adopt and embrace DevOps:</p>
+<ul>
+<li>use Automation, that brings:</li>
+<li>reduce costs and effort</li>
+<li>brings operational efficiency</li>
+</ul>
+<h2 id="microservice-challenges">Microservice Challenges:</h2>
+<p>There are challenges to using Microservices.   These can be overcome with experience.</p>
+<ul>
+<li>resliency : many instances of a given microservice (10&apos;s, 100&apos;s, 1000&apos;s) any of which might fail</li>
+<li>load balancing / auto-scaling : with many endpoints able to fulfil a request routing and scaling get more complicated ( effective routing and scaling can save costs in large deployments)</li>
+<li>service discovery : finding a service endpoint and establishing a communication channel gets more complicated with more endpoints</li>
+<li>tracing and monitoring : a single transaction might execute on many microservices.  Observing/tracing a transaction is more complicated.  When a service fails, identify the cause is difficult.</li>
+<li>versioning : updating an API while allowing older versions to be available</li>
+<li>inter-service communication : A microservice must use APIs to fetch data (versus simple service queries)</li>
+<li>testing microservice dependencies without a tool</li>
+</ul>
+<p>Many of the above challenges relate to the distributed nature introduced by the use of microservices (many endpoints involved in a transaction, and many endpoints providing the service).  Microservices generally lead to more Ops (operations) overhead.   In the DevOps model this is sustainable as the same team providing development provides the operations (<strong>DevOps</strong>)</p>
+<p><a href="https://www.bmc.com/blogs/microservices-challenges-when-to-avoid/">BMC Microservices - Challenges to Avoid</a></p>
+<p>Design<br>
+: Increased complexity with microservices.   Microservices create a distributed system, and the challenges of a distributed system must be understood and planned for.  Design considerations on the size of microservices, optimal boundaries, connection points, and a framework to integrate services.  Each microservice should define its resonsibilities.</p>
+<p>Security<br>
+: Data in microservices is distributed.  It can be hard to maintain and comply with the CIA (confidentiality, integrity and availability) and <strong>privacy</strong> of user data.  For example, respecting the authentication and authroisation model for a complex access model across all microservices can be difficult.   Designing, and configuring access controls and administering secured authentication to individual microservices is a technical challenge.  This also increases the attack surface for the people, processess and technology responsible for securing access.</p>
+<p>Testing<br>
+: The standalone nature of microservices increases testing complexity.  One for testing a microservice without access to the other services (tooling requirement to test), and secondly for testing complex interactions between services (testing integration services, interdependencies, etc).</p>
+<p>Increased Operational Compliexity<br>
+: Each microservice can decide to use and manage it (<em>not necessarily true</em>)</p>
+<ul>
+<li>traditional monitoring:  A request that traverses several micorservices can be a convulted/complex path.   Debugging issues without proper observability tools (and upfront design to provide observability) is a challenge.</li>
+<li>scalability: Successfully scaling microservices is a skill and a challenge</li>
+<li>optimizing and scaling require coordination: A sudden spike in usage of a business application may required coordinated scaling of multiple microservices.</li>
+<li>fault tolerance for all services: One microservice failure can impact an entire system.  Application avaibility can be reduced by poor fault-tolerance of underlying framework and microservices.</li>
+</ul>
+<p>Communication<br>
+: The microservices must be able to communicate with each other (discover and communicate).  This adds latency and reduced speed/response to transactions on applications.</p>
+    </body>
+</html>

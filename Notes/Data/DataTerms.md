@@ -125,3 +125,18 @@ Why structure APis?
   ```
 Underneath / Engine: [ref in video](https://youtu.be/Ofk7G3GD9jk?t=1288)
 - Catalyst in Spark SQL
+
+
+# Theormes
+## CAP
+## ACID
+
+Schema-on-Read
+
+## Read / Write Consistency
+Read-after-write consistency guarantees that changes are immediately visible (reading data) right after making those changes (writing data), meaning that a newly-created object will be visible immediately, without any delay.
+
+
+# Odd Terms / Quotes
+
+- Digital Darwinism : Technology evolves faster than you can adapt.  [Digital Darwinism](https://blog.forthmetrics.com/2012/02/14/digital-darwinism-dont-miss-the-turning/)

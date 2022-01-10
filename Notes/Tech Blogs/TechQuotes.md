@@ -15,3 +15,41 @@ An expression indicating that people should be chosen for jobs or roles based on
 
 "If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization."
   - [Gerald Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg)
+
+"In real open source, you have the right to control your own destiny." - Linus Torvalds
+
+
+
+"I don't lack emotion, I just process it differently. "
+
+# People
+*Stay away from negative people, they have a problem for every solution.* - Albert Einstein (need to confirm)
+
+Architecture
+*Architecture is the stuff you can’t Google.* (Mark Richards)
+*There are no right or wrong answers in architecture—only trade-offs.*
+*Programmers know the benefits of everything and the trade-offs of nothing. Architects need to understand both* - Rich Hickey creator of Clojure
+
+*A system is never the sum of its parts. It is the product of the interactions of its parts.*[Dr Russell Ackoff - pioneer  in the field of operations research, systems thinking and management science.](https://en.wikipedia.org/wiki/Russell_L._Ackoff)
+
+*Never shoot for the best architecture, but rather the least worst architecture.*
+
+*Maintainability is inversely proportional to the number of public classes, dependencies and microservices - Simon Bronw (Modular Monolith)
+
+# Systems Thinking / Management Theory
+
+W. Edwards Deming *Supervision should be replaced by leadership* [Youtube](https://youtu.be/tsF-8u-V4j4?t=433)
+- on Murphy's Law "If anything can go wrong", "someone wrong a note to me once saying *Mr Murphy was an optimist, ha! ha!*"
+
+- "You can think you can achieve something or you can think you can't and you will be right." - Henry Ford on Self-Doubt - Confidence
+
+# Roadmaps
+- "Someone's sitting in the shade today because someone planted a tree a long time ago." - Warren Buffett
+
+# Security
+- *Complexity is the enmy of security.* - Bruce Schneier
+- *There are two kinds of cryptography in this world: cryptography that will stop your kid sister from reading your files, and cryptography that will stop major governments from reading your files.* [Bruce Schneier](https://en.wikipedia.org/wiki/Bruce_Schneier)
+
+
+# Sayings - British
+- "You hide your light under a bushel, don't you"

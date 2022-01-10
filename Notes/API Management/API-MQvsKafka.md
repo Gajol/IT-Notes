@@ -143,6 +143,10 @@ AMQP mandates the behavior of the messaging provider and client to the extent th
 - AMQP, unlike JMS, which defines an API and a set of behaviors that a messaging implementation must provide, AMQP is a wire-level protocol.
   - A wire-level protocol is a description of the format of the data that is sent across the network as a stream of bytes. Consequently, any tool that can create and interpret messages that conform to this data format can interoperate with any other compliant tool irrespective of implementation language.
 
+  AMQP supports monitoring of messages in a queue for a specific consumer.  The Advanced Message Queuing Protocol (AMQP) can support programmatic load balancing and monitoring because of the separation between an exchange (what the producer sends to) and a queue (what the consumer listens to). [ref: OReilly Fundamentals of Software Architecture - ISBN 978-1-4920-4345-4 ](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
+
+
+
 ### [STOMP](https://stomp.github.io/)
 Simple Text Oriented Messaging Protocol / Streaming Text Oriented Messaging Protocol
 - latest version is 2012 - so likely not worth considering for new developments

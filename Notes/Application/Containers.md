@@ -57,3 +57,7 @@ Types of patterns are groupd by Functional, Structural, Behavioural and High-Lev
 |--|--|
 |Controller pattern|Controller is a pattern that actively monitors and maintains a set of Kubernetes resources in a desired state. The heart of Kubernetes itself consists of a fleet of controllers that regularly watch and reconcile the current state of applications with the declared target state. This pattern describes how to leverage this core concept for extending the platform for our own applications.|
 |Operator pattern|An Operator is a Controller that uses a CustomResourceDefinitions to encapsulate operational knowledge for a specific application in an algorithmic and automated form. The Operator pattern allows us to extend the Controller pattern for more flexibility and greater expressiveness. There are an increasing number of Operators for Kubernetes, and this pattern is turning into the major form of operating complex distributed systems.|
+
+
+# Kubernetes
+- [Docker Runtime](https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/)

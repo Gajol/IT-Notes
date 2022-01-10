@@ -21,7 +21,7 @@ install ...
 # Text editor
 
 1. Sublime
-: Sublime requires license/paying (Is there a better aternative?  Yes, switching to Atom).
+: Sublime requires license/paying (Is there a better alternative?  Yes, switching to Atom).
 
   1. Babel Syntax Highlighting
   Use Babel Language Definition for Editor (Sublime, Atom, VS Code, ...)

@@ -6,6 +6,8 @@ This article discusses API management, some API management vendors and open-sour
 - [API Management](./API-Terms.md)
 </details>
 
+*Like a breaker panel for your services*
+
 ## Overview
  API management is the process of creating and publishing web application programming interfaces (APIs), enforcing their usage policies, controlling access, nurturing the subscriber community, collecting and analyzing usage statistics, and reporting on performance. API Management components provide mechanisms and tools to support developer and subscriber community ([Wikipedia - API Management](https://en.wikipedia.org/wiki/API_management))
 
@@ -75,6 +77,7 @@ Features:
 
 ## API Management vs Service Message
 - [Cloud Native Foundation - API Management vs Service Mesh](https://www.cncf.io/blog/2020/03/06/the-difference-between-api-gateways-and-service-mesh/)
+  - [O'Reilly Istio Explained](https://learning.oreilly.com/library/view/istio-explained) - uses the Envoy proxy
 - [CNF - Cheat Sheat API-M vs Service Mesh Cheat Sheet](https://konghq.com/blog/the-difference-between-api-gateways-and-service-mesh/#cheatsheet)
 
 ### History

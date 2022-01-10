@@ -68,7 +68,10 @@ Voldemort is __not__:
 - Nor is it an object database that attempts to transparently map object reference graphs.
 - Nor does it introduce a new abstraction such as document-orientation.
 
-
+## [RocksDB](https://rocksdb.org/)
+- [RocksDB Wikipedia](https://en.wikipedia.org/wiki/RocksDB)
+- RocksDB is a high performance embedded database for key-value data. It is a fork of Google's LevelDB optimized to exploit many CPU cores, and make efficient use of fast storage, such as solid-state drives (SSD), for input/output (I/O) bound workloads. It is based on a log-structured merge-tree (LSM tree) data structure.
+- [Apache Samza](http://samza.apache.org/) uses RocksDB. Samza provides build-in support for persistent state store, backed by RocksDB on the disk and changelog in Kafka
 
 # DB Concepts
 ## Cardinality

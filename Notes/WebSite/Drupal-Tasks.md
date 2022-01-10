@@ -1,11 +1,6 @@
 
 
-Nordic Ski Club - One Skate
-https://www.youtube.com/watch?v=S47I-3gjzzg&ab_channel=NordicSkiLab
-Beginner Drill (Nordic Ski Club) V2 / One Skate
-https://www.youtube.com/watch?v=-yr0YtQ_UDQ&ab_channel=NordicSkiLab
-Drills
- https://www.youtube.com/watch?v=7ZqtGqD1zOo&ab_channel=NordicSkiLab
+
 
 # Goals
 
@@ -40,10 +35,14 @@ Tasks:
 - Research and understand how to deploy [Drupal Image](https://hub.docker.com/r/drupalwxt/site-wxt).   Tools used::
   - [Composer - PHP Dependency Manager](https://getcomposer.org/)
   - [NodeJS](https://nodejs.org/en/)
+- Deploy Drupal image to a container in our Cloud environment.   Work with DS to ensure container is secure "walled-off"
+
 
 Questions to Investigation Options for:
-- Understand different components in architecture and their use.  (Redis, NGINX, ).   
-- Which Drupal version to deploy.
+- Begin to understand different components in architecture and their use.  (Redis, NGINX, ).   
+- Become opinionated on Which Drupal version to deploy.
+- Which roles should be configured for an initial experiment (internal to ITSS initially, but eventuall with ECE)?
+- How can this be deployed on-premise use (or without using) the DS CI/CD Pipeline.
 
 
 # Ability to Configure Drupal

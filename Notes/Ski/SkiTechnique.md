@@ -7,7 +7,7 @@
 |--|--|--|--|
 |Offset|V1|Low, squatty body position. Feet in wider stance.  Skis in stronger V-angle (changes with steepness).  Arms and polling is assymmetrical (although Europe is teach symmetry). 3:1 timing - [2-skis/1-pole] at same time, then 1-ski.   |Most Powerful, Least efficient.   For when going slow (slow snow, uphill)|
 |One Skate|V2|Pole each leg push.  Ski Down -> Torso-up/poles-up -> pole|Most advanced.  Requires the best balance|
-|Two Skate|V2 Alternate||Open field skating.  Most efficient, use to maintain high speed, relaxed, sustainable for long time, least power.  High speed, easy to confuse with V1|
+|Two Skate|V2 Alternate|Box-drill.  Similar poling action as One Skate, but only poling on one kick.   AKA ["Russian Dance"](https://www.youtube.com/watch?v=i2vfnmRfYCk) with "swing and pole".  "Swing" is arm recovery during off-leg kick, "Pole" is on the pole-kick leg. [Stomp foot down then bring hands forward](https://youtu.be/i2vfnmRfYCk?t=73).  Down-push with both legs equally.|Open field skating.  Most efficient, use to maintain high speed, relaxed, sustainable for long time, least power.  High speed, easy to confuse with V1|
 
 [Nordic Ski Lab - 5 Techniques](https://www.youtube.com/watch?v=QEJnPtrtri4).  In order of power to speed (more glide is you move down list)
 1. Diagonal Skate
@@ -22,6 +22,12 @@ Diagonal Skate and Offset (V1)
 - for uphills
 - Diagonal Skate : arms and legs swing in opposition (right leg down, left pole down, ...).  Timing simple to learn as it is like walking.
 
+Offset (V1) Drills
+- [V-Hop](https://youtu.be/bnFM5x6jYxo?t=38): athletic stance, forward body lean and hop forward
+- no poles V1
+
+
+
 [One-Skate](https://youtu.be/QEJnPtrtri4?t=248)
 - good to generate power to climb uphills
 - good for high-speeds where balance is limiting factor
@@ -29,6 +35,11 @@ Diagonal Skate and Offset (V1)
 - __symmetrical technique__ : double pole on every leg push
 - most versatile technique for good skiing (cross widest range of terrain)
 - for flat and rolling terrain for beginner / less-skiled skiers  
+
+Drills:
+- [V4](https://youtu.be/bnFM5x6jYxo?t=86) - pole twice on each-side.  Land on flat ski, good ankle flexiion, foward hip drive
+
+
 
 [two-skate](https://youtu.be/QEJnPtrtri4?t=290)
 - assymetrical, pole on every other leg push (because you are travelling faster)
@@ -55,4 +66,13 @@ Skate Skiing Basics
 
 
 Classic Skiing
-- Doubble Poling: https://www.youtube.com/watch?v=kOjEJ4Kjrrs
+- Double Poling: https://www.youtube.com/watch?v=kOjEJ4Kjrrs
+- Double Poling: https://youtu.be/zECQ_jplNbI?t=243
+
+
+Nordic Ski Club - One Skate
+https://www.youtube.com/watch?v=S47I-3gjzzg&ab_channel=NordicSkiLab
+Beginner Drill (Nordic Ski Club) V2 / One Skate
+https://www.youtube.com/watch?v=-yr0YtQ_UDQ&ab_channel=NordicSkiLab
+Drills
+ https://www.youtube.com/watch?v=7ZqtGqD1zOo&ab_channel=NordicSkiLab

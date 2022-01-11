@@ -36,6 +36,7 @@ Tasks:
   - [Composer - PHP Dependency Manager](https://getcomposer.org/)
   - [NodeJS](https://nodejs.org/en/)
 - Deploy Drupal image to a container in our Cloud environment.   Work with DS to ensure container is secure "walled-off"
+- Configure and Provision three (3) basic roles; IT-admin, webmaster and content-publisher. 
 
 
 Questions to Investigation Options for:

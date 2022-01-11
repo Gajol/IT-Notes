@@ -3,6 +3,7 @@
 - microservices,
 - REST HATEOAS
 - Scrum, LEAN, LEAN Six Sigma
+- OReilly SW Arch Patterns - monolith, etc
 - Raman - Arch Bi-Lat 2021-12-16
   1. HR mod
   1. Ref Arch - mature organizations
@@ -163,3 +164,19 @@ This section addresses the lack of standards, templates and clear requirements f
 
 # Goal
 - *At the end of the day, I want my artifacts to be enduring. My goal is to create a prescriptive, semi-formal architectural description that can be used as a basis for setting department priorities, parallelizing development, [managing] legacy migration, etc.*
+
+
+
+# Thoughts
+Unstructured Knowledge Sharing:
+- team-based knowledge sharing meetings where the purpose is to share and discuss (some TRB meetings have this as the key-goal)
+- open office hours for any questions
+- lunch & learn presentation series
+- show & tell / demonstrations  
+- peer learning groups : learning (small, L&D type activities), guided learning
+
+
+# Jobs
+
+AWS Cloud Engineer - Craig Pike
+https://www.linkedin.com/jobs/view/2871475279/?refId=b%2FsrZNU%2FSpWwOLDNT5fWnw%3D%3D

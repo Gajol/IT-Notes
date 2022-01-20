@@ -35,3 +35,19 @@ https://plantuml.com/en/
 
 https://asciidoctor.org/docs/asciidoctor-diagram/
 - The extensions supports the AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Bytefield-SVG, Ditaa, dpic, Erd, Gnuplot, GraphViz, Mermaid, Msc, Nomnoml, Pikchr, PlantUML, Shaape, State Machine Cat, SvgBob, Symbolator, Syntrax, UMLet, Vega, Vega-Lite and WaveDrom syntax.
+
+# Mermaid
+
+- Mermiad and Github Pages : https://stackoverflow.com/questions/53883747/how-to-make-github-pages-markdown-support-mermaid-diagram
+- Mermaid - https://www.diagrams.net/
+- [diagrams.net (formerly draw.io)](https://www.diagrams.net/)
+- [Mermaid Syntax](https://mermaid-js.github.io/mermaid/#/) : Mermaid is a syntax similar to Markdown where you can use text to describe and automatically generate diagrams. With Mermaid’s Markdown-inspired syntax, you can generate flow charts, UML diagrams, pie charts, Gantt charts, and more.  Mermaid’s syntax is similar to Graphviz DOT and PlantUML, both of which can be inserted into diagrams.net to create diagrams from a text description.  [Mermaid Documentation](https://mermaid-js.github.io/mermaid/#/)
+  - Flow Charts, Sequence Diagrams, ERD, [User Journey Diagram](https://mermaid-js.github.io/mermaid/#/user-journey), Gantt, State,
+  - Other diagram types: (unsure if available) : org chart, flowchart, swimlane, kanban, venn, ...
+  - [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor)
+  - [Mermaid Examples](https://betterprogramming.pub/mermaid-create-charts-and-diagrams-with-markdown-88a9e639ab14)
+  - [Mermaid Github](https://github.com/mermaid-js/mermaid)
+
+
+
+[draw.io - app.diagrams.net)(https://app.diagrams.net/)

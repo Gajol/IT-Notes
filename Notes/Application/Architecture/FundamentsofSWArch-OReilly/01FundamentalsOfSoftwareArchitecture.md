@@ -1,5 +1,7 @@
 Fundamentals of Software Architectures
 ISBN: 9781492043454
+[Richards, Mark. & Ford, Neil. Fundamentals of software architecture: an engineering approach. (O’Reilly, 2020)]
+
 
 # 1. Introduction
 First Law of Software Architecture : Everything in software architecture is a trade-off.
@@ -10,7 +12,7 @@ Second Law of Software Architecture : Why is more important than how.
 # 2. Four Aspects to Thinking Like an Architect
 1.  Understand difference between design and architecture
 1.  Have a wide breadth of technical knowledge with some technical depth.    Allows architect to see solutions and options others don't see
-1.  Understading, Analyzing and Reconciling Trade-Offs Between Solutions and Technolgies
+1.  Understanding, Analysing and Reconciling Trade-Offs Between Solutions and Technologies
 1.  Understanding importance of "business drivers" and how they translate to architectural concerns.
 
 
@@ -32,12 +34,12 @@ The above is a high-level model, but this seldom works in practice due to the un
 - mentoring
 
 ## Technical Breadth
-- Pyramid of all knowledge : Stuff you know.  Stuff you don't know. Stuff you don't know you don't know.
+- Pyramid of all knowledge : Stuff you know.  Stuff you don't know. Stuff you don't know you don't know.   The technical breadth of an architect includes both the stuff you know, and the stuff you know you don't know.   In other words, being aware of a knowledge gap is an asset.
 - For an architect, the "stuff you know" is also the "stuff you must maintain" and put effort into maintain knowledge in.   Ignoring the technology for 1-2 years means you are no longer an expert.   The "stuff you know" is your technical depth.
 
-Frozen-Caveman Pattern: Architects had become obsessed about this particular architectural characteristic although the chances/risk are extremely small.
+Frozen-Caveman Anti-Pattern: Architects had become obsessed about this particular architectural characteristic although the chances/risk are extremely small.   Frozen-Caveman can arise from architects who rely on ancient, stale expertise/criteria and affirming this knowledge is modern and cutting-edge.   *The frozen-caveman anti-pattern manifests as stale expertise – the mistaken sensation that outdated information is still cutting edge. Seen often in large companies where the developers who founded the company have moved into leadership roles yet still make technology decisions using ancient criteria.* - Neal Ford.
 
-## Analyzing Trade-Offs
+## Analysing Trade-Offs
 *Architecture is the stuff you can’t Google.* (Mark Richards)
 The answer to any architecture question is "it depends".   (The answer to any software problem is another layer of abstraction.)
 
@@ -146,7 +148,7 @@ Some Architecture Characteristics
 |Cross-Cutting|Usability, Achievability : mobile, ...|
 |Cross-Cutting|Compatibility|
 |Cross-Cutting|Interoperability|
-|Cross-Cutting|
+|Cross-Cutting||
 
 See __[Wikipedia Software Quality Attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes). "*Within systems engineering, quality attributes are realized non-functional requirements used to evaluate the performance of a system. These are sometimes named "ilities" after the suffix many of the words share. They are usually Architecturally Significant Requirements that require architects' attention.*" [referenced in Neal Ford's presentation 2017](http://nealford.com/downloads/Evolutionary_Architectures_by_Neal_Ford.pdf)
 
@@ -224,7 +226,7 @@ Many flavours of performance:
 ## Process Measures
 Some architectural characteristics (e.g., agility) intersect with software development processes.   Agility can be decomponsed into features such as testability, observability and deployability:
 - testability: Testability is measurable through code coverage tools for virtually all platforms that assess the completeness of testing
-- observabilty: Observability is tooling or a technical solution that allows teams to actively debug their system. Observability is based on exploring properties and patterns not defined in advance.  [Google - DevOps measurement - Monitoring and Observability](https://cloud.google.com/architecture/devops/devops-measurement-monitoring-and-observability)
+- observability: Observability is tooling or a technical solution that allows teams to actively debug their system. Observability is based on exploring properties and patterns not defined in advance.  [Google - DevOps measurement - Monitoring and Observability](https://cloud.google.com/architecture/devops/devops-measurement-monitoring-and-observability)
 - deployability: Teams can measure deployability via a variety of metrics: percentage of successful to failed deployments, how long deployments take, issues/bugs raised by deployments, and a host of others
 
 [See Neal Ford's Presentation with List of Quality Attributes](http://nealford.com/downloads/Evolutionary_Architectures_by_Neal_Ford.pdf)

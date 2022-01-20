@@ -5,9 +5,9 @@ gRPC: Google Remote Procedure Call
 
 # gRPC vs REST
 
-gRPC
+## gRPC
 - faster
-- payload uses Protcol Buffers
+- payload uses Protocol Buffers
   - highly compressed format and reduces the messages' size.
   - binary; thus, it serializes and deserializes structured data in order to
     communicate and transmit it
@@ -16,16 +16,14 @@ gRPC
 - client-response communication model (based on HTTP 2) - allows for streaming communication and bidirectional support.
 - [languages supported](https://grpc.io/docs/languages/): C#, C++, Dart, Go, Java, Kotlin, Node, Objective-C, PHP, Python, Ruby
 
-
-
-REST
+## REST
 - RPC uses a client-server model.   
 - follows a request-resonse model (typically built on HTTP 1.1)
 - fully supported on all browsers (like the WWW, RESTs advantages are stability, uniformity, and universality)
 - payload uses XML or JSON
   - human readable when using JSON
 
-
+## Comparison
 |Feature|gRPC|REST|
 |--|--|--|
 |HTTP 1.1 vs HTTP 2|Follows a client-response model of communication and is built on HTTP 2, which allows for: streaming communication and bidirectional support.|Follows a request-response model of communication and is typically built on HTTP 1.1.|
@@ -33,10 +31,10 @@ REST
 |Payload Data Structure|gRPC uses Protocol Buffer by default to serialize payload data.|REST mainly relies on JSON or XML formats to send and receive data.|
 |Code Generation Features|gRPC has native code generation features.|Developers must use a third-party tool like Swagger or Postman to produce code for API requests.|
 
-When to use gRPC over REST
-- due to low browser compatiblity, gRPC is limited to internal / private systems
+## When to use gRPC over REST
+- due to low browser compatibility, gRPC is limited to internal / private systems
 - REST is the most-known API for connecting microservices, follows HTTP standards and universal browser support
-- use gRPC for real-time streaming, IoT systesm, when fast light-weight messaging is requried  
+- use gRPC for real-time streaming, IoT systems, when fast light-weight messaging is required  
 - consider gRPC for mobile use as mobile apps do not need a browser and benefit from smaller messages
 
 # [Goolge - Understanding gRPC, OpenAPI and REST - API Design](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)

@@ -18,6 +18,14 @@ What are open data standards?  What is Canada's statement on open data standards
 [USA Data.Gov - US Government Open Data](https://www.data.gov/)
 - [300,000 datasets](https://labs.data.gov/dashboard/offices/qa)
 
+## frictionless
+- see ..Data/FrictionlessData.md
+- Frictionless is an open-source toolkit that brings simplicity to the data experience - whether you're wrangling a CSV or engineering complex pipelines.
+- https://specs.frictionlessdata.io/table-schema/
+- standards / concepts - https://specs.frictionlessdata.io/table-schema/#concepts
+- patterns - https://specs.frictionlessdata.io/patterns/#specification-5
+
+
 # Tools for Open Data
 
 1. Catalog

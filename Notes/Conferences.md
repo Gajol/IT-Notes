@@ -1,7 +1,12 @@
 # Conferences & Podcasts
 
+- [QCon](https://plus.qconferences.com/)
+
+
 ## javascript_tutorial
 Goto Conference [Goto](https://gotopia.tech/)[Goto Podcast](https://gotopia.tech/podcast)
+
+[Nordic.js](https://nordicjs.com/2022/)
 
 
 # Talks

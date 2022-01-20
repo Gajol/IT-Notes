@@ -46,8 +46,10 @@ be used for cost variance and schedule variance to measure progressas IT investm
 performance management processes;
 
 
-# Rambligs /  General / Thinking / Need to Refine...
+# Ramblings /  General / Thinking / Need to Refine...
 
+## Decisions
+Identity the irreversible decisions. (see ../Leadership/Decisions.md)
 
 ## Stupid, but think what I am trying to say.... "create structured content using some standards, index that content, expose that content via search...."
 Make content search and discoverable.  Know the difference and if you need both.  Generally, these more expensive features to build and maintain are for corporate records.   

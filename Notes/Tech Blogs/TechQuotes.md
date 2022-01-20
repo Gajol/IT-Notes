@@ -1,9 +1,6 @@
-Tech Quotes
-https://fr.wikipedia.org/wiki/Charles_Antony_Richard_Hoare
-“There are two ways of constructing a software design: One way is
-to make it so simple that there are obviously no deficiencies, and the
-other way is to make it so complicated that there are no obvious
-deficiencies.”
+# Tech Quotes
+
+
 
 
 Horses for Courses
@@ -36,12 +33,19 @@ Architecture
 
 *Maintainability is inversely proportional to the number of public classes, dependencies and microservices - Simon Bronw (Modular Monolith)
 
+# Project Management
+- *How does a project get to be a year behind schedule? One day at a time.* - [Fred Brooks 1979 Software Project Management - The Mythical man Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month). [the mythical man-month - 1975 - isbn](http://www.worldcat.org/isbn/0-201-00650-2)
+
 # Systems Thinking / Management Theory
 
 W. Edwards Deming *Supervision should be replaced by leadership* [Youtube](https://youtu.be/tsF-8u-V4j4?t=433)
 - on Murphy's Law "If anything can go wrong", "someone wrong a note to me once saying *Mr Murphy was an optimist, ha! ha!*"
 
 - "You can think you can achieve something or you can think you can't and you will be right." - Henry Ford on Self-Doubt - Confidence
+
+- *Culture eats strategy for breakfast* - [Peter Drucker - Management Consultant](https://en.wikipedia.org/wiki/Peter_Drucker)
+
+- *The only cost that matters is opportunity cost.* - Larry Page - Google
 
 # Roadmaps
 - "Someone's sitting in the shade today because someone planted a tree a long time ago." - Warren Buffett
@@ -50,6 +54,11 @@ W. Edwards Deming *Supervision should be replaced by leadership* [Youtube](https
 - *Complexity is the enmy of security.* - Bruce Schneier
 - *There are two kinds of cryptography in this world: cryptography that will stop your kid sister from reading your files, and cryptography that will stop major governments from reading your files.* [Bruce Schneier](https://en.wikipedia.org/wiki/Bruce_Schneier)
 
+# Software Design
+- *There are two ways of constructing a software design: One way is
+to make it so simple that there are obviously no deficiencies, and the
+other way is to make it so complicated that there are no obvious
+deficiencies.* - [Charles Antony Richard Hoare](https://fr.wikipedia.org/wiki/Charles_Antony_Richard_Hoare)
 
 # Sayings - British
 - "You hide your light under a bushel, don't you"

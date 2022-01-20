@@ -49,6 +49,8 @@ Message Queue
 - written in Scala, Java
 - distributed append-only log (messages written to the end of the log that is persisted on disk)
 - reliability through distributing kafka clusters across multiple servers
+- [Confluent Kafka versus ESB](https://www.confluent.io/blog/apache-kafka-vs-enterprise-service-bus-esb-friends-enemies-or-frenemies/)
+
 
 ### Benefits
 - append-only log allows developers access to history
@@ -96,7 +98,7 @@ Is the API communicating (exchanging information) between [ref: rest/grp microse
 
 
 # Serialization
-- Protocol Buffers 
+- Protocol Buffers
 - Thrift
 - Avro : [Apache Avro](https://avro.apache.org/)
 - Java Serialization

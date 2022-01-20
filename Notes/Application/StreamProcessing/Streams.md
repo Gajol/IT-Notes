@@ -64,6 +64,9 @@ Aggregation : distributed architecture
 Joining : Join customer with payment information, etc.
 Windowing : [reference Conlfuent Stream Processing Tutorial](https://www.confluent.io/blog/stream-processing-part-1-tutorial-developing-streaming-applications/) - see [Databricks - Window Functions in Spark SQL - 2015](https://databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html)
 
+- [Confluent Schema Registry](https://docs.confluent.io/platform/current/schema-registry/index.html):  
+Confluent Schema Registry provides a serving layer for your metadata. It provides a RESTful interface for storing and retrieving your Avro®, JSON Schema, and Protobuf schemas. It stores a versioned history of all schemas based on a specified subject name strategy, provides multiple compatibility settings and allows evolution of schemas according to the configured compatibility settings and expanded support for these schema types. It provides serializers that plug into Apache Kafka® clients that handle schema storage and retrieval for Kafka messages that are sent in any of the supported formats.
+
 # Event Handling Patterns
 - from Wikipedia [software design patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
 

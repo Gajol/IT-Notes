@@ -1,5 +1,18 @@
 
 # Terms
+# Codifying Terms
+[Wikipedia Glossary](https://en.wikipedia.org/wiki/Wikipedia:Glossary).  What features do you want beyond this?
+- metadata for each term to allow facet-searching,
+- authoring content:  (assume "markdown" and not "asciidoc")
+  - auto-inclusion to web-content.
+  - authoring reference: easy ability to hyperlink to referenced-term (and a trust that this link will exist in the future)
+  - build/generation: referenced-content (e.g., links included in an authored document) can generate a "terms" section in content. For example, templating language to (@ build-time / presentation-time) generate a terms section.
+    - use [Shopify's Liquid](https://shopify.github.io/liquid/)?
+    - use good-ole Freemarker?
+    - using markdown - so a markdown preprocessor in the build / github actions -
+      - Seems Basic: [Markdown Python Preprocesor](https://jreese.sh/projects/markdownpp); has TOC, Ref,
+      - [Preprocess for Git Hub Pages](https://www.npmjs.com/package/markdown-preprocessor) - [md-pp runkit](https://npm.runkit.com/markdown-preprocessor)
+      - https://github.com/gajus/gitdown
 
 API : An API (application programming interface) is a computing interface which defines interactions between multiple software intermediaries. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc.
 
@@ -42,7 +55,8 @@ The value of a Data Lake: The ability to harness more data, from more sources, i
 
 
 
-# Persistent URL
+## Links, URLs - Usability, Reliability, Integrity, Confidentiality.
+Persistent URL
 https://en.wikipedia.org/wiki/Persistent_uniform_resource_locator
 
 ## PURL resolvers (one operated by US Government Printing)
@@ -58,14 +72,73 @@ Both [permalink](https://en.wikipedia.org/wiki/Permalink) and PURL are used as p
 - A permalink usually does not change the URL's domain, and is designed to persist over years.
 - A PURL domain name is independently changeable, and is designed to persist over decades.
 
+## Friendly URLs / Clean URLs / Pretty URLs
+[Clean URLs](https://en.wikipedia.org/wiki/Clean_URL)
+
+## Link Awareness
+- Not widely used.
+- [Link Awareness - Wikipedia](https://en.wikipedia.org/wiki/Link_awareness) : Link awareness is defined as the ability to discover, view, search and update global hyperlink information about any resource with a URL on the World Wide Web. This global link information is a shared information resource.
+
+## Backlinks
+Kinda a stale topic, but the ability to surf a site backwards.  very useful for discovery on content management systems where you can find relevant content that refers to the content you are currently consuming.
+
+[Backlinks - Wikipedia](https://en.wikipedia.org/wiki/Backlink) :  ??? I do not know if there are modern headers/metadata standards to provider referrer attributes within http-requests.
+-
+A backlink for a given web resource is a link from some other website (the referrer) to that web resource (the referent).[1] A web resource may be (for example) a website, web page, or web directory.[1]
+- A backlink is a reference comparable to a citation.[2] The quantity, quality, and relevance of backlinks for a web page are among the factors that search engines like Google evaluate in order to estimate how important the page is.  (think PageRank)
+- Some other words for backlink are incoming link, inbound link, inlink, inward link, and citation.[1]
+
+## Open Graph
+[Open Graph](https://w3techs.com/technologies/details/da-opengraph) : Created by FaceBook used to treat a webpage as an object on a social graph.  can be used to embed pages (e.g., sharing content and embedding rich-preview link).  See also oEmbed, etc.  "Open Graph is an internet protocol that was originally created by Facebook to standardize the use of metadata within a webpage to represent the content of a page." - There are other standards, what one is the best, is TBD ([FBI Data Explore uses Open Graph](https://crime-data-explorer.fr.cloud.gov/))
 
 
-DOI - Data Object Identifier (used by IEEE)
+## Deep Links
+[Deep Linking](https://en.wikipedia.org/wiki/Deep_linking)  is the use of a hyperlink that links to a specific, generally searchable or indexed, piece of web content on a website (e.g. "http://example.com/path/page"), rather than the website's home page.
+
+## DOI - Data Object Identifier (used by IEEE)
 https://en.wikipedia.org/wiki/Digital_object_identifier
 https://www.doi.org/
 registry-controlled scheme
 
 
-Semantic Interoperability
+# Semantic Interoperability
 https://en.wikipedia.org/wiki/Semantic_interoperability
 Semantic interoperability is the ability of computer systems to exchange data with unambiguous, shared meaning. Semantic interoperability is a requirement to enable machine computable logic, inferencing, knowledge discovery, and data federation between information systems.
+
+# Semantic Versioning
+[Semantic versioning](https://semver.org/): Given a version number MAJOR.MINOR.PATCH, increment the:
+- MAJOR version when you make incompatible API changes,
+- MINOR version when you add functionality in a backwards compatible manner, and
+- PATCH version when you make backwards compatible bug fixes.
+Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
+
+
+# Identity
+- identity: The information and processes by which a person, device, organization or application can be differentiated from all others at a computing level is known as a digital identity.  Proving __digital identity__ is critical to properly assigning __access levels__ for applications, service and data. This assignment of access based on a digital identity is known as __identity management__.
+
+
+- identity management: Identity management typically consists of the following processes:
+  - network and application access control
+  - authentication
+  - identity governance
+  - single sign-on (SSO)
+  - identity analytics
+  - password management
+
+
+- authorization:  Authorization verifies true user identities and applies the appropriate security access to company data.  Authorization relies on identity management.
+
+
+- Authentication: Authentication is the process of proving the digital identity of a person, device or other entity in order to grant the appropriate level of authorization.
+
+# Observability
+Logs:
+Metrics:
+Events:
+Traces:
+
+Traceability : [Wikipedia - Traceability](https://en.wikipedia.org/wiki/Traceability) - Traceability is the capability to trace something. In some cases, it is interpreted as the ability to verify the history, location, or application of an item by means of documented recorded identification.   Traces are typically used by application developers when looking to measure and identify the least performant calls in the code, or during troubleshooting to identify a dependency that’s behaving in an unusual fashion.  
+- Specific to our environment, traceability includes tracing within an application, between applications and across-security-domains (multi-domain solutions like data attribution and HR modernization.)
+
+# Other
+- dark social(https://en.wikipedia.org/wiki/Dark_social_media): Dark social media, dark social, or dark traffic, are social shares that do not contain any digital referral information about the source. The idea is generally used by web analytics as well as in online advertising. In contrary to the sharing on social networking service like Facebook, which is done publicly, Dark social is done privately through IRC channels, emails, SMS or simply copy-and-paste and other ways of private sharing. Not to confuse with deep web, dark social media is not about the content but the traffic of online sharing. These sharing activities will often come up under the name of direct, typed/bookmarked or other similar form in today's web analytic services. And in 2014, it is believed that Dark Social consisted of 69% of sharing activities globally, whereas Facebook only holds 23%.

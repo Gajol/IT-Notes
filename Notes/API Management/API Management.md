@@ -12,7 +12,7 @@ This article discusses API management, some API management vendors and open-sour
  API management is the process of creating and publishing web application programming interfaces (APIs), enforcing their usage policies, controlling access, nurturing the subscriber community, collecting and analyzing usage statistics, and reporting on performance. API Management components provide mechanisms and tools to support developer and subscriber community ([Wikipedia - API Management](https://en.wikipedia.org/wiki/API_management))
 
 ## Why API management?
-A single point of entry for all connected systems and services.  Helps developers (IT, client-external, business-citizen) develop to APIs.
+A single point of entry for all connected systems and services.  Helps developers (IT, client-authenitcation, authenitcation, business-citizen) develop to APIs.
 
 - [CMS Wire - Why API Management](https://www.cmswire.com/information-management/what-is-api-management-and-why-do-i-need-it/).   See the below informaation for the featres of API management.
 
@@ -105,13 +105,13 @@ Other technologies include ESB, Streaming (Kafka, ), Service Mesh, Message Queue
 |--|--|--|--|
 |Point-to-Point Messaging|||Message Queue (Rabbit MQ or IBM MessageQ)|
 |Managed File |TransferTransfer Large Files: sharing databases, videos, datasets|backups, open data, ...|JSCape, Axway, ...|
-|API Management|Manage APIs, Develop APIs, Monetize APIs||Microsoft APIM, apigee microgateway(https://github.com/apigee-internal/microgateway), [Google apigee](https://cloud.google.com/apigee)|
+|API Management|Manage APIs, Develop APIs, Monetize APIs||[Microsoft APIM](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts), [Apigee microgateway](https://github.com/apigee-internal/microgateway), [Google Apigee](https://cloud.google.com/apigee). [Google Apigee vs ESB - 2016](https://cloud.google.com/blog/products/api-management/differences-between-api-and-esb-patterns)|
 |[Message Oriented Middleware](https://en.wikipedia.org/wiki/Message-oriented_middleware)|||[Jakarta - JMS (Java)](https://en.wikipedia.org/wiki/Jakarta_Messaging)|
 |Event Streaming|stream events at scale (IoT)|Social Media streams (LinkedIn)|Kafka|
 |Service Mesh|Orchestrate Kubernetes Containers||*TODO better list of Service Mesh* [NGINX Ingress Controller](https://www.nginx.com/products/nginx-ingress-controller/)|
 |[Tightly Coupled Communication]()|*not recommended*|1990's|CORBA, [Java Messaging Interface](https://en.wikipedia.org/wiki/Java_remote_method_invocation)|
 
-Good article: [Kafka and Mulesoft](https://www.kai-waehner.de/blog/2020/05/25/api-management-gateway-apache-kafka-comparison-mulesoft-kong-apigee/)
+Good article: [Apache Kafka and API Management / API Gateway Comparison](https://www.kai-waehner.de/blog/2020/05/25/api-management-gateway-apache-kafka-comparison-mulesoft-kong-apigee/)
 > To be fair, Kafka is not the best solution for every problem. If you need point-to-point messaging, use something like RabbitMQ or IBM MQ. If you need to transfer large files, evaluate the market for MFT (Managed File Transfer) products. And… If you need to manage and monetize APIs, then evaluate API Management solutions.
 
 ## Problem Space .
@@ -187,7 +187,7 @@ API Proxy; why use it:
 
 Features:
 - API keys
-- user authenitcation
+- user authentication
 - Automated deployment
 - Integration (Google [Cloud Endpoints Framework web framework for AppEngine](https://cloud.google.com/endpoints/docs/frameworks/about-cloud-endpoints-frameworks) or add OpenAPI specfication)
   - API management via [Google Estensible Service Proxy - ESP](https://cloud.google.com/endpoints/docs/frameworks/about-cloud-endpoints-frameworks#python).  Supports both [gRPC](https://grpc.io/) and [OpenAPI]() endpoints.

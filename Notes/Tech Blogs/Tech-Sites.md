@@ -43,6 +43,14 @@
 - [Hacker News](https://news.ycombinator.com/news)
 - [Verizon Verizon Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/dbir/)
 
+# Software Development
+
+Ruby - 37signals
+[37signals - Manifesto(https://37signals.com/manifesto)
+
+[basecampe](https://basecamp.com/gettingreal)
+
+
 ## Governments
 - [UK NCSC - National Cyber Security Centre](https://www.ncsc.gov.uk/) - [Useful Filter Results Search](https://www.ncsc.gov.uk/section/advice-guidance/all-topics?allTopics=true&topics=access%20control&sort=date%2Bdesc)
 - [Statistics Canada - StatsCan](https://github.com/StatCan)

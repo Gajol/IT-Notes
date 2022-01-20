@@ -5,13 +5,13 @@ API's should be lightweight.  If the API contains a significant amount of busine
 
 # Integration Services Layer
 
-Terminology
-Full Stack Teams : Team owns visualization code/software, integration/API software/code, the database code and the infrastructure code.
-Event Driven Architecture (EDA) : Systems are loosely coupled and communicate through the generation and consumption of events.  Streams (see Streams.md document)
-Message Oriented Middleware (MOM) : The services integration layer.  Choose a technology and ensure we have a team to fully support the technology (both reliablity/integrity and availability).  Choices include Apache ServiceMix, RabbitMQ, Nats.io, Kafka, etc.   
+## Terminology
+- Full Stack Teams : Team owns visualization code/software, integration/API software/code, the database code and the infrastructure code.
+- Event Driven Architecture (EDA) : Systems are loosely coupled and communicate through the generation and consumption of events.  Streams (see Streams.md document)
+- Message Oriented Middleware (MOM) : The services integration layer.  Choose a technology and ensure we have a team to fully support the technology (both reliablity/integrity and availability).  Choices include Apache ServiceMix, RabbitMQ, Nats.io, Kafka, etc.   
 
 
-Patterns
+## Patterns
 - BFF - Back-End for Front-End
 
 # References

@@ -10,13 +10,13 @@
 - [Moodle Product Comparison](https://moodle.com/wp-content/uploads/2020/05/Product_Comparison_MoodlevsWorkplace-1.pdf)
 
 ## Ilias
+
 Ilias - used by 80-90 police services in Canada
-https://products.containerize.com/lms/ilias/
-[Ilias - Github](https://github.com/ILIAS-eLearning/ILIAS) : open-source, php
-- PHP based
+- [Ilias - Deployment Instructions](https://products.containerize.com/lms/ilias/)
+- [Ilias - Github](https://github.com/ILIAS-eLearning/ILIAS) : open-source, php
 
 # Quality Requirements - Non-Functional
-Many of our projects are delayed, paused or cancelled due to non-functional requirements.  The root cause of these has not been discussed or documented as part of lessons-learned.   One possible cause is the difficulties in standing-up technology in an air-gapped environmented disconnected from the internet.  The following is a brief list of quality requirements that often de-rail projects progress.   These should be considered when doing options analysis and during the project lifecycle.
+Many of our projects are delayed, paused or cancelled due to non-functional requirements.  The root cause of these has not been discussed or documented as part of lessons-learned.   One possible cause is the difficulties in standing-up technology in an air-gapped environment disconnected from the internet.  The following is a brief list of quality requirements that often de-rail projects progress.   These should be considered when doing options analysis and during the project lifecycle.
 1. Classified Training : Training available on a TS-network.   Assume security categorization is TSMM.
 1. Bilingual : Training in both official languages.
 1. Accessible : Training regardless of accessibility as we often get our business-requirements phrased as.   Assume WCAG 2.0 at a minimum.
@@ -61,12 +61,12 @@ Not sure we need to be compliant with these, but these are easily googleable sta
   - Import / Export Competency Structure
   - Automated Workflows
   - Dynamic Rules based Conditions and Actions (ITTT)
-1. Enrollment Management
-  - Manual enrollment
-  - Automated enrollment
-  - Courses self-enrollment
-  - Cohort and gorup based enrollment
-  - Competency based enrollment
+1. Enrolment Management
+  - Manual enrolment
+  - Automated enrolment
+  - Courses self-enrolment
+  - Cohort and group based enrolment
+  - Competency based enrolment
 1. Personalized Learning
   - Program Management
   - Certification and Compliance Tracking
@@ -90,5 +90,5 @@ Not sure we need to be compliant with these, but these are easily googleable sta
 - [Learning - Authoring System](https://en.wikipedia.org/wiki/Authoring_system)
 
 # Other Open Source
-Chamilo : https://products.containerize.com/lms/chamilo/
-Canvas : https://products.containerize.com/lms/canvas/
+- [Chamilo](https://products.containerize.com/lms/chamilo/)
+- [Canvas](https://products.containerize.com/lms/canvas/)

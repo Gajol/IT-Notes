@@ -44,9 +44,16 @@ Drupal 8 offers by default the Forum module in Core
 Drupal Content Editor / Content Manager
 [Writer’s Guide](https://www.drupal.org/project/writers_guide)
 
+#References
+
+- [Drupal Founder : Dries Buytaert](https://dri.es/) - Founder and CTO of [Acquia](https://www.acquia.com/) - a SaaS DxP provider. [Dries Principles for Life](https://dri.es/principles-for-life)
+- [OPIN](https://www.opin.ca/) : Ottawa Drupal Firm
+
+## Modules
+- [Pathauto](https://www.drupal.org/project/pathauto) - Provides clean url's automatically : .../yyyy-mm-dd/title/.... [Pathauto - Documentation](https://www.drupal.org/documentation/modules/pathauto)
 
 
-Wordpress has bbPress..
+# Wordpress has bbPress..
 Community Features:  User Profiles,
 https://en.wikipedia.org/wiki/BuddyPress : It is a plugin that can be installed on WordPress to transform it into a social network platform
 Members can register on your site to create user profiles, have private conversations, make social connections, create and interact in groups, and much more. Truly a social network in a box, BuddyPress helps you build a home for your company, school, sports team, or other niche community.[Blog Site](https://owenmorrill.com/one-year-of-software-engineering-at-an-agency/)

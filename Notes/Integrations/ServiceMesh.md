@@ -110,3 +110,14 @@ Proxy Behavior:
 
 
   # 3. Adding Services to the Mesh
+
+
+
+  # Istio Alternatives
+  [Apigee]()
+  [Kong Mesh]()
+  [Linkerd]()
+  [Envoy]()
+  [AWS App Mesh]()
+  [Solace - part of GC CDXP]()
+  [Consul Connect](https://www.hashicorp.com/products/consul/multi-platform-service-mesh/)

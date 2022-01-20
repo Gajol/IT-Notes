@@ -9,3 +9,6 @@ https://flight-manual.atom.io/using-atom/sections/version-control-in-atom/
 # Editing
 Column Editing
 : Alt-Shift Arrow/Page/Home/End
+
+
+Ctrl-R : Jump to Method / Heading

@@ -7,7 +7,7 @@
 |--|--|--|--|
 |Offset|V1|Low, squatty body position. Feet in wider stance.  Skis in stronger V-angle (changes with steepness).  Arms and polling is assymmetrical (although Europe is teach symmetry). 3:1 timing - [2-skis/1-pole] at same time, then 1-ski.   |Most Powerful, Least efficient.   For when going slow (slow snow, uphill)|
 |One Skate|V2|Pole each leg push.  Ski Down -> Torso-up/poles-up -> pole|Most advanced.  Requires the best balance|
-|Two Skate|V2 Alternate|Box-drill.  Similar poling action as One Skate, but only poling on one kick.   AKA ["Russian Dance"](https://www.youtube.com/watch?v=i2vfnmRfYCk) with "swing and pole".  "Swing" is arm recovery during off-leg kick, "Pole" is on the pole-kick leg. [Stomp foot down then bring hands forward](https://youtu.be/i2vfnmRfYCk?t=73).  Down-push with both legs equally.|Open field skating.  Most efficient, use to maintain high speed, relaxed, sustainable for long time, least power.  High speed, easy to confuse with V1|
+|Two Skate|V2 Alternate|Box-drill.  Similar poling action as One Skate, but only polling on one kick.   AKA ["Russian Dance"](https://www.youtube.com/watch?v=i2vfnmRfYCk) with "swing and pole".  "Swing" is arm recovery during off-leg kick, "Pole" is on the pole-kick leg. [Stomp foot down then bring hands forward](https://youtu.be/i2vfnmRfYCk?t=73).  Down-push with both legs equally.|Open field skating.  Most efficient, use to maintain high speed, relaxed, sustainable for long time, least power.  High speed, easy to confuse with V1|
 
 [Nordic Ski Lab - 5 Techniques](https://www.youtube.com/watch?v=QEJnPtrtri4).  In order of power to speed (more glide is you move down list)
 1. Diagonal Skate

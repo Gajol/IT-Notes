@@ -17,8 +17,10 @@
 [The New Stack](https://thenewstack.io/podcasts/)
 
 # Data
+- [CKAN - Open Datasets Catalog](https://ckan.org/blog)
 - [DataStax - NoSQL](https://www.datastax.com/blog)
 - [DataBricks - Spark](https://databricks.com/blog)
+- [Kaggle - Data](https://medium.com/kaggle-blog)
 
 ## Data Science
 - [Anaconda](https://www.anaconda.com/blog)
@@ -51,6 +53,9 @@
 # Vendors
 - [SolarWinds](https://thwack.solarwinds.com/)
 
+# SaaS
+- [Snowflake - Data Warehouse](https://www.snowflake.com/blog/)
+
 # Government
 
 ## USA
@@ -78,6 +83,14 @@
 # businesses
 - [Micheline Tire - Driving Data to Intelligence - DDI](https://ddi.michelin.com/en/)
 
+# Security
+[Lets Encrypt](https://letsencrypt.org) : [ISRG (Internet Security Research Group](https://www.abtterinternet.org)) focusing on internet security, with Let's Encrypt aim to make TLS certificates available for free in an automated fashion.
+
+# Social Media
+[Twiter Code Changes - 12 months](https://opensource.twitter.dev/year-in-review/#top10)
+[Twitter Github](https://github.com/twitter)
+[Twitter Open Source Development - Github - twitter.github.io](https://opensource.twitter.dev/)
+
 
 # Standards Organizations
 [The Open Group](https://blog.opengroup.org/)
@@ -93,3 +106,10 @@
 [BBC Technology](https://www.bbc.com/news/technology)
 [NYT](https://www.nytimes.com/section/technology)
 [Washington Post](https://www.washingtonpost.com/business/technology/)
+
+
+# Telecom - ICT
+[AT&T Cybersecurity](https://cybersecurity.att.com/)
+
+# User Experience
+- [Nielsen Normal Group - NNG](https://www.nngroup.com/)

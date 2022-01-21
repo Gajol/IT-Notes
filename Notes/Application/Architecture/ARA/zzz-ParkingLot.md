@@ -22,6 +22,10 @@ Organization Model / Operating Model [[Wikipedia - Operating Model]](https://en.
 Value Streams: See also [Scaled-Agile Framework - SAFe - Value Streams](https://www.scaledagileframework.com/value-streams/).  Agile Release Trains (ART) within each value stream develop the business solutions used by the operational value streams. ARTs are cross-functional and have all the capabilities—software, hardware, firmware, and other—needed to define, implement, test, deploy, release, and where applicable, operate solutions.
 
 
+../Samsung Downloads / 12 requirements Cloudera...
+
+
+
 # Personal Interest  
 
 Does noone use serialization anymore: The designers figured that since three-tiered architecture would forever be the architecture style, baking it into the language would offer a great convenience. Of course, that architectural style came and went, yet the leftovers appear in Java to this day, greatly frustrating the language designer who wants to add modern features that, for backward compatibility, must support serialization, which virtually no one uses today

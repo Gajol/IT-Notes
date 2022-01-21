@@ -62,3 +62,30 @@ Atlassian Tutorial : https://www.atlassian.com/git/tutorials/saving-changes/git-
 
 # tutorials
 - [move files to another repo](https://medium.com/@ayushya/move-directory-from-one-repository-to-another-preserving-git-history-d210fa049d4b) - includes *git remote rm origin* to unlike local from remote for safety.
+
+
+# Git Build  
+
+
+
+*TODO* Static Site Generator
+
+Generate Combined Markdown File:
+https://antora.org/
+The multi-repository documentation site generator for tech writers who  writing in AsciiDoc.
+
+## Markdown Preprocessor
+https://github.com/jreese/markdown-pp
+NOTICE: This project is no longer actively maintained. It will not receive any future releases.
+https://github.com/jreese/markdown-pp
+https://adityam.github.io/context-blog/post/markdown-with-gpp/
+
+https://github.com/SeanSobey/markdown-preprocessor  (extends gitdown)
+zeromq gitdown - https://awesomeopensource.com/project/zeromq/gitdown
+- gitdown mainted by https://www.howold.co/person/pieter-hintjens/biography (Peite died 2016)
+
+- Gitdown:  https://github.com/gajus/gitdown  
+
+
+https://github.com/CDSoft/pp
+https://logological.org/gpp

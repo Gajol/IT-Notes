@@ -82,9 +82,11 @@ https://adityam.github.io/context-blog/post/markdown-with-gpp/
 
 https://github.com/SeanSobey/markdown-preprocessor  (extends gitdown)
 zeromq gitdown - https://awesomeopensource.com/project/zeromq/gitdown
-- gitdown mainted by https://www.howold.co/person/pieter-hintjens/biography (Peite died 2016)
+- gitdown maintained by https://www.howold.co/person/pieter-hintjens/biography (Peiter died 2016)
 
 - Gitdown:  https://github.com/gajus/gitdown  
+  - including Gists:  https://github.com/gajus/gitdown/issues/7
+  
 
 
 https://github.com/CDSoft/pp

@@ -13,18 +13,7 @@
 - [Building Microservices](https://samnewman.io/index.html), Newman, Sam
 [Monolith to Microservices](https://samnewman.io/index.html), Newman, Sam
 
-<<<<<<< HEAD
 - [MongoDB: The Definitive Guide - O'Reilly](https://www.oreilly.com/library/view/mongodb-the-definitive/9781491954454/)
 
 - [  - The Flaw of Averages: Why we Underestimate Risk in the Face of Uncertainty, John Wiley & Sons, either the 1st or 2nd Edition.](https://online.stanford.edu/courses/soe-ycee0001-introduction-probability-management)
   - [Stanford edX - Intro to Probability Management](https://www.edx.org/course/introduction-to-probability-management)
-=======
-# Vendor Books / Advertizements
-[Databricks - The Big Book of Data Science Use Cases](https://1drv.ms/b/s!AkwXSmFk-_xpgfx-enVQ-P65yKWWIA?e=v3JStp)
-
-50 Years Data Science - https://1drv.ms/b/s!AkwXSmFk-_xpnE8PpFqzJ-HFMXDS?e=2fkt3j
-
-
-# Security
-[Threat Modelling - Designing for Security](https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998)
->>>>>>> c265f1557e912719cdd2cbef254ef312695404b4

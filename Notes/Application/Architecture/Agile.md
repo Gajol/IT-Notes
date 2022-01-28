@@ -1,5 +1,7 @@
 
-# [Agile Manifesto](https://agilemanifesto.org/)
+# Agile
+
+## [Agile Manifesto](https://agilemanifesto.org/)
 
 Manifesto for Agile Software Development
 We are uncovering better ways of developing
@@ -14,7 +16,7 @@ Through this work we have come to value:
 That is, while there is value in the items on
 the right, we value the items on the left more.
 
-# [Principles](http://agilemanifesto.org/principles.html)
+## [Principles](http://agilemanifesto.org/principles.html)
 - Our highest priority is to satisfy the customer
 through early and continuous delivery
 of valuable software.
@@ -57,7 +59,7 @@ emerge from self-organizing teams.
 to become more effective, then tunes and adjusts
 its behavior accordingly.
 
-# Frameworks
+## Agile Frameworks
 
 - Scrum - [Scrum Definition](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100):
 Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.  Roles: Product Owner, Scrum Master, Developers.
@@ -67,12 +69,12 @@ In a nutshell, Scrum requires a Scrum Master to foster an environment where:
   3. The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.
   4. Repeat
 
-# SAFe - Agile @ Enterprise Scale
+## SAFe - Agile @ Enterprise Scale
 [Scaled Agile Framework - Enterprise (SAFe)](https://www.scaledagileframework.com/safe-lean-agile-principles/)
 [Atlassian SAFe Definition](https://www.atlassian.com/agile/agile-at-scale/what-is-safe) - three primary bodies of knowledge: agile software development, lean product development, and systems thinking.
   - Note, large companies like Spotify do not follow SAFe.
 
-## SAFe Principles
+### SAFe Principles
 1. Take an economic view
 1. Apply systems thinking
 1. Assume variability; preserve options
@@ -84,14 +86,14 @@ In a nutshell, Scrum requires a Scrum Master to foster an environment where:
 1. Decentralize decision-making
 1. Organize around value
 
-# Agile Practices
+## Agile Practices
 from LEAN:
 - short cycles
 - non-negotiable quality
 - regular retrospectives
 - pulling work from a backlog
 
-# Agile Terms
+## Agile Terms
 - MVP - Minmal Viable Product
 - MVE - Minimal Viable Experiment
 - MMF - Minimal Marketable Feature

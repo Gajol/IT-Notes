@@ -29,7 +29,7 @@ Architecture Characteristics:
 
 - Architecture characteristics are the aspects the system must do that is not directly related to the domain functionality. We often call these non-functional requirements; however I would prefer to use the term Quality Requirements.  Characteristics have three criteria: 1) specifies a non-domain (non-functional) consideration, 2) influences some aspect of the design, and 3) is critical/important to the application's success. A few are listed below [[Richards, Mark. & Ford, Neil. Fundamentals of software architecture: an engineering approach. (O’Reilly, 2020) - Chapter 4. Architecture Characteristics Defined](http://www.worldcat.org/isbn/9781492043454)]:
   - operational characteristics: availability, business continuity, performance, recoverability, robustness, scalability, elasticity.
-  - structural characterists: configurability, extensibility, installability, reusability, localization, maintainabilty, portability, supportability, upgradeability.
+  - structural characteristics: configurability, extensibility, installability, reusability, localization, maintainabilty, portability, supportability, upgradeability.
   - cross-cutting: authentication, authorization, legal, privacy, security, supportabilty, usability, achievability, compatibilty, interoperability.
   - See [Neal Ford's Presentation with List of Quality Attributes](http://nealford.com/downloads/Evolutionary_Architectures_by_Neal_Ford.pdf)
 

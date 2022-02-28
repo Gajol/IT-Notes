@@ -1,4 +1,5 @@
 
+# Systems Thinking
 
 [Systems Theory](https://en.wikipedia.org/wiki/Systems_theory#In_engineering)
 - dates back to antiquity
@@ -25,7 +26,7 @@ Analysis : Analysis Is about dissection of complexity into manageable components
 
 Synthesis : Is about understanding the whole and the parts at the same time, along with the relationships and the connections that make up the dynamics of the whole. (Synthesis looks out of things.)
 
-approach
+Approach
 1. Identify a system
 1. Explain the behaviour or properties of the whole system (Synthesis)
 1. Explain the behaviour or properties

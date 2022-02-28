@@ -112,6 +112,10 @@ Semantic interoperability is the ability of computer systems to exchange data wi
 - PATCH version when you make backwards compatible bug fixes.
 Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
+# EDA
+- [AsynchAPI](https://www.asyncapi.com/) : AsyncAPI is an open source initiative that seeks to improve the current state of Event-Driven Architectures (EDA). Our long-term goal is to make working with EDAs as easy as it is to work with REST APIs. That goes from documentation to code generation, from discovery to event management. Most of the processes you apply to your REST APIs nowadays would be applicable to your event-driven/asynchronous APIs too.  To make this happen, the first step has been to create a specification that allows developers, architects, and product managers to define the interfaces of an async API. Much like [OpenAPI](https://github.com/OAI/OpenAPI-Specification) (fka Swagger) does for REST APIs.
+
+
 
 # Identity
 - identity: The information and processes by which a person, device, organization or application can be differentiated from all others at a computing level is known as a digital identity.  Proving __digital identity__ is critical to properly assigning __access levels__ for applications, service and data. This assignment of access based on a digital identity is known as __identity management__.

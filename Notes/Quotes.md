@@ -32,3 +32,15 @@ John Madden [NFL], "3 rules, not many, since others had nothing to do with what 
 
 Jack Handey, I want to die peacefully in my sleep like my grandfather.  
 https://en.wikipedia.org/wiki/Jack_Handey
+
+intelligence
+
+*Intelligence shortcomings have a thousand fathers; secret intelligence triumphs are orphans.*
+― old sayings
+
+
+*It ain't what you know that gets you in trouble.*
+*It's what you know for sure that just ain't so.*
+Mark Twain
+
+*Where there is no consequence for poor work ethic, and no reward for good work ethic, there is no motivation.*

@@ -21,3 +21,7 @@ Create a runtime instance of fully-typed SDK for the services.
 Convert API specs to GraphQL schema
 Applies custom schema transformations and schema extensions
 Creates fully-typed, single schema, GraphQL SDK to fetch data from your services.
+
+
+# GraphQL and REST 
+- https://blog.stoplight.io/lets-debate-graphql-vs-rest

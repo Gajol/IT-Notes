@@ -1,0 +1,29 @@
+
+
+# Executive order on improving the nation’s cybersecurity
+
+Key Highlights of Executive Order by Ernst & Young Summary
+
+### Removing barriers to sharing threat information
+The Director of the Office of Management and Budget (OMB) must review and recommend updates to the Federal Acquisition Regulation and the Defense Federal Acquisition Regulation Supplement (DFARS) contracting language with information technology (IT) and operational technology (OT) service providers. The purpose of the review and subsequent recommendations is to ensure that IT and OT service providers entering into contracts with federal agencies promptly share certain cybersecurity breach information with the U.S. Government and increase public-private collaboration related to such incidents.
+
+### Modernizing federal government cybersecurity
+The head of each agency shall update existing plans to prioritize resources for the adoption and use of cloud technology and develop a plan to implement zero-trust architecture. The Order also directs federal agencies to adopt certain security controls known to mitigate risks to sensitive data and systems, including multifactor authentication (MFA) and encryption for data at rest and in transit.
+
+### Enhancing software supply chain security
+As directed by the Order, the Secretary of Commerce solicited input in June from the U.S. Government, private sector and academia to identify existing or develop new standards, tools and leading practices to enhance the security of the software supply chain. The Secretary of Commerce will subsequently issue guidance, incorporating feedback, identifying practices that enhance the security of the software supply chain, emphasizing the importance of security controls like segmentation, MFA, encryption, and endpoint detection and response tools (EDR).
+
+### Establishing a Cyber Safety Review Board
+The Secretary of Homeland Security, in consultation with the Attorney General, shall establish the Cyber Safety Review Board, which will include both U.S. Government staff and private-sector representatives. The board is to be modeled after the National Transportation Safety Board and will be responsible for reviewing and assessing all cyber incidents with respect to agency information systems, excluding those for the Department of Defense (DoD) and intelligence community. The board is directed to provide recommendations to the President for improving cybersecurity and incident response practices upon completion of each incident review.
+
+### Standardizing the federal government’s response to cybersecurity vulnerabilities and incidents
+Within 120 days of the date of the Order, the Secretary of Homeland Security shall develop a standard set of operation procedures (referred to in the Order as the “federal government’s playbook”) to be used in planning and conducting cybersecurity vulnerability and incident response activities with respect to all agency systems, except those for the DoD and the intelligence community.
+
+## What does this mean for organizations contracting with the U.S. Government?
+The Order will directly impact organizations that contract with the U.S. Government. Companies that provide IT and OT software or cloud services to the U.S. Government are likely to experience the most immediate impact of the Order, particularly as new requirements are incorporated into contracts. In addition to the impacts on organizations contracting with the U.S. Government and their supply chains, the downstream effects will likely impact the broader private sector as the cybersecurity standards set forth in the Order become industry leading practices. Certain initiatives, such as the increased adoption of zero-trust security and an accelerated movement to secure cloud services, will become more prominent components of network architecture, as organizations follow the model of the U.S. Government and its agencies.
+
+For example, the Cyber Safety Review Board may play a significant role in drawing post-incident lessons learned that will guide public and private sector activities going forward. Additionally, the impact of the Order to be felt by manufacturers and operators of industrial systems, not just enterprise systems. U.S. Government contractors should expect additional guidance, as seen with the National Institute of Standards Technology white paper released on June 25, 2021, “Definition of Critical Software Under Executive Order (EO) 14028.”
+
+The Order focuses on information-sharing requirements for DoD federal contractors or suppliers. However, non-DoD contractors will likely benefit from evaluating whether these changes will raise expectations for sharing cyber incident information with federal agencies. For example, businesses may benefit from tracking guidance and expectations regarding what information to share and when. Forthcoming guidance may help inform organizations contracting with civilian agencies with respect to how to manage information sharing, which can often be time-consuming while resources are stretched during the response to a cyber incident. Notably, while mentioning privacy considerations, the Order outlines expectations that increased sharing shall occur while adhering to privacy laws, regulations and policies.
+
+Additionally, in section 2, subsection H of the Order it states, “Current cybersecurity requirements for unclassified system contractors are largely implemented through agency-specific policies and regulations, including cloud-service cybersecurity requirements. Standardizing common cybersecurity contractual requirements across agencies will streamline and improve compliance for vendors and the U.S Government.” This could lay the groundwork for requiring the Cybersecurity Maturity Model Certification (CMMC) for contractors, regardless of the agency with which they contract.

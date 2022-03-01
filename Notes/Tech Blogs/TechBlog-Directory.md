@@ -14,6 +14,8 @@
 - [APIs You Won't Hate](https://apisyouwonthate.com/blog)
 - [Stoplight.io](https://blog.stoplight.io/) : Collaborative API-first design for quality APIs.  API Developer Experience.
 
+## Cloud
+- [Google Cloud Architecture Center](https://cloud.google.com/architecture)
 
 ## Collaboration, Messaging, SMS, ...
 - [Twilio](https://www.twilio.com/blog)
@@ -140,9 +142,14 @@ Committees:
 [NYT](https://www.nytimes.com/section/technology)
 [Washington Post](https://www.washingtonpost.com/business/technology/)
 
+# Technical Journals
+- [BMJ Journals Health & Science - Quality and Safety](https://qualitysafety.bmj.com/)
 
 # Telecom - ICT
 [AT&T Cybersecurity](https://cybersecurity.att.com/)
+
+# University
+- [Harvard Data Privacy Lab](https://www.iq.harvard.edu/people/program/data-privacy-lab)
 
 # User Experience
 - [Nielsen Normal Group - NNG](https://www.nngroup.com/)

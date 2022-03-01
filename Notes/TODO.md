@@ -11,3 +11,7 @@ https://www.linkedin.com/jobs/view/2871475279/?refId=b%2FsrZNU%2FSpWwOLDNT5fWnw%
 
 
 - TODO [ see ../Application/Architecture/SystemsThinking.md]
+
+
+Web Application on Azure Kubernetes
+https://www.coursera.org/projects/deploy-web-app-azure-kubernetes-service

@@ -171,7 +171,7 @@ From [Coursera - DevOps Culture and Mindset](https://www.coursera.org/lecture/de
 1. Defer Commitment : Make decisions at the right time, with analysis and considerations.  Defer decisions until you have more information.  Understand impact of decisions.   *Take your time. When the decision is irreversible, give yourself time and space to think it through. When the decision is easily reversible, don't overthink it.*[Dries - Drupal - Decisions](https://dri.es/principles-for-life)
 1. Deliver Fast : Ensure feedback received early and often allowing to change and adapt.  Deliver in smaller batches which will allow you to deliver faster.
 1. Respect People : Lean and DevOps rely on a culture of respect.
-1. Optimize the Whole : Employ Systems Thinking. (see ../Application/Architecture/SystemsThinking.). ![Systems Thinking](../Application/Architecture/SystemsThinking.md)
+1. Optimize the Whole : Employ Systems Thinking. (see ../Application/Architecture/SystemsThinking.). ![Systems Thinking](../Architecture/SystemsThinking.md)
 
 
 ## Thieves of Time

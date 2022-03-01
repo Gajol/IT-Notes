@@ -173,6 +173,30 @@ From [Coursera - DevOps Culture and Mindset](https://www.coursera.org/lecture/de
 1. Respect People : Lean and DevOps rely on a culture of respect.
 1. Optimize the Whole : Employ Systems Thinking. (see ../Application/Architecture/SystemsThinking.). ![Systems Thinking](../Architecture/SystemsThinking.md)
 
+# Lean's Wastes
+In manufacturing the Lean wastes are identified as Inventory, Waiting, Defects, Overproduction, Motion, Transportation and Over-processing.   
+
+Adopted to software developments, the Lean wastes are:
+1. Partially Done Work
+1. Extra Features
+1. Revisiting Decisions
+1. Handoffs
+1. Delays
+1. Task Switching
+1. Defects
+
+A ccomparison to different industrices by [Kanbanize](https://kanbanize.com/lean-management/value-waste/7-wastes-of-lean):
+
+|Lean Waste|Manufacturing|Software Development|
+|--|--|--|
+|Transportation|moving parts and materials from one place to another|switching between tasks too often, countless interruptions from colleagues.|
+|Inventory|undelivered products or parts|undelivered code or undelivered features|
+|Motion|unnecessary movement of employees or machinery|unnecessary meetings or extra effort to find information|
+|Waiting|waiting for goods to be delivered|waiting builds, for testing to complete, waiting for code review, and so on|
+|Overproduction|oo many items produced “just in case|producing features that nobody is going to use|
+|Over-processing |Spending a lot of time on a given task. Adding a feature that doesn’t bring value|unnecessary complex algorithms solving simple problems|
+|Defects|broken parts or defective parts that need to be reworked|bugs|
+
 
 ## Thieves of Time
 5 Thieves of Time, from [Making Work Visible, 2017.](https://www.safaribooksonline.com/library/view//9781457191428/?ar).  

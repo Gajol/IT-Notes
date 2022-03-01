@@ -24,6 +24,8 @@ Organizations which design systems … are constrained to produce designs which 
 
 Doug Nielsen, "automation doesn't reduce the number of jobs, no more than LEDs save electricity, or, laundry machines freed our weekends...; like goldfish, humans expand to their environment."
 
+“The ability to learn faster than your competitors may be the only sustainable competitive advantage.” — Arie DeGeus, Royal Dutch Shell
+
 My favorite things in life don’t cost any money. It’s really clear that the most precious resource we all have is time. – Steve Jobs
 
 Wisdom the Wisdom the difference between the things we can change, the things that we can't and the things that we shouldn't.

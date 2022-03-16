@@ -30,3 +30,6 @@ Unix options:
 - schedule jobs using [ISO8601](http://en.wikipedia.org/wiki/ISO_8601) repeating interval notation
 
 [Apache Airflow](https://airflow.apache.org/)
+
+### Airflow
+Airflow is written in Python, and workflows are created via Python scripts. Airflow is designed under the principle of "configuration as code". While other "configuration as code" workflow platforms exist using markup languages like XML, using Python allows developers to import libraries and classes to help them create their workflows. [[Airflow - Wikipedia](https://en.wikipedia.org/wiki/Apache_Airflow)]

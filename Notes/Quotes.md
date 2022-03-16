@@ -46,3 +46,11 @@ intelligence
 Mark Twain
 
 *Where there is no consequence for poor work ethic, and no reward for good work ethic, there is no motivation.*
+
+# Valhalla
+https://www.guide4moms.com/2022/02/85-netflixs-vikings-valhalla-quotes.html
+
+- *I’d rather learn from my victories instead of defeats.*
+- *I saved you because I could not save England. A rotten house cannot be repaired. It must be torn down in order to build a better one.*
+- *We make the tools we need.*
+- *Says the man who lied to me.* - Trust

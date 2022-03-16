@@ -224,6 +224,11 @@ Insane or Kaizen Habits
      - Continual Learning and Experimentation : Taking risks and learning from failure .
      - Understanding that repetition and practice is the prerequisite to mastery.
 
+- [Three Ways of Devops](https://thenewstack.io/the-most-important-tools-for-enabling-devops-in-your-company/): DevOps is a culture (not a team)
+  - Flow: Flow is the ability to get changes into production quickly and then improve their quality and reliability.  Visibility & Managing the Size (Decomposition) help with Flow.  Visibility (see where unit of work is in the process, ...).  Decomposition, in which tasks are broken down into smaller units, is a common way to work more efficiently. Decomposing clarifies daily goals, enables quicker feedback and makes work seem more approachable and less overwhelming.
+  - Feedback.  Feedback is simply information about the results of your processes and projects. For DevOps, this centers on feedback from teams downstream in the process and from production applications. Collaboration tools like Slack and Mattermost have instant-messaging functionality, enabling feedback from downstream and across the organization.   Since one of the central tenets of DevOps is to fix problems as far upstream in the creation process as possible, getting feedback from everyone that your work impacts can make a dramatic difference.  It’s critical to implement effective application performance monitoring (APM). [ Splunk Observability ]
+  - Continuous learning and experimentation.  Focus on continual learning and experimentation.
+
 - 2021 - [Puppet - State of DevOps](https://1drv.ms/b/s!AkwXSmFk-_xpgocjvf4axw0SIKhuNQ?e=3vGOyw)
 - [Culture - DevOps](https://itrevolution.com/devops-culture-part-1/): *“You can’t directly change culture. But you can change behavior, and behavior becomes culture”*
 

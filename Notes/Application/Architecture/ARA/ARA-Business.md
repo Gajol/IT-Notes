@@ -1,6 +1,6 @@
 # Business
 
-Our department has a Business Capabiltiy Map (BCM) describing the main capabilities required to fulfil our mandate.   To help support the business our technology teams provide a broad range of IT capabilities.   Our IT department supports many networks both nationally and internationally.  Within the IT department, our software development team supports an extensive catalogue of applications.
+Our department has a Business Capability Map (BCM) describing the main capabilities required to fulfil our mandate.   To help support the business our technology teams provide a broad range of IT capabilities.   Our IT department supports many networks both nationally and internationally.  Within the IT department, our software development team supports an extensive catalogue of applications.
 
 The health of our portfolio needs to improve as identified in our Corporate Risk Profile (CRP).   Several leadership principles have been established over the years to provide guidance when addressing business needs.   Key principles relating to directing architecture and design are:
 

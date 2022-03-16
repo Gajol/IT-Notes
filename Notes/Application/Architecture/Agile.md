@@ -11,7 +11,7 @@ software by doing it and helping others do it. Through this work we have come to
 - Customer collaboration over contract negotiation
 - Responding to change over following a plan
 
-That is, while there is value in the items on the right, we value the items on the left more.
+That is, while there is value in the items on the right, we value the items on the left more.   For example, Agile does not say do not document development.   [reference Salesforce podcast Why Writing Matters for Engineers](https://www.heroku.com/podcasts/codeish/118-why-writing-matters-for-engineers)
 
 ## [Principles](http://agilemanifesto.org/principles.html)
 - Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
@@ -299,7 +299,9 @@ The Plan-do-check-act Procedure
 If the change did not work, go through the cycle again with a different plan. If you were successful, incorporate what you learned from the test into wider changes. Use what you learned to plan new improvements, beginning the cycle again.
 
 
-
+# TODO
+Add Juran from :
+https://github.com/Gajol/Eloquent-JavaScript/blob/main/Notes/Application/Architecture/SystemsThinking.md
 
 # References
 - [Snee, Ronald D., and Roger Wesley Hoerl. Leading Holistic Improvement with Lean Six Sigma 2.0. Second edition. New York: Pearson Education, Inc, 2018.](http://www.worldcat.org/isbn/9780134299662)

@@ -122,9 +122,11 @@ Committees:
 [Lets Encrypt](https://letsencrypt.org) : [ISRG (Internet Security Research Group](https://www.abtterinternet.org)) focusing on internet security, with Let's Encrypt aim to make TLS certificates available for free in an automated fashion.
 
 # Social Media
-[Twitter Code Changes - 12 months](https://opensource.twitter.dev/year-in-review/#top10)
-[Twitter Github](https://github.com/twitter)
-[Twitter Open Source Development - Github - twitter.github.io](https://opensource.twitter.dev/)
+Twitter:
+- [Twitter Code Changes - 12 months](https://opensource.twitter.dev/year-in-review/#top10)
+- [Twitter Github](https://github.com/twitter)
+- [Twitter Open Source Development - Github - twitter.github.io](https://opensource.twitter.dev/)
+- [Twitter Blog](https://blog.twitter.com/engineering/en_us/topics/open-source)
 
 
 # Standards Organizations

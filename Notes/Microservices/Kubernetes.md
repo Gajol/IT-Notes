@@ -24,10 +24,24 @@
 - kubernetes : services must be able to recover.   Prior to k8s, their services could have dependencies on a database since it the db-service was not moving.  k8s moves services, and services must be able to recover form these moves.
 - wish they had swarmed this project (all devs on hand) - this was tedious and repetitive work for the developers
 
+# Kubernetes Hardening
+- [NSA & CISA Kubernetes Hardening Guidance - 2022-03](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/0/CTR_Kubernetes_Hardening_Guidance_1.1_20220315.PDF):  
+
+# Kubeflow
+- [Kubeflow](https://www.kubeflow.org/): The Machine Learning Toolkit for Kubernetes.  The Kubeflow project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable. Our goal is not to recreate other services, but to provide a straightforward way to deploy best-of-breed open-source systems for ML to diverse infrastructures. Anywhere you are running Kubernetes, you should be able to run Kubeflow.
+
+
+
 
 # Kubernetes Terms
 
 See [Kubernetes Concepts](https://kubernetes.io/docs/concepts/)
+
+- Kubernetes - NSA / CISA Definition: Kubernetes is an open source system that automates the deployment, scaling, and management of applications run in containers. Kubernetes clusters are often hosted in a cloud environment, and provide increased flexibility from traditional software platforms.
+
+  Kubernetes is commonly targeted for three reasons: data theft, computational power theft, or denial of service. Data theft is traditionally the primary motivation; however, cyber actors may attempt to use Kubernetes to harness a network’s underlying infrastructure for computational power for purposes such as cryptocurrency mining.
+
+
 
 ## Sceduling, Peremption and Eviction
 In Kubernetes, scheduling refers to making sure that Pods are matched to Nodes so that the kubelet can run them. Preemption is the process of terminating Pods with lower Priority so that Pods with higher Priority can schedule on Nodes. Eviction is the process of terminating one or more Pods on Nodes.

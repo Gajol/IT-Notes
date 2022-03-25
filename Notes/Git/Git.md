@@ -59,3 +59,7 @@ Atlassian Tutorial : https://www.atlassian.com/git/tutorials/saving-changes/git-
 ```
 git push -f origin master
 ```
+
+
+# Git Sub Modules
+- [Git Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules ) : allow you to work with other git projects inside your project and separate the git commits.

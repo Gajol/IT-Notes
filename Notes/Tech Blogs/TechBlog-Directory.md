@@ -25,6 +25,7 @@
 - [DataStax - NoSQL](https://www.datastax.com/blog)
 - [DataBricks - Spark](https://databricks.com/blog)
 - [Kaggle - Data](https://medium.com/kaggle-blog)
+- [Reddit - Data Is Beautiful](https://www.reddit.com/r/dataisbeautiful/)
 
 ### Data Science
 - [Anaconda](https://www.anaconda.com/blog)

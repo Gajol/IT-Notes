@@ -30,6 +30,7 @@
 
 # Data
 - [mode](https://mode.com) - Collaborative Data Science Platform
+- [Tableau](www.tableau.com/) - [Tableau Blog](https://www.tableau.com/about/blog)
 
 ## Analystics
 - [Advancing Analytics - UK](https://www.advancinganalytics.co.uk/)
@@ -49,6 +50,8 @@ Ruby - 37signals
 [37signals - Manifesto(https://37signals.com/manifesto)
 
 [basecampe](https://basecamp.com/gettingreal)
+
+- [StackShare.io](https://stackshare.io/)
 
 
 ## Governments

@@ -23,13 +23,13 @@ DevOps : developers have more tools to work with per project
 - this tool, this tool, : grows and grows with complexity
 modern microservices architectures : increases the number of projects : exponential leap in complexity.  
 - Proliferation of projects - each DevOps tools must interface with each project.  Interface between each tool and each service adds complexity.  [GitLab - Commit at KubeCon DevOps 2021 - The Next Iteration of DevOps](https://www.youtube.com/watch?v=c_Sd2mY2_kQ&list=PLFGfElNsQthbbMijH56GtkIOpb3QCYibM)
-- becomes unmanageable.  DevOps starts buidling silos (against its orginal goal)
+- becomes unmanageable.  DevOps starts building silos (against its original goal)
 
 Four (4) Phases of DevOps
 1. Disparate Set of Tools: Bring Your Own DevOps : Not a lot of cross-team communication.  Meeting localized need.
-1. Standarized Toolchain: Best in class DevOps. Tools aren't talking to each other, so you are still siloed, and not really doing DevOps (or immature version of DevOps)
+1. Standardized Toolchain: Best in class DevOps. Tools aren't talking to each other, so you are still siloed, and not really doing DevOps (or immature version of DevOps)
 1. Custom Integration: DIY DevOps.  Unified system that works together, visibility, things are working cohesively.  Hard to see across DevOps, audits across different tools, data of tools not normalized.
-1. DevOps Platform: Single Application.  Plan, Create, Verify, Package, Secure, Rlease, Configure, Monitor, Portect, Manage in a single application.    Supported by Gartner, "By 2023, organizations will have switched from multiple point solutions to DevOps value stream delivery platforms to streamline application delivery" - [Gartner Market Guide for DevOps Value Stream Delivery Platform - 2021 - G00736295](https://www.gartner.com/document/4007023).  The need to consolidate tooling, and move off of a toolchain and onto a platform.
+1. DevOps Platform: Single Application.  Plan, Create, Verify, Package, Secure, Release, Configure, Monitor, Protect, Manage in a single application.    Supported by Gartner, "By 2023, organizations will have switched from multiple point solutions to DevOps value stream delivery platforms to streamline application delivery" - [Gartner Market Guide for DevOps Value Stream Delivery Platform - 2021 - G00736295](https://www.gartner.com/document/4007023).  The need to consolidate tooling, and move off of a toolchain and onto a platform.
 
 GitLab - all-in-one DevOps Platform
 - starting, planning,

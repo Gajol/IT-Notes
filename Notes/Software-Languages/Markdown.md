@@ -89,3 +89,8 @@ Jekyll, Hugo, Sculpin, Gatsby
 # Tools
 
 ASIN (Amazon) to ISBN : https://www.asinlist.com/asin-to-ISBN/
+
+# Markdown  
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+old merger - https://github.com/elamperti/MDmesh
+https://github.com/BateleurIO/combine-files

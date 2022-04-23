@@ -1,9 +1,10 @@
 
 
-Drawing Sequence Diagrams / Call Ladder / Messaging Diagrams
+# Drawing Sequence Diagrams / Call Ladder / Messaging Diagrams
+
 https://modeling-languages.com/text-uml-tools-complete-list/
 
-- https://abstratt.github.io/textuml/index.html - Eclipse or Saas (Cloudfier)
+- https://abstratt.github.io/textuml/index.html - Eclipse or SaaS (Cloudfier)
 - https://plantuml.com/  
 
 
@@ -22,10 +23,14 @@ https://cruise.eecs.uottawa.ca/umple/
 
 
 
-SaaS -
-ZenUML (Confluence) - *diagram-as-code"
+## SaaS
+- ZenUML (Confluence) - *diagram-as-code"
 https://www.zenuml.com/#/
 ZenUML was born from a Finance project and is widely used in Bank, FinTech, Telecom, and Retail companies. From day one, we built ZenUML in a way that no data is sent to our server for rendering including image-export. No personal data is stored, transmitted, or otherwise processed by ZenUML’s server.
+
+- [Diagrammer] : Diagrams lets you draw the cloud system architecture in Python code.
+
+
 
 # Diagrams - Simple Wire Diagrams / Sequence Diagrams
 
@@ -36,9 +41,9 @@ https://plantuml.com/en/
 https://asciidoctor.org/docs/asciidoctor-diagram/
 - The extensions supports the AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Bytefield-SVG, Ditaa, dpic, Erd, Gnuplot, GraphViz, Mermaid, Msc, Nomnoml, Pikchr, PlantUML, Shaape, State Machine Cat, SvgBob, Symbolator, Syntrax, UMLet, Vega, Vega-Lite and WaveDrom syntax.
 
-# Mermaid
+## Mermaid
 
-- Mermiad and Github Pages : https://stackoverflow.com/questions/53883747/how-to-make-github-pages-markdown-support-mermaid-diagram
+- Mermaid and GitHub Pages : https://stackoverflow.com/questions/53883747/how-to-make-github-pages-markdown-support-mermaid-diagram
 - Mermaid - https://www.diagrams.net/
 - [diagrams.net (formerly draw.io)](https://www.diagrams.net/)
 - [Mermaid Syntax](https://mermaid-js.github.io/mermaid/#/) : Mermaid is a syntax similar to Markdown where you can use text to describe and automatically generate diagrams. With Mermaid’s Markdown-inspired syntax, you can generate flow charts, UML diagrams, pie charts, Gantt charts, and more.  Mermaid’s syntax is similar to Graphviz DOT and PlantUML, both of which can be inserted into diagrams.net to create diagrams from a text description.  [Mermaid Documentation](https://mermaid-js.github.io/mermaid/#/)
@@ -49,5 +54,18 @@ https://asciidoctor.org/docs/asciidoctor-diagram/
   - [Mermaid Github](https://github.com/mermaid-js/mermaid)
 
 
-
+## Draw.io
 [draw.io - app.diagrams.net)(https://app.diagrams.net/)
+Using draw.io only requires you to store the svg/png file in your repo, and authorize draw.io with your GitHub account 👍
+
+
+## Diagrams.md
+https://gist.github.com/blackcater/1701e845a963216541591106c1bb9d3b
+Works with GitHub Flavoured Markdown (GFM)
+is there anything that works straight away (without extra .js, etc. files) in a GitHub repository's .md file e.g. the README.md file?
+
+Using draw.io only requires you to store the svg/png file in your repo, and authorize draw.io with your GitHub account 👍
+
+
+
+[Diagrammer]:https://diagrams.mingrammer.com/

@@ -139,11 +139,11 @@ In the target cloud architecture:
 - __Managing Changes__ / Breaking API Contracts:  APIs __must__ be versioned to minimize effort in refactoring efforts when an API contract must be broken.  The alternative is to introduce a new microservice which can become operational difficult to manage.  Use semantic versioning x.y.z; where changes in z a.   Adopt [Kubernetes Versioning Scheme](https://kubernetes.io/docs/concepts/overview/kubernetes-api/#api-versioning).   Understand if you are using Global Versioning (in the API level - /api/v1/entities) or Resource Versioning (in an HTTP request header - Accept: application/tld.domain.entities.v2+json).
 
 # Cloud - DevSecOps
-The CSA has defined [*Ths Six Pillars for Cloud SecDevOps](https://cloudsecurityalliance.org/group/DevSecOps/):
+The CSA has defined [*The Six Pillars for Cloud SecDevOps](https://cloudsecurityalliance.org/group/DevSecOps/):
 - collaborative responsibility
 - collaboration and integration
 - pragmatic integration
-- bridging compliance and development 
+- bridging compliance and development
 - automation
 - measure, monitor, report and action
 
@@ -261,7 +261,7 @@ Design Elements:
 Relevant Technologies:  
 - __MFA__: MFA providers
 - __Secrets__: Externalization of secrets from K8s with secrets vault providers.  A principle is k8s secrets "arent' secret".  They are externalized with external vault providers.
-- __Short TTL & SIEM__: short-lived tokens issued and tracked via secrets vault providers with full integration into SIEM tools
+- __Short TTL & SIEM__: short-lived tokens (TTL - Time to Live) issued and tracked via secrets vault providers with full integration into SIEM tools
 - __Segregration__: public-cloud providers account segregation controlled with coarser grained security groups and fine-grained k8s network policies, with break glass user access only.
 
 ## Lessons Learned
@@ -279,6 +279,3 @@ Business Drivers: Understand business drivers.  Spotify and streaming music has 
 
 The HTML specification
 is maintained by the W3C.
-
-*[CSA]: Cloud Security Alliance
-*[W3C]:  World Wide Web Consortium

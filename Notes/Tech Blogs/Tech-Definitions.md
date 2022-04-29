@@ -148,7 +148,10 @@ Additional labels for pre-release and build metadata are available as extensions
 
 National Security System : https://csrc.nist.gov/glossary/term/national_security_system
 
+# Business
 
+Strategy Development
+: Three key parts: a vision (where you are trying to go), a plan (key focus areas to achieve success) and actions (how specifically are you going to progress).
 
 # Observability
 Logs:

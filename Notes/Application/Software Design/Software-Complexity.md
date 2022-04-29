@@ -2,7 +2,7 @@
 
 
 # Semantic Software Design
-From: [Hewitt, Eben. Semantic Software Design: A New Theory and Practical Guide for Modern Architects, 2020.](www.worldcat.org/isbn/978-1-4920-4594-6)
+From: [*Hewitt, Eben. Semantic Software Design: A New Theory and Practical Guide for Modern Architects, 2020.*](www.worldcat.org/isbn/978-1-4920-4594-6)
 
 ## Simplexity
 

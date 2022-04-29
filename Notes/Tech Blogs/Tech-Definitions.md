@@ -1,5 +1,14 @@
 
 # Terms
+
+# Architecture
+
+Principles : Principles are propositions. They assert a set of beliefs about the world. They act as a substrate to a system of values. They serve to guide decision making across your entire organization.
+  - Proposition: something offered for consideration or acceptance
+  - Your principles should be thoughtfully constructed, publicly stated, and often referred to.
+  - Examples: [Digital Principles](https://digitalprinciples.org/principles/), [TOGAF Architecture Principles - How to Create Principles](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap29.html) - {Name, Statement, Rationale, Implications}
+
+
 # Codifying Terms
 [Wikipedia Glossary](https://en.wikipedia.org/wiki/Wikipedia:Glossary).  What features do you want beyond this?
 - metadata for each term to allow facet-searching,

@@ -84,7 +84,7 @@ Proxy Behavior:
     - easy to configure rules
     - fine-grained control @ Application (Layer 7) and Network (Layer 4)
     - rules based on {source client id, client input type, % distribution, geography, ..}
-    - deployment patterns {canaary, A/B testing, ...}
+    - deployment patterns {canary, A/B testing, ...}
   - Security: (very difficult feature in distributed cloud application is to secure the communication between services, data encryption and authentication)
     - challenging since coding the logic each service is complicated.
     - Istio has a feature that establishes secure channel between services (managing service id, certificates and mTLS handshaking)
@@ -94,7 +94,7 @@ Proxy Behavior:
 
   ## Istio Architecture
   - data plane & control plane
-  - data plane is componsed of:
+  - data plane is composed of:
     - a Envoy sidecar proxy (running in same network space as each service)
     - a Mixer: extensible policy evaluation between services
   - control plane: responsible for API's used to configure the proxies and Mixer

@@ -34,3 +34,5 @@ Curlys Law : Do One Thing (Java Principles use this) - from movie *City Slickers
 # Software Principles
 1. Single Responsibility Principle
 Gather together those things that change for the same reason, and separate those things that change for different reasons.  Good system design means that we separate the system into components that can be independently deployed.  [Reference: 97 Things Every Programmer Should Know #76 - 2010 ](http://www.worldcat.org/isbn/978-0-596-80948-5).   SRP is part of SOLID [ref: SOLID Wikipedia](https://en.wikipedia.org/wiki/SOLID)
+
+1. Dependency Inversion Principle - https://codeburst.io/the-dependency-inversion-principle-441b2b36e9b1

@@ -138,8 +138,16 @@ In the target cloud architecture:
 - __API Contracts__:  Each microservice is invoked by a set of interfaces.  Each interface should be clearly defined by a contract using an API definition language.   Use the [OpenAPI Initiative specfication](https://www.openapis.org/) - previously Swagger. [RAML](https://raml.org/) is another standard.  
 - __Managing Changes__ / Breaking API Contracts:  APIs __must__ be versioned to minimize effort in refactoring efforts when an API contract must be broken.  The alternative is to introduce a new microservice which can become operational difficult to manage.  Use semantic versioning x.y.z; where changes in z a.   Adopt [Kubernetes Versioning Scheme](https://kubernetes.io/docs/concepts/overview/kubernetes-api/#api-versioning).   Understand if you are using Global Versioning (in the API level - /api/v1/entities) or Resource Versioning (in an HTTP request header - Accept: application/tld.domain.entities.v2+json).
 
+# Cloud - DevSecOps
+The CSA has defined [*Ths Six Pillars for Cloud SecDevOps](https://cloudsecurityalliance.org/group/DevSecOps/):
+- collaborative responsibility
+- collaboration and integration
+- pragmatic integration
+- bridging compliance and development 
+- automation
+- measure, monitor, report and action
 
-# Refernces
+# References
 
 
 
@@ -267,3 +275,10 @@ Relevant Technologies:
 |Technology explosion, so many choices, analysis paralysis extends timelines|Deciding on what not to do is more important than deciding what you will do.  __Stay focused__, don't get distracted.  There will be a proper time to pivot (without assessing myriads of technologies).  Layout your strategy and layout your architecture and try to execute without too many distractions.   |
 
 Business Drivers: Understand business drivers.  Spotify and streaming music has a different business driven than a bank.  Requirements and regulations will be different.  Business drivers will drive your architecture. j
+
+
+The HTML specification
+is maintained by the W3C.
+
+*[CSA]: Cloud Security Alliance
+*[W3C]:  World Wide Web Consortium

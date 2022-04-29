@@ -74,6 +74,11 @@ sphinx - python document generator - https://www.sphinx-doc.org/en/master/
 
 scrivener - author a book...
 
+# Pandoc
+
+- [Pandoc and Markdown](https://garrettgman.github.io/rmarkdown/authoring_pandoc_markdown.html#footnotes)
+
+
 
 # SSG: JamStack
 

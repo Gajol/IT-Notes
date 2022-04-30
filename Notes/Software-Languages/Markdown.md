@@ -105,3 +105,8 @@ Github Markdown
 - does __not__ support the abbrevation capability.  Where you put a list of expansions at bottom of file and then you can hover over expansions in text:
 *[CSA]: Cloud Security Alliance
 *[W3C]:  World Wide Web Consortium
+
+
+Pandoc - github syntax
+https://learnbyexample.github.io/customizing-pandoc/
+-f gfm   (github flavoured markdown)

@@ -84,7 +84,7 @@ Ruby - 37signals
 - [McKinsey](https://www.mckinsey.com/)
 
 
-# universities
+# Universities
 
 - [Cornell - Arxiv](https://arxiv.org/)
 - [Harvard Technoloyg Review](https://hbr.org/topic/technology)

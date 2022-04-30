@@ -88,7 +88,7 @@ Scrum team: Scrum Master, one Product Owner, Developers  (no hierarchy on the te
 - responsible for all product related activities {collaboration, verification, maintenance, operation, experimentation, research & development, etc }
   - Developers: create a plan for the Sprint, the Sprint Backlog.  Quality by adhering to DoD (Definition of Done), adapt plan each day to Sprint Goal, hold each other account as professionals.
   - Product Owner: Developing and communicating Product Goal, creating and communicating Backlog Items, Ordering Product Backlog items, ensuring Product Backlog is transparent, visible and understood.
-  - Scrum Master: establish Scrum (establih Developers with authority), accountable for Scrum Team's effectiveness, focus team on high-value increments, remove blocks/impediments, ensure Scrum events are positive, productive and timeboxed.
+  - Scrum Master: establish Scrum (establish Developers with authority), accountable for Scrum Team's effectiveness, focus team on high-value increments, remove blocks/impediments, ensure Scrum events are positive, productive and timeboxed.
 
   Increment:  The moment a Product Backlog item meets the Definition of Done, an Increment is born.  
 

@@ -322,3 +322,18 @@ https://github.com/Gajol/Eloquent-JavaScript/blob/main/Notes/Application/Archite
 1. Inflexibility.
 1. Noneconomic flow control.
 1. Centralized control.
+
+
+# Continuous Improvement - 1939 - The Shehart Cycle
+- [Oventhal - Innovation and Problem Solving](https://www.oventhal.com/blog/2019/2/13/the-evolution-of-the-shewhart-cycle)
+- [OneDrive - The Shewhart Cycle](https://1drv.ms/b/s!AkwXSmFk-_xpgqsKCxNrZzYXFMdstA?e=ucedXf)
+
+The PDCA cycle was based on the Shewhart Cycle.
+
+Walter A. Shewhart, a noted statistician working at Bell Labs to develop the national telephone system. He created a three part cycle in 1939. This three-part cycle was a systematic process for continuous improvement. Shewhart wrote:
+
+> These three steps must go in a circle instead of in a straight line, as shown . . . It may be helpful to think of the three steps in the mass production process as steps in the scientific method. In this sense, specification, production, and inspection correspond respectively to making a hypothesis, carrying out an experiment, and testing the hypothesis. The three steps constitute a dynamic scientific process of acquiring knowledge.
+
+> These three steps must go in a circle instead of in a straight line, as shown . . . It may be helpful to think of the three steps in the mass production process as steps in the scientific method. In this sense, specification, production, and inspection correspond respectively to making a hypothesis, carrying out an experiment, and testing the hypothesis. The three steps constitute a dynamic scientific process of acquiring knowledge.
+
+The Shewhart Cycle is: *Specification -> Production -> Inspection*.

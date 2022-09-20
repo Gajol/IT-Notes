@@ -38,6 +38,10 @@
 ## Event Driven Architecture: EDA
 - [Solace PubSub+ Cloud - used by GC CDXP](https://solace.com/resources/blogs)
 
+## Identity Management
+- [Netwrix Blog - AD Management Tools](https://cdn-blog.netwrix.com/)
+- [Sailpoint - Identity Security](https://www.sailpoint.com/blog/)
+
 ## Integrations
 - [Confluent - Kafka](https://www.confluent.io/blog/)
 

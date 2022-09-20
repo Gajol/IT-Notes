@@ -24,6 +24,8 @@ Organizations which design systems … are constrained to produce designs which 
 
 Doug Nielsen, "automation doesn't reduce the number of jobs, no more than LEDs save electricity, or, laundry machines freed our weekends...; like goldfish, humans expand to their environment."
 
+“The ability to learn faster than your competitors may be the only sustainable competitive advantage.” — Arie DeGeus, Royal Dutch Shell
+
 My favorite things in life don’t cost any money. It’s really clear that the most precious resource we all have is time. – Steve Jobs
 
 Wisdom the Wisdom the difference between the things we can change, the things that we can't and the things that we shouldn't.
@@ -32,3 +34,23 @@ John Madden [NFL], "3 rules, not many, since others had nothing to do with what 
 
 Jack Handey, I want to die peacefully in my sleep like my grandfather.  
 https://en.wikipedia.org/wiki/Jack_Handey
+
+intelligence
+
+*Intelligence shortcomings have a thousand fathers; secret intelligence triumphs are orphans.*
+― old sayings
+
+
+*It ain't what you know that gets you in trouble.*
+*It's what you know for sure that just ain't so.*
+Mark Twain
+
+*Where there is no consequence for poor work ethic, and no reward for good work ethic, there is no motivation.*
+
+# Valhalla
+https://www.guide4moms.com/2022/02/85-netflixs-vikings-valhalla-quotes.html
+
+- *I’d rather learn from my victories instead of defeats.*
+- *I saved you because I could not save England. A rotten house cannot be repaired. It must be torn down in order to build a better one.*
+- *We make the tools we need.*
+- *Says the man who lied to me.* - Trust

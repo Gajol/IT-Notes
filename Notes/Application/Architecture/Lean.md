@@ -28,6 +28,9 @@ Lean software practices
 1. Establish a pull (customer's pull value from the next activity)
 1. Seek Perfection. (Seek product perfection and make sure there is no waste)
 
+# Lean - Some common practices
+- Gemba Walk :  The Gema Walk was developed by Toyota, and is founded around the concept of *Power of Engaged Leadership*.  Gemba is Japanese and refers to the actual place.   The concept is that the inefficiencies are visible and can be discovered by walking around the places where value is created.   This is siimlar to Management by Walking Around (MBWA). [[Gemba - Wikipedia](https://en.wikipedia.org/wiki/Gemba)]
+
 # Lean vs Agile Software Development
 [reference](https://www.spaceo.ca/lean-vs-agile-software-development/)
 

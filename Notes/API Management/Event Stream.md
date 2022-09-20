@@ -42,7 +42,7 @@ Event Streaming:
 - decoupled
 - real-time
 
-TODO - Need to defend the above, as most owuld say APIs with ESB have all those characterists.
+TODO - Need to defend the above, as most would say APIs with ESB have all those characterists.
 __2021__ : Handle data at scale.  REST APIs are not ideal (maybe not even possible) due to limitations with scalability.
 
 ##  Comparison to API [Ref: Blog](https://www.kai-waehner.de/blog/2020/05/25/api-management-gateway-apache-kafka-comparison-mulesoft-kong-apigee/)

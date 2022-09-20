@@ -76,3 +76,8 @@ Voldemort is __not__:
 # DB Concepts
 ## Cardinality
 [Dzone TSDB - Cardinality](https://dzone.com/articles/what-is-high-cardinality)
+
+
+# Books
+- [2012 - Seven Databases in Seven Weeks](978-1934356920)
+  - Postgres, Riak, HBase, MongoDB, CouchDB, Neo4J, Redis

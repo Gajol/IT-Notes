@@ -19,6 +19,10 @@ An expression indicating that people should be chosen for jobs or roles based on
 
 "I don't lack emotion, I just process it differently. "
 
+# Business
+Peter Drucker, father of business consulting, famously stated decades ago: *the purpose of any business is to create a customer*
+. A business does that with only two functions: marketing and innovation.
+
 # People
 *Stay away from negative people, they have a problem for every solution.* - Albert Einstein (need to confirm)
 

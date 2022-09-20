@@ -16,3 +16,8 @@ Microservices based on Containers:
 - challenge
   - building and maintaining a series of microservices based on containers
   - orchestrating containers running in distributed computing environments (many technical options)
+
+
+
+  Video - Path to Microservices 2020-09
+  https://www.gartner.com/webinar/virtualevent/3989703?ref=gfeed

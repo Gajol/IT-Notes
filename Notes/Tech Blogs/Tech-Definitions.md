@@ -1,5 +1,14 @@
 
 # Terms
+
+# Architecture
+
+Principles : Principles are propositions. They assert a set of beliefs about the world. They act as a substrate to a system of values. They serve to guide decision making across your entire organization.
+  - Proposition: something offered for consideration or acceptance
+  - Your principles should be thoughtfully constructed, publicly stated, and often referred to.
+  - Examples: [Digital Principles](https://digitalprinciples.org/principles/), [TOGAF Architecture Principles - How to Create Principles](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap29.html) - {Name, Statement, Rationale, Implications}
+
+
 # Codifying Terms
 [Wikipedia Glossary](https://en.wikipedia.org/wiki/Wikipedia:Glossary).  What features do you want beyond this?
 - metadata for each term to allow facet-searching,
@@ -112,6 +121,10 @@ Semantic interoperability is the ability of computer systems to exchange data wi
 - PATCH version when you make backwards compatible bug fixes.
 Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
+# EDA
+- [AsynchAPI](https://www.asyncapi.com/) : AsyncAPI is an open source initiative that seeks to improve the current state of Event-Driven Architectures (EDA). Our long-term goal is to make working with EDAs as easy as it is to work with REST APIs. That goes from documentation to code generation, from discovery to event management. Most of the processes you apply to your REST APIs nowadays would be applicable to your event-driven/asynchronous APIs too.  To make this happen, the first step has been to create a specification that allows developers, architects, and product managers to define the interfaces of an async API. Much like [OpenAPI](https://github.com/OAI/OpenAPI-Specification) (fka Swagger) does for REST APIs.
+
+
 
 # Identity
 - identity: The information and processes by which a person, device, organization or application can be differentiated from all others at a computing level is known as a digital identity.  Proving __digital identity__ is critical to properly assigning __access levels__ for applications, service and data. This assignment of access based on a digital identity is known as __identity management__.
@@ -130,6 +143,15 @@ Additional labels for pre-release and build metadata are available as extensions
 
 
 - Authentication: Authentication is the process of proving the digital identity of a person, device or other entity in order to grant the appropriate level of authorization.
+
+# Security
+
+National Security System : https://csrc.nist.gov/glossary/term/national_security_system
+
+# Business
+
+Strategy Development
+: Three key parts: a vision (where you are trying to go), a plan (key focus areas to achieve success) and actions (how specifically are you going to progress).
 
 # Observability
 Logs:

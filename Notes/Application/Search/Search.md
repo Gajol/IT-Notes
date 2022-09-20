@@ -67,3 +67,18 @@ The Phonetic Analysis plugin provides token filters which convert tokens to thei
 Vendors
 
 IBM GNR - Global Name Recognition
+
+
+
+
+Solr
+Lucene
+Elastic
+
+
+stemming
+stop words
+multi-lingual
+Phonetic
+
+Indexes...

@@ -176,3 +176,11 @@ Architecture
 # To Read / Think About
 
 Building Data Pipeline - kinda dull, but has a DW and the key aspects - https://readwrite.com/2021/07/27/building-a-big-data-pipeline-the-right-way/
+
+
+# CSE Workday
+
+- Web Applications on Azure Kubernetes - WAAK.  Has been SA&A by their information security team.
+- Workday SFTP : ensure it is FIPS compliant -2021-02
+- OpenStack - CI/CD Pipeline - see PB for Names Liza T
+-

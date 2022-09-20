@@ -13,11 +13,11 @@ Text Fields - clearly document acceptable formats [example OpenReferral](http://
 
 ## Continuous Replication
 1. copy data that's in legacy to new
-1. perform data integrity (validation and consistency) checks 1. comparing legacy and new site
+1. perform data integrity (validation and consistency) checks; comparing legacy and new site
 1. setup continuous replication from legacy to new
-1. reactor workloads and services to use the new site
-1. wait for the replication to fully synchronize
-1. start workloads and services
+1. refactor workloads and services to use the new site
+   1. wait for the replication to fully synchronize
+   1. start workloads and services
 1. terminate legacy when no longer needed for fall back
 
 ## Y-Pattern
@@ -36,7 +36,11 @@ Steps:
 ## Strangler Fig Pattern
 ...[Microsoft Strangle Fig Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/strangler-fig)
 - Hard to do with a disparate HR application landscape like we have.  
-- Incrementally replace specific pieces of functionality with new applications and services. Create a façade that intercepts requests going to the backend legacy system. The façade routes these requests either to the legacy application or the new services. Existing features can be migrated to the new system gradually, and consumers can continue using the same interface, unaware that any migration has taken place.
+- Incrementally replace specific pieces of functionality with new applications and services.
+  - Create a façade that intercepts requests going to the backend legacy system.
+  - The façade routes these requests either to the legacy application or the new services.
+  - Existing features can be migrated to the new system gradually
+  - consumers can continue using the same interface, unaware that any migration has taken place.
 
 
 

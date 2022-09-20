@@ -3,13 +3,13 @@
 # Generate table of contents
 {"gitdown": "contents"}
 
-{"gitdown": "include", "file": "./ARA-1-Intro.md"}
+{"gitdown": "include", "file": "./ARA-Intro.md"}
 
-{"gitdown": "include", "file": "./ARA-2.Business.md"}
+{"gitdown": "include", "file": "./ARA-Business.md"}
 
-{"gitdown": "include", "file": "./ARA-3.Discovery.md"}
+{"gitdown": "include", "file": "./ARA-Discovery.md"}
 
-{"gitdown": "include", "file": "./ARA-4.Application.md"}
+{"gitdown": "include", "file": "./ARA-Application.md"}
 
 {"gitdown": "include", "file": "./ARA-Guidance.md"}
 

@@ -7,7 +7,7 @@ __Architecture Levels__
 
 ## Conceptual
 
-The Conceptual level is the most abstract of the three. You can imagine it as a very high up position from which you can see everything/most things, but the trade-off is you can’t see them in detail. Conceptual architecture diagrams effectively function as structural models, so they (ideally should) highlight the relationships between key concepts, not how they work. This means they are not concerned with exposing process flow/sequentiality.
+The Conceptual level is the most abstract of the three. You can imagine it as a very high up position from which you can see everything/most things, but the trade-off is you can’t see them in detail. Conceptual architecture diagrams effectively function as structural models, so they (ideally should) highlight the relationships between key concepts, not how they work. This means they are not concerned with exposing process flow/sequentially.
 
 Modeling things at this level of abstraction is recommended for creating a clear, concise image of the organization and its strategic objectives. Architects that model conceptual architecture ought to portray fundamental concepts only. This is valuable for consolidating multiple agendas, obtaining buy-in from all relevant stakeholders, and ultimately ensuring alignment with the business strategy. Since conceptual architecture does not go into any technical details, it is very adept for communicating with stakeholders that have a business background, e.g. presenting a business strategy model to management.
 

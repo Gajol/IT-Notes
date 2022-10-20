@@ -10,11 +10,11 @@
 | ---------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Empower Your Observer                                | Develop ability to stay composed and calm.                   | Let the phone ring & observe. Be comfortable with silence.   |
 | Use the Choice Map as a Guide                        | Visualization of Learner / Judger Choice                     | Image journey on choice map.                                 |
-| Put the Power of Question to Work                    | Mindful of impact of questions. Increase quantity and quality of questions. | Increas Question:Answer ratio. Recall questions with postive impact. |
+| Put the Power of Question to Work                    | Mindful of impact of questions. Increase quantity and quality of questions. | Increase Question:Answer ratio. Recall questions with postive impact. |
 | Distinguish Learner and Judge Mindsets and Questions | Awareness of mindset and their affects.                      | Explore mindset and impact on others.                        |
 | Make Friends with Judger                             | Accept Judger to make best choices                           | Journal, Pinch yourself when Judger, Role play as Judger, Reward Awareness |
 | Question Assumptions                                 | Prevent mistakes/decisions with false/incomplete information. | Question assumptions, pause to explore assumptions.          |
-| Take Advantage of Switching Questions                | Reflect and course-correct to Learner mode.                  | In current situation use ABCD - Aware, Breathe, Curiousity, Decide. Be comfortable with silence. |
+| Take Advantage of Switching Questions                | Reflect and course-correct to Learner mode.                  | In current situation use ABCD - Aware, Breathe, Curiosity, Decide. Be comfortable with silence. |
 | Build Learner Teams                                  | Allow teams to benefit from Learner mode.                    | Share Choice Map, Generate Team Guidelines                   |
 | Create Breakthroughs with Q-Storming                 | Creative, collaborative and strategic thinking can lead to breakthroughs. | Generate open-ended "I" and "We" questions. How can I/we? Courageous, silly and dumb Q's encouraged. |
 | Ask the Top 12 Questions for Success                 | Remember a few of the top 12 for success.                    | Remember 3 and try them out.                                 |
@@ -86,7 +86,7 @@ Learner / Judger Mindset Chart:
 
 12. What action steps make the most sense?
 
-# Tool 1 : Empower Your Observer
+# Tool 1: Empower Your Observer
 
 See Chapter 2 "A Challenge Accepted"
 

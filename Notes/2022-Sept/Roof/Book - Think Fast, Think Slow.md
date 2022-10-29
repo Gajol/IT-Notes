@@ -4,6 +4,17 @@
 
 # Part 1: Two Systems
 
+## Systems 
+
+| System 1                                                     | System 2                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| causal connections (sucks at statistical facts) - satisfying sense of causation (versus lack thereof in statistical sampling).  Not prone to doubt. |                                                              |
+| Continuous assessment of main problems an organism must solve to survive. | Acquiescent Monitor                                          |
+| Good at computing averages, but poorly with sums.  Example, Exxon, value of saving x, 10x, 100x birds all had same $100 value. | Deliberate Memory Search (Active Thinking)                   |
+| Intensity Matching : converting emotion to $$, crime to punishment or sound intensity. | Complex computations, Comparisons, Planning and Choice       |
+|                                                              | Self-Criticism                                               |
+|                                                              | Attitudes (apologist - not a critic, endorser - not an enforcer).  Search for information and arguments is constrained to information that is consistent with existing beliefs. "undemanding" |
+
 # Part 2: Heuristics and Biases
 
 ## The Law of Small Numbers 
@@ -180,19 +191,295 @@ To maximize predictive accuracy, final decisions should be left to formulas; esp
 
 ## Hostility of Algorithms
 
-algorithms: mechanical, atomistic, additivity, cut and dry, artificial, unreal, arbitray, pedantic, ..
+- **algorithms**: mechanical, atomistic, additivity, cut and dry, artificial, unreal, arbitray, pedantic, ...   Paul Meehl.
 
-clinic method: dynamic, global, meaningful, holistic, subtle, sympathetic, patterned, deep, genuine, sensitive
+- **clinic method**: dynamic, global, meaningful, holistic, subtle, sympathetic, patterned, deep, genuine, sensitive
 
-It is improper and unethical to rely on intuitive judgments for important decisions if an algorithm is available that will make fewer mistakes — Meehl.
+It is improper and unethical to rely on intuitiv e judgments for important decisions if an algorithm is available that will make fewer mistakes — Meehl.
 
 Steps: 
 
 1. Select a few traits that are prerequisites for success in the position (technical proficiency, engaging personality, reliability, ..). Ideally the traits are independent.
 1. You should be able to assess these traits by asking factual questions.  1..5 scale (very-weak...very-strong)
 1. Collect information on each trait one at a time to avoid the halo effect 
-1. Hire the candidate whose score is the higest.
+1. Hire the candidate whose score is the highest.
 
+Skill develops (like in firefighting, chess, reading):
+
+- an environment that is sufficiently regular to be predictable
+- an opportunity to learn these regularities through prolonged practice
+
+Expertise is a collection of skills.
+
+## Engine of Capitalism
+
+Optimism bias.  The belief that we will succeed, and the ability to ignore past failures (even if personal failures)
+
+Competition Neglect:  We tend to focus our optimism and wishful thinking on only part of the story.  (term created by ColinComerer and Dan Lovallo)
+
+- we focus on our goal, and neglect relevant base rates (e.g., average rate of failure of restaurant startups) 
+- we focus on what we can and will do, neglect plans and skills of others (competitors)
+- we focus on what we know (and ignore what we don't know): Rumsfeld's *unknown unknowns*.
+
+Overconfidence: Studies have shown CFO's forecasts are useless.  Social factors play a role, since a CFO could not offer a prediction and say this is +/- 30%.   Effects of high-optimism on decision is a mixed-blessing:
+
+- benefit: reslience in the face of setbacks.  Optimistic style (defending one's self-image) - taking credit for successes and little blame for failure
+
+### Premortem
+
+Trying to train out over-optimism:  Use the Premortm.
+
+premortem (Gary Klein):  Procedure of premortem:  When the organization has almost come to an important decision but has not formally committed itself, gather a group of individuals who know about the decision for a brief session.  The premise of the session is a short speech, "Imagine that we are a year into the ftuure.  We implemented the plan as it now exists.  The outcome was a disaster.  Please take 5 to 10 minutes to write a brief history of that disaster. " As a team converges on a decision (especially when a leader tips her hand) public doubts about the wisdom of the decision are gradually suppressed and eventually come to be treated as evidence of **flawed loyalty** to the team and leaders.  
+
+The benefits of a premortem are:
+
+- overcomes the groupthink that affects many teams once a decision appears to have been made
+- unleashes imagination of knowledgeable individuals 
+
+# 4. Choices
+
+[Utility Function](https://en.wikipedia.org/wiki/Utility) represents a single consumer's preference ordering over a choice set but is not comparable across consumers. This concept of utility is personal and based on choice rather than on pleasure received, and so is specified more rigorously than the original concept but makes it less useful (and controversial) for ethical decisions.
+
+- [Concept of Utility - University of Minnesota](https://open.lib.umn.edu/principleseconomics/chapter/7-1-the-concept-of-utility/)
+
+## Bernoulli's Theory
+
+Based on the utility of wealth makes people more or less health.  Theory allows for diminishing returns as people are more wealth.
+
+Problems with theory:
+
+- ignores reference point.   Where people were or are referring from.  The example provided is two people who both have $5M, but yesterday one had $1M and the other had $9M.   One person is elated, the other despondent.  This affects their decision.
+
+## Prospect Theory
+
+Three principles that govern the value of outcomes. 
+
+1. Neural Reference Point:  Evaluation is relative to a neutral reference point.   For financial outcomes the usual reference point is the status quo.  The water example, of three bowls of water, and place one hand in the cold bowl, the other in the hot.  Now place each hand the middle-bowl (luke warm) and it will feel warm/cold based on the reference point.
+2. Diminishing Sensitivity: Applies to both sensory and changes in wealth.  $900 -> $1,000 is different than $100->$200.
+3. Loss Aversion:  Losses loom larger than gains.   Loss aversion is the most significant contribution to economics from psychology.
+
+![Loss Aversion Chart](https://github.com/Gajol/Eloquent-JavaScript/blob/main/Notes/2022-Sept/Hedonic-Framing-Loss-Aversion.jpg)
+
+Benefits of Prospect Theory
+
+Prospect Theory complicates the Bernoulli Thoery, but the complication has been proven to be useful:
+
+- reference point
+- aversion loss
+
+Prospect Theory:
+
+- fails to account for the experience.  Compare:
+  1. A miniscule chance to win $1M
+  1. 90% chance to win $10, and a 10% to win nothing
+  1. 90% chance to win $1M, and a 10% chance to win nothing
+  
+  In all 3 cases you have a chance to win nothing.  The experience is different though.  In the first two, the lose is a non-event.  In the third, a loss is intensely disappointing.   
+- fails to account for regret.   Account for how someone will feel if the outcome is negative.  The example, is a 90% to win $1M or $150,000 cash.  If you take the gamble, and lose, you are left with $0 and significant regret.
+
+## The Endowment Effect
+
+The [indifference curve](https://en.wikipedia.org/wiki/Indifference_curve): connects points on a graph representing different quantities of two goods, points between which a consumer is *indifferent*.   For example, salary and vacation-days.  However, the indifference curve does account for a reference point; where you currently are on the curve.
+
+[endowment effect](https://en.wikipedia.org/wiki/Endowment_effect):  [Richard Thaler](https://en.wikipedia.org/wiki/Richard_Thaler) coined term.   Once some owns something of perceived utility (unlike a good meant for exchange like cash), the value doubles.  The mug experiment.  *hey found that the amount participants required as compensation for the mug once their ownership of the mug had been established ("willingness to accept") was approximately twice as high as the amount they were willing to pay to acquire the mug ("willingness to pay").*
+
+## Bad Events
+
+Humans (and animals) have a mechanism to give priority to bad news.  For example, brief scary images (fractions of second) can be registered by the brain with actually being "seen".
+
+- a single cockroach will ruin the appeal of a bowl of cherries, but
+- a single cherry will not change the appeal of a bowl of cockroaches (Paul Rozin)
+
+Bad information is processed more thoroughly than good.  
+
+### Goals
+
+Goals are reference points.  In golf, the reference point is "par".   Human nature and loss averion play a role in pro golf.  Study of putts show an 3.6% increase in success for par-putts versus birdie putts. The asymmetric intesity of motives to avoid losses and achieve gains. 
+
+Animals and humans fight harder to prevent losses than to achieve gains.
+
+### Loss Aversion & the Law
+
+Snowstorm and local store raises prices of shovels.  Fair/Unfair?
+
+Fairness:  A basic rule of fairness is that the exploitation of market power to impose losses on others is unacceptable.  The basic principle is that the existing wage, price or rent sets a reference point, which has the nature of an entitlement that must not be infringed.  It is considered unfair for the firm to impose losses on its customers or workers relative to the reference point, unless it must do so to protect its own entitlement.
+
+Similarity we punish businesses for our perceived losses (buying at an unfair price), and, seldom reward generosity.  We have an asymmetry between losses and gains.
+
+## The Fourfold Pattern
+
+Fourfold: a gambling bet, where all four bets must be successful.
+
+In decision making, apply weights to characteristics that will affect the decision.
+
+certainty effect: outcomes that are almost certain are given less weight than their probability justifies.  Insurance industry and structured settlements take advantage of the certainty effect (settle before going to court).  Overweighting of small probabilities increases the attractiveness of both gambles and insurance policies.
+
+- possibility effect: improbable outcomes are overwieghted
+
+Allais's Paradox:  Choose an option in each of the below:
+
+- 61% chance to win $520,000 or 63% chance to win $500,000
+- 98% chance to win $520,000 or 100% chance to win $500,000
+
+Most people choose the first and then the second option.  This violates the rules of rational choice. The paradox is that the second decision just added 37% to each choice (61+37 = 98), (63 + 37 = 100).   This should not have affected choice.  But the "certainty effect" came into play.
+
+The fourfold patternn;
+
+- people attach values to gains and losses (rather than to wealth)
+- the weights that they assign to outcomes are different from probabilities
+
+|                                        | Gains                                                        | Losses                                                       |
+| -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| High Probability<br />Certainty Effect | 95% chacne to win $10,000<br />Fear of disappointment<br />Risk Averse<br />Accept unfavourable settlement | 95% chance to lose $10,000<br />Hope to avoid loss<br />Risk Seeking<br />Reject favorable settlement |
+| Low Probabilty<br />Possibility Effect | 5% chance to win $10,000<br />Hope of large gain<br />Risk Seeking<br />Reject favorable settlement | 5% chance to lose $10,000<br />Fear of large loss<br />Risk Averse<br />Accept unfavourable settlement |
+
+### Rare Events
+
+Suicide bombers and lottery winners.
+
+The probability of an unlikely event is likely to be overestimated when an alternative is not specified.
+
+Fluency, vividness and the ease of imagining contribute to decision weights.
+
+- a disease that kills 1,286 people out of 10,000 versus
+- a disease that kills 24.14% of the population
+
+The first appears more threatening than the second (although it is half as lethal)
+
+### Risk Policies
+
+Prospect Theory: sure gain, and sure loss.  
+
+Decision (i): Choose Between:
+
+- ​	A: sure gain of $240
+
+- ​	B: 25% chance to gain $1,000 and 75% chance to gain nothing
+
+
+Decision (ii): Choose Between:
+
+- ​	C: sure loss of $750
+
+- ​	D: 75% chance to lose $1,000 and 25% chance to lose nothing
+
+People are risk-averse in the domain of gains, and risk-seeking in the domain of losses.  75% of people chose A & D.
+
+This results in people )being risk averse for gains, and risk seeking for losses) willing to pay a premium to obtain a sure gain rather than face a gamble, and will to pay premium to avoid a sure loss.
+
+- narrow framing: a sequence of simple decisions, considered separately 
+- broad framing: a single comprehensive decision, with four options
+
+Advice, attempt to see small gambles in their whole (and not in isolation).  Realize that taking many gambles that have positive expected outcomes, means you eventually come out ahead.  Do not let *loss aversion* prevent you from taking risk.   Use this advice under these qualifications:
+
+1. gambles must be independent (like a coin toss) - multiple investments in the same stock sector would not be independent.
+2. loss cannot be significant - you must be able to afford the loss.  The loss should not cause you to worry about your wealth, or, your economic future.
+3. avoid long shots - it should not be applied to long shorts where the probability of winning is very small for each bet.
+
+The combination of loss aversion and narrow framing is costly.  Instead, think like a trader; *You win a few, you lose a few.*
+
+Examples:  
+
+- Insurance risk policies.  Always take the highest deductible.  Never buy extended warranties.  
+- A risk policy that aggregates decision is analogous to the outside view of planning problems.  The outside view shifts the focus from specifics of a current situation, to the statistics of outcomes of similar situations.   The outside view is a broad view (framing) for thinking about plans.  
+
+### Keeping Score
+
+For many (who are not very poor) money is about self-regard and achievement.  We keep score; we have mental accounting.
+
+- two people have baseball tickets, one paid for theirs, the others got it for free.   The weather is bad.  Which one is most likely to go to the game?
+- similar concept with stocks.  The price you paid, should be irrelevant to the price you sell it at.
+
+[disposition effect](https://en.wikipedia.org/wiki/Disposition_effect): The disposition effect is an anomaly discovered in behavioral finance. It relates to the tendency of investors to sell assets that have increased in value, while keeping assets that have dropped in value.  In 1979, Daniel Kahneman and Amos Tversky traced the cause of the disposition effect to the so-called "prospect theory". The prospect theory proposes that when an individual is presented with two equal choices, one having possible gains and the other with possible losses, the individual is more likely to opt for the former choice even though both would yield the same economic result.   
+
+- sunk costs fallacy: The decision to invest in a losing account when better investment choices are available.
+
+regret: a sinking feeling, thoughts about the mistake once has made and the opportunities lost, by a tendency to kock oneself and wanting to undo the event and get a second chance 
+
+- regret is generally stronger when there is an action.  Eventhough an inaction can have the same outcome, there is less regret (i.e., not switching to winning stock, vs switching to losing stock).  This extends to blackjack, more regret is felt if you say yes to a hit and lose, versus, saying no to hit, and losing.
+
+- blame: generally assigned to those who habitually take unreasonable risks
+
+### Reversals
+
+Poignancy should not have a factor in a decision.  For example, the compensation award to someone shot a store in their neighbourhood that they visited by off-chance since their normal habitual store was closed.   When looked at together (joint evaluation), people agree that the store where the person was shot does not affect the compensation.  However, when separated (single evaluation), people award higher compensation to the poignant story (fluke that he went to that store).
+
+- [preference reversals](https://psychology.iresearchnet.com/social-psychology/decision-making/preference-reversals/): refer to the observation that there are systematic changes in people’s preference order between options.
+  - The preference reversal phenomenon was first observed in the late 1960s and the early 1970s by Sarah Lichtenstein and Paul Slovic in a gambling context. They observed that if people are asked to choose between a relatively safe bet with a low payoff and a relatively risky bet with a high payoff, and if they are asked to indicate their selling prices if they were to sell these very lotteries, people’s choice ordering is systematically different from their price ordering. More specifically, people tend to state a preference for the safer bet but tend to state a higher selling price for the riskier one. Very soon, this finding was replicated several times.
+
+### Categories
+
+Judgements are placed within norms for which we have developed categories.  Judgments and preferences are coherent within categories but potentially incoherent when the objects that are evaluated belong to different categories. (apples or peaches, steak or stew, apples or steak)
+
+evaluability hypothesis:  The number of entries has no value in single evaluation.   In joint evaluation it is evaluated (Christopher Hsee).  In single evaluation Dictionary A is more valuable to people, however, together Dictionary B is more valuable as it has more content.
+
+- Dictionary A: 10,000 entries, condition (like new)
+- Dictionary B: 20,000 entries, condition (cover torn, otherwise like new)
+
+### Frames and Reality
+
+Emotional Framing: Unjustified influences of formulation on beliefs and preferences.  These are the same choices:
+
+- A: Would you accept a gamble that offers a 10% chance to win $95 and a 90% chance to lose $5?
+- B: Would you pay $5 for a lottery ticket that offers a 10% chance to win $100 and a 90% chance to win nothing?
+
+A bad outcome is acceptable if it is **framed** as the cost of a lottery ticket; versus described as losing a gamble.  Losses evoke stronger emotion.  B attracts more positive emotions.
+
+Theatre Example
+
+- A. A lady goes to theatre with $100 tickets, but upon arrival realizes she has lost tickets.  Will she buy tickets?
+- B. A lady goes to theather without tickets, upon arrive, is told the prices have doubled to $200.
+
+Mental account (which account the loss is coming from) and sunk-cost fallacy, show that the lady who forgot her tickets is less likely to attend the show.   The loss is associated to the cost of the show and the experience is no longer worth it.   On the other hand, the higher cost for the ticket is taken from a "general account" and usually insignificant to prevent her from attending.  — *Charge the loss to your mental account of 'general revenue' — you will feel better*
+
+Car MIleage Example 
+
+The [MPG Illusion - Science Magazine 2008 Richard Larrick and Jack Soll](https://www.science.org/doi/10.1126/science.1154983).   The MPG framing is wrong. Two people, 
+
+- one drives a 12mpg car. and switches to a 14mpg car.  Saves 119 gallons on 10,000miles/year.
+- one drives a 30mpg car and switches to a 40mpg car.  Saving only 83 gallons.
+
+# Two Selves
+
+Decision Utility: 'Utility' in economics means wantability; decision utility.
+
+Experience Utility: Pain and pleasure.  How much pain during a medical procedure?  How much enjoyment at a beach?  Pain scale (0..10 - no pain, to intolerable).  Shows difference between experiencing-self and remembering-self.
+
+- Peak-end rule (pain at the end of procedure, leaves unpleasant memory and effects rating on total pain).  
+- Duration neglect (length of procedure had no effect on ratings of total pain)
+
+Decision-making is often made on the *remembering self* with neglect from the *experiencing self*.
+
+Experience Well-Being: Use of Time:
+
+- Author collected experience levels and noticed French women spend less time with the children, but are happy during that time compared to American women.  Author hypothesizes this is due to child care availability in France and less focus on driving kids to activities.
+- Two aspects of experience well-being:  The well-being you experience as you live your life; and; the judgment you make when you evaluate your life.
+
+Gallop World Poll, assess Experience Well-Being through the Cantril Self-Anchoring Striving Scale.  The Gallup-Healthways Well-Being Index.  A 0..10 scale, 0 = worst possible life, 10 = best possible life.
+
+- in 2011, at incomes above $75,000 in high-cost centres, the experience level no longer increases.  That is money does not buy further happiness.   Possible answers are higher-incomes are associated with a reduced ability to enjoy the small pleasures of life. 
+- Life satisfaction is different from experience well-being.  Satisfaction can from from education (however in the USA the more educated you are, the more stressed you are in general)  Living with children increases life satisfaction (but increases stress and anger)
+
+### Thinking about Life
+
+A disposition of well-being is heritable (just like height and intelligence).
+
+The goals people set for themselves are very important to what they do and how they fell about well-being.  You cannot discuss the concept of well-being without considering what people want(ed).
+
+Focusing Illusion: *Nothing in life is as important as you think it is when you are thinking about it.*
+
+# Conclusions
+
+Thoughts of Future:
+
+- Biases: What can be done about biases?  How can basic biases of overconfidence, extreme predictions and planning fallacy be controlled?  Recognize anchors, reframe problems, ...
+- Training to avoid System 1 errors? recognize the signs that you are in a cognitive mindset, **slow down**, ask for System 2 reinforcement.
+- Organizations:
+  - Decision Stages: Frame the problem to be solved -> collect the relevant information leading to a decision -> reflect -> review.
+  - Organization improvement comes from routinely looking for efficiency improvements at each of these stages.  Iteratively; constant quality control and agility.
+- Decision Making: Much work to be done to create systemic training for the essential skill of conducting efficient meetings.
+- Language: A richer languge is essential to aid in the skill of constructive criticism.
+- There is a direct link to gossip at the watercooler to better decisions.
 
 # Idioms
 
@@ -218,11 +505,79 @@ Law of Small Numbers: The law of small numbers is the bias of making generalizat
 | Muller-Lyer illusion                                         | the two lines of equal length                                |                                                              |
 |                                                              |                                                              |                                                              |
 
-
-
-
-
 # Reference
+
+## Articles
+
+- [Afiki, Y., Bar, M. Our need for associative coherence. *Humanit Soc Sci Commun* **7**, 80 (2020).](https://doi.org/10.1057/s41599-020-00577-w)
+- [Conditions for intuitive expertise: a failure to disagree](https://doi.org/10.1037/a0016755)
+- Judgment Under Uncertainty: Heuristics and Biases - Tversky and Kahneman
+- Choices, Values and Frames - Kahneman and Tversky
+
+## Biases of Judgment
+
+- Overconfidence:  We fail to allow for the possiblity that evidence that should be critical to our judgment is missing.  Our beliefs depend mostly on the quality of the story.
+
+- Framing Effects:  Presenting the same information differently can evoke different effects.  The odds of surviving are 90%.  The odds of dying are 10%.
+
+- Base-Rate Neglect
+
+- Heuristics and Biases Approach:  
+
+- General Bias:  Favours certainty over doubt.
+
+- Hindsight Bias: Once the someone changes their mind, they have a hard time remember why they believed the other point of view. They are no longer able to argue their original point of view. — *hindsight bias*
+
+- Judgment of representativeness: Ignoring base rates and determining relation by representativeness (description of person being nerdy and guessing they are in engineering, when the base-rate of humanities is much higher).  Substitution is used, since the question of probability is more difficult than the question of similarity is easier.  People substitute the easier question to answer; invoking a mental shotgun.   Example, Moneyball where scouts (representativeness ; look & feel like an athlete) was replaced with statistics about past performance.
+
+
+- See Gilovich for Biases discoveries [^Gilovich]
+
+  - Confirmation Biases: The mother of all biases.
+
+
+  - Hot hand Bias
+
+
+  - Spotlight Effect: frequent disparities between the way we view our performance (and think others will view it) and the way it is actually seen by others
+
+
+  - Bias Blind Spot: the tendency to recognize biases in other people, but not in ourselves
+
+
+  - Clustering Illusion: the tendency to see "clusters" of data in a random sequence of data as non-random
+
+  - Illusion of non-transparency: the tendency to overestimate the extent to which people telegraph their inner thoughts and emotions
+
+  - Heuristics research:
+    - self-handicapping: attempts to manage how others perceive us by controlling the attributions they make for our performance
+      - regret 
+      - anchoring
+
+
+## Books
+
+- [Polya, G. *How to Solve It: A New Aspect of Mathematical Method*. Princeton Science Library. Princeton, NJ: Princeton University Press, 2014.](https://worldcat.org/en/title/893557156): [Wikipedia](https://en.wikipedia.org/wiki/How_to_Solve_It)
+
+- [^Wisdom]: [Surowiecki James. 2004. *The Wisdom of Crowds : Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business Economies Societies and Nations*. 1st ed. New York: Doubleday.](https://worldcat.org/en/title/54022622)
+
+- [^smallschool]: [Wainer, Howard and Harris L. Zwerling. “Evidence That Smaller Schools Do Not Improve Student Achievement.” *Phi Delta Kappan Magazine* 88 (2006): 300 - 303.](https://www.semanticscholar.org/paper/Evidence-That-Smaller-Schools-Do-Not-Improve-Wainer-Zwerling/7dd9b8c39bde33b3464060717e0052d86d8ec040) - [Smenatic Scholar - Google Account](https://www.semanticscholar.org/paper/Evidence-That-Smaller-Schools-Do-Not-Improve-Wainer-Zwerling/7dd9b8c39bde33b3464060717e0052d86d8ec040)
+
+- [Epley Nicholas. 2014. *Mindwise : How We Understand What Others Think Believe Feel and Want* First ed. New York: Alfred A. Knopf.](https://worldcat.org/en/title/869739904): An exploration of the human mind's capacity for instinctive understanding about the feelings and desires of others explains how the ability or inability to understand the minds of those around us leads to connection or conflict.  
+
+  - [To live a life of more well-being be more pro-social.  Connect, act more assertively - Extrovert. YouTube](https://youtu.be/1fqL-6am0bg)
+
+- [The Halo Effect - 2007](https://en.wikipedia.org/wiki/The_Halo_Effect_(book))
+
+- A Random Walk Down Wall Street - Malkiel
+
+- [^disturbing]: [Meehl Paul E. 2013. *Clinical Versus Statistical Prediction : A Theoretical Analysis and a Review of the Evidence*. place of publication not identified: Echo Point Books & Media.](https://worldcat.org/en/title/946987970) — *My disturbing little book.*
+
+- A Checklist Manifesto - Atul Gawande
+
+## Illusions
+
+Three Men Illusion : perspective.  Once on a 3D perspective the same sized figures look progressively smaller.
 
 ## Terms
 
@@ -238,10 +593,13 @@ Law of Small Numbers: The law of small numbers is the bias of making generalizat
 - conjunction fallacy: the conflict between intuition and logic.
 - [diagnosticity](https://dictionary.apa.org/diagnosticity): the informational value of an interaction, event, or feedback for someone seeking self-knowledge. Information with high diagnosticity has clear implications for the [self-concept](https://dictionary.apa.org/self-concept), whereas information with low diagnosticity may be unclear, ambiguous, or inaccurate. 
 
-- 
-
 - Halo Effect 
 - Loss Aversion: Respond more strongly to losses than to gains (System 1)
+
+- Naturalistic Decision Making (NDM): Study real people doing things that matter.   Opposite of this book which is focused on biases in heuristics and biases approach.  Gary Klein - Sources of Power : intuition in experienced professionals (Firefighters)
+
+- [Planning Fallacy](https://en.wikipedia.org/wiki/Planning_fallacy):  Basing plans while ignoring information you have from past experience.  Instead realistic plans should be provided. 
+  - *The **planning fallacy** is a phenomenon in which predictions about how much time will be needed to complete a future task display an [optimism bias](https://en.wikipedia.org/wiki/Optimism_bias) and underestimate the time needed. This phenomenon sometimes occurs regardless of the individual's knowledge that past tasks of a similar nature have taken longer to complete than generally planned.*
 
 - Polymath: A polymath is an individual whose knowledge spans a substantial number of subjects, known to draw on complex bodies of knowledge to solve specific problems.
 
@@ -264,24 +622,15 @@ Law of Small Numbers: The law of small numbers is the bias of making generalizat
 - Theoretical Ideas 
 - WYSIATI: What you see is all there is.
 
-
-
 ## Thinking
 
-Associative Thinking
-
-Causal Thinking 
-
-Conscious Thinking
-
-Intuitive Thinking
-
-Intuitive Judgment
-
-Decision Making
-
-Problem Solving
-
+- Associative Thinking
+- Causal Thinking 
+- Conscious Thinking
+- Intuitive Thinking
+- Intuitive Judgment
+- Decision Making
+- Problem Solving
 
 
 ## Psychology
@@ -295,104 +644,37 @@ Psychology of effective training:  Important principle of skill training; reward
 
 ## Statistics 
 
-artifact: 
+- artifact: 
 
-intuitive statistics: 
+- intuitive statistics: 
 
-sample size: belief in the law of small numbers (not experimenting with a sufficiently large enough sample size)
+- sample size: belief in the law of small numbers (not experimenting with a sufficiently large enough sample size)
 
-## Heuristic
+## Theories
 
-Affect Heuristic: Emotions and the dominance of conclusions over arguments.   People let their likes and dislikes determine their beliefs about the world.  Paul Slovic.
+- [Decision Theory - Wikipedia](https://en.wikipedia.org/wiki/Decision_theory)
+- [Bernouli Principle](https://en.wikipedia.org/wiki/Bernoulli%27s_principle) by [Daniel Bernouli](https://en.wikipedia.org/wiki/Daniel_Bernoulli): same person who has the fluid dynamics principles. 
+  - [St Petersburg Paradox](https://en.wikipedia.org/wiki/St._Petersburg_paradox): The **St. Petersburg paradox** or **St. Petersburg lottery** is a paradox involving the game of flipping a coin where the expected payoff of the theoretical lottery game approaches infinity but nevertheless seems to be worth only a very small amount to the participants
 
-Mood Heuristic:  The present state of mind looms very large when people evaluate questions.  Students (How many dates last month?  How happy are you?  is highly correlated.   Reverse the question order and there is no correlation.).  Impact on surveys.
+## Words 
 
-# Words 
+Unrelated to the thinking.  Simply words I am not familiar with using:
 
-- epidemiology 
+- [axiom](https://www.merriam-webster.com/dictionary/axiom): an established rule or principle or a self-evident truth,  a statement accepted as true as the basis for argument or inference
+- economics: is the social science that studies the production, distribution, and consumption of goods and services.
+- [epidemiology](https://www.merriam-webster.com/dictionary/epidemiology): a branch of medical science that deals with the incidence, distribution, and control of disease in a population
 - [heuristic](https://www.merriam-webster.com/dictionary/heuristic): A simple procedure that helps find adequate, though often imperfect, answers to difficult questions.  The word comes the same root as eureka.  involving or serving as an aid to learning, discovery, or problem-solving by experimental and especially [trial-and-error](https://www.merriam-webster.com/dictionary/trial and error) methods.  *heuristic assumption*: of or relating to exploratory problem-solving techniques that utilize self-educating techniques (such as the evaluation of [feedback](https://www.merriam-webster.com/dictionary/feedback)) to improve performance
+  - Affect Heuristic: Emotions and the dominance of conclusions over arguments.   People let their likes and dislikes determine their beliefs about the world.  Paul Slovic.
+  - Availability Heuristic: 1971 definition: the process of judging frequency by "the ease with which instances come to mind."
+  - Mood Heuristic:  The present state of mind looms very large when people evaluate questions.  Students (How many dates last month?  How happy are you?  is highly correlated.   Reverse the question order and there is no correlation.).  Impact on surveys.
+  
+- [poignancy](**poignancy**): that state of being poignant (painfully affecting the feelings, deeply affecting)
 - [precocious](https://www.merriam-webster.com/dictionary/precocious): exceptionally early in development or occurrence, exhibiting mature qualities at an unusually early age
 - [salient](https://www.merriam-webster.com/dictionary/salient): projecting beyond a line, surface, or level. standing out conspicuously
 
-Systems 
-
-| System 1                                                     | System 2                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| causal connections (sucks at statistical facts) - satisfying sense of causation (versus lack thereof in statistical sampling).  Not prone to doubt. |                                                              |
-| Continuous assessment of main problems an organism must solve to survive. | Acquiescent Monitor                                          |
-| Good at computing averages, but poorly with sums.  Example, Exxon, value of saving x, 10x, 100x birds all had same $100 value. | Deliberate Memory Search (Active Thinking)                   |
-| Intensity Matching : converting emotion to $$, crime to punishment or sound intensity. | Complex computations, Comparisons, Planning and Choice       |
-|                                                              | Self-Criticism                                               |
-|                                                              | Attitudes (apologist - not a critic, endorser - not an enforcer).  Search for information and arguments is constrained to information that is consistent with existing beliefs. "undemanding" |
-
-
-
-# Illusions
-
-Three Men Illusion 
-
-
-
-## Biases of Judgment
-
-Overconfidence:  We fail to allow for the possiblity that evidence that should be critical to our judgment is missing.  Our beliefs depend mostly on the quality of the story.
-
-Framing Effects:  Presenting the same information differently can evoke different effects.  The odds of surviving are 90%.  The odds of dying are 10%.
-
-Base-Rate Neglect
-
-Heuristics and Biases Approach:  
-
-General Bias:  Favours certainty over doubt.
-
-Hindsight Bias: Once the someone changes their mind, they have a hard time remember why they believed the other point of view. They are no longer able to argue their original point of view. — *hindsight bias*
-
-Judgment of representativeness: Ignoring base rates and determining relation by representativeness (description of person being nerdy and guessing they are in engineering, when the base-rate of humanities is much higher).  Substitution is used, since the question of probability is more difficult than the question of similarity is easier.  People substitute the easier question to answer; invoking a mental shotgun.   Example, Moneyball where scouts (representativeness ; look & feel like an athlete) was replaced with statistics about past performance.
-
-See Gilovich for Biases discoveries [^Gilovich]
-
-- Confirmation Biases: The mother of all biases.
-
-- Hot hand Bias
-
-- Spotlight Effect: frequent disparities between the way we view our performance (and think others will view it) and the way it is actually seen by others
-
-- Bias Blind Spot: the tendency to recognize biases in other people, but not in ourselves
-
-- Clustering Illusion: the tendency to see "clusters" of data in a random sequence of data as non-random
-- Illusion of non-transparency: the tendency to overestimate the extent to which people telegraph their inner thoughts and emotions
-- Heuristics research:
-  - self-handicapping: attempts to manage how others perceive us by controlling the attributions they make for our performance
-  - regret 
-  - anchoring
-
-## Books
-
-- [Polya, G. *How to Solve It: A New Aspect of Mathematical Method*. Princeton Science Library. Princeton, NJ: Princeton University Press, 2014.](https://worldcat.org/en/title/893557156): [Wikipedia](https://en.wikipedia.org/wiki/How_to_Solve_It)
-
-- [^Wisdom]: [Surowiecki James. 2004. *The Wisdom of Crowds : Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business Economies Societies and Nations*. 1st ed. New York: Doubleday.](https://worldcat.org/en/title/54022622)
-
-- [^smallschool]: [Wainer, Howard and Harris L. Zwerling. “Evidence That Smaller Schools Do Not Improve Student Achievement.” *Phi Delta Kappan Magazine* 88 (2006): 300 - 303.](https://www.semanticscholar.org/paper/Evidence-That-Smaller-Schools-Do-Not-Improve-Wainer-Zwerling/7dd9b8c39bde33b3464060717e0052d86d8ec040) - [Smenatic Scholar - Google Account](https://www.semanticscholar.org/paper/Evidence-That-Smaller-Schools-Do-Not-Improve-Wainer-Zwerling/7dd9b8c39bde33b3464060717e0052d86d8ec040)
-
-- [Epley Nicholas. 2014. *Mindwise : How We Understand What Others Think Believe Feel and Want* First ed. New York: Alfred A. Knopf.](https://worldcat.org/en/title/869739904): An exploration of the human mind's capacity for instinctive understanding about the feelings and desires of others explains how the ability or inability to understand the minds of those around us leads to connection or conflict.  
-  
-  - [To live a life of more well-being be more pro-social.  Connect, act more assertively - Extrovert. YouTube](https://youtu.be/1fqL-6am0bg)
-  
-- [The Halo Effect - 2007](https://en.wikipedia.org/wiki/The_Halo_Effect_(book))
-
-- A Random Walk Down Wall Street - Malkiel
-
-- [^disturbing]: [Meehl Paul E. 2013. *Clinical Versus Statistical Prediction : A Theoretical Analysis and a Review of the Evidence*. place of publication not identified: Echo Point Books & Media.](https://worldcat.org/en/title/946987970) — *My disturbing little book.*
-
-- A Checklist Manifesto - Atul Gawande
-
-## Articles
-
-- [Afiki, Y., Bar, M. Our need for associative coherence. *Humanit Soc Sci Commun* **7**, 80 (2020).](https://doi.org/10.1057/s41599-020-00577-w)
-
 ## Videos
 
-[The riddle of experience vs. memory - TED 2010](https://www.ted.com/talks/daniel_kahneman_the_riddle_of_experience_vs_memory)
+- [The riddle of experience vs. memory - TED 2010](https://www.ted.com/talks/daniel_kahneman_the_riddle_of_experience_vs_memory)
 
 ##  People
 
@@ -400,37 +682,46 @@ See Gilovich for Biases discoveries [^Gilovich]
 
 ### Psychology
 
-[^Gilovich]:[Thomas Gilovich](https://en.wikipedia.org/wiki/Thomas_Gilovich) : [The Hot Hand in Basketball](https://doi.org/10.1016%2F0010-0285%2885%2990010-6)
-
-[^Slovic]: [Paul Slovic](https://en.wikipedia.org/wiki/Paul_Slovic). Professor of [psychology](https://en.wikipedia.org/wiki/Psychology) at the [University of Oregon](https://en.wikipedia.org/wiki/University_of_Oregon) and the president of [Decision Research](https://www.decisionresearch.org/about/)Proposed **affect heurist**.  A leading theorist and researcher in the [risk perception](https://en.wikipedia.org/wiki/Risk_perception) field.  Argues public has a richer concept of risks than experts. Has received [Bower Award](https://en.wikipedia.org/wiki/Franklin_Institute_Awards#Bower_Awards) - Noam Chomsky has won this award, too.
-
-- [Perception of Risk - Slovic - 1987](https://doi.org/10.1126/science.3563507).  Nine ways of defining the mortality risk.  The evaluation of the risk depends on the choice of measure.  Death per million people.  Death per million dollars of product produced.  Defining risk is an exercise in power.
-
-[^Hertwig]: [Hertwig, Ralph](https://en.wikipedia.org/wiki/Ralph_Hertwig): German psychologist whose work focuses on the psychology of human judgment and decision making.  Phd University of Konstanz 1995.
-
-[Baruch Fischhoff](https://en.wikipedia.org/wiki/Baruch_Fischhoff): Studied under Kahneman.  His research focuses on judgment and decision making, including [risk perception](https://en.wikipedia.org/wiki/Risk_perception) and risk Analysis
+- [^Gilovich]:[Thomas Gilovich](https://en.wikipedia.org/wiki/Thomas_Gilovich) : [The Hot Hand in Basketball](https://doi.org/10.1016%2F0010-0285%2885%2990010-6)
 
 
+- [^Slovic]: [Paul Slovic](https://en.wikipedia.org/wiki/Paul_Slovic). Professor of [psychology](https://en.wikipedia.org/wiki/Psychology) at the [University of Oregon](https://en.wikipedia.org/wiki/University_of_Oregon) and the president of [Decision Research](https://www.decisionresearch.org/about/)Proposed **affect heurist**.  A leading theorist and researcher in the [risk perception](https://en.wikipedia.org/wiki/Risk_perception) field.  Argues public has a richer concept of risks than experts. Has received [Bower Award](https://en.wikipedia.org/wiki/Franklin_Institute_Awards#Bower_Awards) - Noam Chomsky has won this award, too.
+
+  - [Perception of Risk - Slovic - 1987](https://doi.org/10.1126/science.3563507).  Nine ways of defining the mortality risk.  The evaluation of the risk depends on the choice of measure.  Death per million people.  Death per million dollars of product produced.  Defining risk is an exercise in power.
+
+
+- [^Hertwig]: [Hertwig, Ralph](https://en.wikipedia.org/wiki/Ralph_Hertwig): German psychologist whose work focuses on the psychology of human judgment and decision making.  Phd University of Konstanz 1995.
+
+
+- [Baruch Fischhoff](https://en.wikipedia.org/wiki/Baruch_Fischhoff): Studied under Kahneman.  His research focuses on judgment and decision making, including [risk perception](https://en.wikipedia.org/wiki/Risk_perception) and risk Analysis
+
+- [ Martin Seligman](): founder of positive psychology
 
 ### Economist
 
-[Howard Kunreuth](https://en.wikipedia.org/wiki/Howard_Kunreuther): American [economist](https://en.wikipedia.org/wiki/Economist) focusing on the study of risk insurance. Phd from MIT. managing and financing losses due to technological and natural hazards such as climate change, terrorism, earthquakes.  Research Guiding Principles for Insurance, The Behavioural Risk Audit, Interdependent Security.  How the dynamics of memory help explain the recurrent cycles of disaster, concern and complacency.
+- [Howard Kunreuth](https://en.wikipedia.org/wiki/Howard_Kunreuther): American [economist](https://en.wikipedia.org/wiki/Economist) focusing on the study of risk insurance. Phd from MIT. managing and financing losses due to technological and natural hazards such as climate change, terrorism, earthquakes.  Research Guiding Principles for Insurance, The Behavioural Risk Audit, Interdependent Security.  How the dynamics of memory help explain the recurrent cycles of disaster, concern and complacency.
 
-[Max Bazerman](https://en.wikipedia.org/wiki/Max_H._Bazerman): Behavioural Economist. Max's work focuses on negotiation, behavioral economics, and ethics.  Books include:
+- [Max Bazerman](https://en.wikipedia.org/wiki/Max_H._Bazerman): Behavioural Economist. Max's work focuses on negotiation, behavioral economics, and ethics.  Books include:
 
-- **seems interesting** - [Luca Michael and Max H Bazerman. 2021. *The Power of Experiments : Decision Making in a Data-Driven World* First MIT Press paperback ed. Cambridge Massachusetts: MIT Press.](https://worldcat.org/en/title/1155705441) - [Spring DOI Link](https://doi.org/10.1057/s11369-021-00218-3)
-- [Bazerman Max H. 2020. *Better Not Perfect : A Realist's Guide to Maximum Sustainable Goodness* First ed. New York NY: Harper Business an imprint of HarperCollins.](https://worldcat.org/en/title/1134457846)
-- [Bazerman Max H and Don A Moore. 2013. *Judgment in Managerial Decision Making*. 8th ed. New York: Wiley.](https://worldcat.org/en/title/154800238)
+  - **seems interesting** - [Luca Michael and Max H Bazerman. 2021. *The Power of Experiments : Decision Making in a Data-Driven World* First MIT Press paperback ed. Cambridge Massachusetts: MIT Press.](https://worldcat.org/en/title/1155705441) - [Spring DOI Link](https://doi.org/10.1057/s11369-021-00218-3)
 
-[Orley Ashenfelter	](https://en.wikipedia.org/wiki/Orley_Ashenfelter): Use statistics to predict price of wine
+  - [Bazerman Max H. 2020. *Better Not Perfect : A Realist's Guide to Maximum Sustainable Goodness* First ed. New York NY: Harper Business an imprint of HarperCollins.](https://worldcat.org/en/title/1134457846)
+
+  - [Bazerman Max H and Don A Moore. 2013. *Judgment in Managerial Decision Making*. 8th ed. New York: Wiley.](https://worldcat.org/en/title/154800238)
+
+- [Orley Ashenfelter	](https://en.wikipedia.org/wiki/Orley_Ashenfelter): Use statistics to predict price of wine
+
+- [Paul Smuelson - USA Economist](https://en.wikipedia.org/wiki/Paul_Samuelson?wprov=srpw1_0) : Father of Modern Economics
+- [Top German Economists](https://www.economicsdiscussion.net/economists/german-economists-top-9-german-economists-of-all-times/12197)
 
 ### Neuroscientist
 
-[Antonio Damasio](https://en.wikipedia.org/wiki/Antonio_Damasio): Peoples emotional evaluations and outcomes play a central role in guiding decision making.  This includes the bodily states and the approach and avoidance tendencies associated with emotional evaluations.
+- [Antonio Damasio](https://en.wikipedia.org/wiki/Antonio_Damasio): Peoples emotional evaluations and outcomes play a central role in guiding decision making.  This includes the bodily states and the approach and avoidance tendencies associated with emotional evaluations.
 
 ### Legal Scholar 
 
-[^Sunstein]: [Case Sunstein](https://en.wikipedia.org/wiki/Cass_Sunstein): Regulatory and Constitution Law. Believes risk assessment can be objective by science, expertise and careful deliberation.   Contract to Slovice[^Slovic] who believes risk and its measurement is subjective.  2014 - most frequently cited American legal scholar by a wide margin.  Brings [behavioral economics](https://en.wikipedia.org/wiki/Behavioral_economics) to bear on law, suggesting that the "rational actor" model will sometimes produce an inadequate understanding of how people will respond to legal intervention.
+- [^Sunstein]: [Case Sunstein](https://en.wikipedia.org/wiki/Cass_Sunstein): Regulatory and Constitution Law. Believes risk assessment can be objective by science, expertise and careful deliberation.   Contract to Slovice[^Slovic] who believes risk and its measurement is subjective.  2014 - most frequently cited American legal scholar by a wide margin.  Brings [behavioral economics](https://en.wikipedia.org/wiki/Behavioral_economics) to bear on law, suggesting that the "rational actor" model will sometimes produce an inadequate understanding of how people will respond to legal intervention.
+
 
 ### Statisticians
 
@@ -438,9 +729,7 @@ See Gilovich for Biases discoveries [^Gilovich]
 
 - Howard Wainer : cancer rates in rural counties are highest / lowest (extreme outcomes are more likely to found in sparsely populated counties sinc the probability of kidney cancer is low - an accident of sampling).
 
-​	- [ ]: Statistics and First Nations Alcohol Study
-
-- Harris Zerling 
+- [Harris Zerling](https://en.wikipedia.org/wiki/Zellig_Harris): Linguistics study
 
 - [William Feller](https://en.wikipedia.org/wiki/William_Feller): Probability Theory. Illustrated the ease with which people see patterns where non exist (rocket boming of London in WWII)
 
@@ -454,34 +743,30 @@ See Gilovich for Biases discoveries [^Gilovich]
 
 # Institutions
 
-[American Psychology Association ](https://www.apa.org/).  [Psychology Dictionary](dictionary.apa.org)
+- [American Economic Review](https://www.aeaweb.org/journals/aer/issues)
+- [American Psychology Association ](https://www.apa.org/).  [Psychology Dictionary](dictionary.apa.org)
 
-[Oregon Research Institute](http://www.ori.org/): Where Kahneman was a guest in 1971-72.   Worked on judgment, decision making and intuitive prediction.
+- [Oregon Research Institute](http://www.ori.org/): Where Kahneman was a guest in 1971-72.   Worked on judgment, decision making and intuitive prediction.
 
 # Quotes
 
 > "We evolved to be goal-striving creatures. You'll regret more the things that you didn't do than the things you did."
-
-—**Thomas Gilovic**
+> —**Thomas Gilovic**
 
 > "Plans are best-case scenarios.  Let's avoid anchoring on plans when we forecast actual outcomes.  Thinking about ways the plan could go wrong is one way to do it."
-
-—**Think Fast, Think Slow - Speaking of Anchors**
+> —**Think Fast, Think Slow - Speaking of Anchors**
 
 > "I don't spend a lot of time taking polls around the world to tell me what I think is the right way to act.  I've just got to know how I feel." - Availability Bias
-
-—**Goerge W. Bush - November 2002**
+> —**Goerge W. Bush - November 2002**
 
 > "The emotional tail wags the rational dog."
-
-— **Jonathan Haidt Psychologist**
+> — **Jonathan Haidt Psychologist**
 
 > "Defining risk is an exercise in power"
-
-**— Slovic - The Perception of Risk[^slovic]**
+> **— Slovic - The Perception of Risk[^slovic]**
 
 > "Subject's unwillingness to deduce the particular from the general was matched only their willingness to infer the general from the particular."
-**— Nisbett and Borgida - The Helping Experiment**  *When aware of the general statistic that 45% will not help, students still predicted a person would help.  When show particulars of two people not helping, they were quick to infer a low rate of people helping.*
+**— Nisbett and Borgida - The Helping Experiment**  *When aware of the general statistic that 45% will not help, students still predicted a person would help.  When shown particulars of two people not helping, they were quick to infer a low rate of people helping.*
 
 #  Inventions
 
@@ -495,10 +780,7 @@ Social movements of  the 20th century; Hitler, Stalin, Mao Zedong
 
 # Why Reading
 
-Coaching, Skill Improvement, Self-Help, Teaching, ...Influencing
+- Coaching, Skill Improvement, Self-Help, Teaching, ...Influencing
 
-DEI : Diversity, Equity and Inclusion:  Understanding the theory and science behind biases.
-
-
-Shortcuts
-em-dash - Alt + 0151
+- DEI : Diversity, Equity and Inclusion:  Understanding the theory and science behind biases.
+- Influence: Understand use perspectives and help understand reference points for decision making and organizational improvement.

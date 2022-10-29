@@ -1,6 +1,6 @@
 
 
-
+# Roof Damage in Storm - 2022 
 
 ```mermaid
 %% Example with selection of syntaxes
@@ -26,22 +26,43 @@
 
 ```
 
+
+
+# Preventative Bills - August
+
+- tarps
+
+
+
+# Contacts
+
+- Natoya Personal Insurance 1-866-688-3888 ext 4519245
+- Natoya Cole
+  Claim Advisor – Claims
+  P.O. Box 7065, Mississauga, Ontario L4Z 3Z9
+  Phone : 1 866-688-3888 Ext. 4519245
+  Fax : 905-306-4551
+  [natoya.cole@dgig.ca](mailto:natoya.cole@dgig.ca)
+
 # Details
 
 Claim Number: Q8013742
 
-**August 12: Survey Damage: First Contractor Visit**
+## August 12: Survey Damage: First Contractor Visit
+
 - Believe contractor came on August 12.  Shown interior damage in living room and bedrooms.  Informed of damage in garage, too. 
 - Contractor informs us that an emergency work order will be raised to patch the roof temporarily.
 - Roof is not patched for 14-days (August 12 to August 26)
 
-** August 25: Requesting Update**
+## August 25: Requesting Update
+
 - Email The Personal (Natoya) requesting an update.
 - Receive call the next day from Natoya who left voicemail @ 9:38am Aug 25th 
 - Waiting on Estimate from Contractor
 - Once uploaded and approved will be in touch for next steps
 
-** August 26: Contractor Patches Roof** 
+## August 26: Contractor Patches Roof
+
 - Adam: 1-705-978-2432  (9:47am)
 - patches roof, takes photos, removes tarp and leaves tarp on yard
 - other waste like caulking tubes are left on yard.
@@ -52,17 +73,55 @@ Claim Number: Q8013742
 - patch and photos
 - 7059782432
 
-Natoya - got my email
+## September 9: Natoya - got my email
 
 - reached out to contractor - Adam
 - still water, reached out to roofing company to reach out to me
 - 2:30pm September 6
 
-Roofer 613-294-4011
+## September 9: Roofer 613-294-4011
 
 Harry Larsch - come back to see where leaking
 
 Roofer First General 10:14 September 8
+
+## October 12: 
+
+## October 13: Call backed regarding email on status
+
+First call said not until new year Dec/Jan of roof
+
+Second call said spring April / May and to call to discuss options
+
+## October 20: Calling Natoya...
+
+Three options
+
+1. wait for 1st general
+2. find a contract
+3. do work yourself
+
+Process
+
+1. Will send email with the scope.   Contractors didn't send, since they were busy.
+
+1. They send authorization.  They won't start repairs until a later time.  So situation is different. 
+
+1. What happens if there is subsequent damages through the winter.  Let The Personal know.  It should ... - that would be separate claim.  Emergency.  If there is water coming in, we can let you know.  Contact a moving company.
+
+   - 3rd light bulb in hallway, call and let us know.   Send ou
+
+   - t contractor.  If not able we must contact roofing to mitigate losses.  It is not a separate claim.
+
+1. on Option 2; what is my scope.
+
+1. Will exact analysis. 
+
+1. Review email.   It goes over the areas, square footages and amounts and price.   
+
+1. Make decision.  Go with First General.   I choose other, limited by $11,600 budget.
+
+Apologize for dealy in scope being sent.
 
 # Photos
 
@@ -105,9 +164,7 @@ objects in S3 are URL-addressable
 
 - How does Dropbox and Google Photos prevent the "URL" from being used as a content host?  Is this cross-site ?
 
-# Contacts
-
-- Natoya Personal Insurance 1-866-688-3888
+- 
 
 # Technology
 

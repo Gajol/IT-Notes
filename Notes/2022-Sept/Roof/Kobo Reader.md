@@ -33,15 +33,25 @@ Account: dougnielsen@duck.com
 
 # Overdrive
 
-Account: ?
+Account: ? using library card
 
 Through Ottawa Public Library (OPL), Overdrive has books which you can reserve on the OPL website.  The Kobo Settings allows you to enter your OPL account information.  These books will appear on the Kobo.
+
+✔lots of books
+
+❌not for Ottawa Public Library
+
+seems better to goto this URL: https://ottawa.overdrive.com/ and use its search
 
 # Cloud Library 
 https://www.yourcloudlibrary.com/
 Uses Library Card: 22950016635732
 Last 4-Digits of Phone Number: 5027
 You can log into the English Ottawa Public Library Collection or the French Ottawa Public Library Collection (Collection Express de la Bibliothèque publique d’Ottawa)
+
+Selecting the three options : Country / City / Library
+
+- https://ebook.yourcloudlibrary.com/library/ottawapl/Featured
 
 # Ottawa Public Library
 https://ottawa.bibliocommons.com/

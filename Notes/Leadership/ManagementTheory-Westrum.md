@@ -5,9 +5,19 @@ https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short
 - [Westrum, R. ‘A Typology of Organisational Cultures’. Quality and Safety in Health Care 13, no. suppl_2 (1 December 2004): ii22–27.](https://doi.org/10.1136/qshc.2003.009522.)
 - [Westrum, Ron. ‘The Study of Information Flow: A Personal Journey’. Safety Science 67 (August 2014): 58–63.](https://doi.org/10.1016/j.ssci.2014.01.009.)
 
+The Westrum
+
+Ron Westrum researched human factors in system safety relating to hilghly complex systems in aviation and healthcare.  In 1988, Westrum developed a topology of organizatoins:
+
+- Pathological: Power-oriented organizations are characterized by large amounts of fear and threat. People often hoard information or withhold it for political reasons or distort it to make themselves look better.
+- Bureaucratic:  rule-oriented organizations protect departments. Those in the department want to maintain their turf, insist on their own rules, and generally do things by the book, their book.
+- Generative: Generative or performance-oriented organizations focus on the mission.
+.
+
 
 ## Culture
-Westrum organizational culture is one of a set of capabilities that drive higher software delivery and organizational performance.   
+Westrum organizational culture is one of a set of capabilities that drive higher software delivery and organizational performance.
+
 A typology of organizational cultures:
 - suppression: Harming or stopping the person bringing the anomaly to light; "shooting the messenger"
 - encapsulation: Isolating the messenger, so that the message is not heard
@@ -29,6 +39,7 @@ Westrum identifies six(6) aspects to how organizations process information.   Th
 |6. Novelty crushed|Novelty leads to Problems|Novelty implemented|
 
 Copied from [Google Westrum Article](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture):
+
 __High cooperation__. Create cross-functional teams that include representatives from each functional area of the software delivery process (business analysts, developers, quality engineers, ops, security, and so on). This practice lets everyone share the responsibility for building, deploying, and maintaining a product. It's also important that there is good cooperation within the team.
 
 __Train the messengers__. This means we want people to bring us bad news so we can make things better. Hold blameless postmortems. By removing blame, you remove fear; and by removing fear, you enable teams to surface problems and solve them more effectively. Also create and foster an environment where it is safe to take smart risks and fail, so that anyone can surface problems at any time—even without the ceremony of a postmortem.

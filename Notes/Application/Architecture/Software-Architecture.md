@@ -40,3 +40,7 @@ Enterprise Architect
 - Produce an architectural evolution plan, recommend prioritization of architecture evolution initiatives, and develop and/or implement an architecture evolution plan
 - Manage the development and implementation of an architectural improvement plan
 - Coach, mentor and train the organization to perform any of the above
+
+
+
+[Nedium Software Architecture Evolution](https://priyalwalpita.medium.com/evolution-in-software-architecture-a607db649586)

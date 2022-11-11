@@ -14,3 +14,6 @@ https://nodejs.dev/learn/nodejs-with-typescript
 
 # Testing
 Jest :
+
+
+Promise Chains: https://javascript.info/promise-chaining

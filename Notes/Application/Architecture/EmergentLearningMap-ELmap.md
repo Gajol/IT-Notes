@@ -35,9 +35,7 @@ A framework for sharing lessons:
 - **Opportunities**: Opportunities to apply and test this hypothesis are (describe situations to which the hypotheses might apply).
 - **Future Plans**: Our own plans to further test and refine this hypothesis are (describe actions agreed to by the group).
 
-| Insights         | Hypotheses        |
-| ---------------- | ----------------- |
-| **Ground Truth** | **Opportunities** |
+![Emergent Learning Map](ELmap.png)
 
 ### Insight
 
@@ -76,3 +74,8 @@ Example:
 | How can we get others to agree to our model                  | Poor.  Negative, analytical                    |
 | What will it take to create the desired change?              | Average, lacks guidance                        |
 | What will it take to create the desired change in a sustainable way? | Excellent, guides need for sustainable change. |
+
+# References 
+
+- [SoL Learning](https://www.solonline.org/)
+- [Sol Reflections 8.1](https://www.solonline.org/wp-content/uploads/2018/08/sol_reflections_8.1.pdf)

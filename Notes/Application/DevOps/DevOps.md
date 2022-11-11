@@ -215,6 +215,7 @@ Insane or Kaizen Habits
 
 # Culture
 - The way to change culture is not to first change how people think, but instead to start by changing how people behave—what they do* - [reference: Google DORA Westrum Organizational Culture](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture)
+- [Westrum Culture Metric - Google](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture#how_to_measure_organizational_culture): ESDC ITStrategy includes this metric and measure [ESDC IT Strategy Team](https://sara-sabr.github.io/ITStrategy/strategy-transform-high-performing-org.html#business-case)
 
 ## TO DO - Read / Absorb / ETC
 - [3 Principles of DevOps - 2012 Article: ](https://itrevolution.com/the-three-ways-principles-underpinning-devops/) - [OneDrive - 3 Principles of DevOps](https://1drv.ms/b/s!AkwXSmFk-_xpgoci2Ke4gezYoAf6xw?e=WDvG4h)
@@ -241,3 +242,7 @@ Insane or Kaizen Habits
 - [BMC DevOps History](https://www.bmc.com/blogs/devops-history/)
 - [BMC DevOps Guide](https://www.bmc.com/blogs/devops-basics-introduction/)
 - [Google DevOps](https://cloud.google.com/devops)
+
+
+
+[Compliance in a DevOps Culture (martinfowler.com)](https://martinfowler.com/articles/devops-compliance.html)

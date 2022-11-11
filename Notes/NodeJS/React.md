@@ -11,3 +11,7 @@ Skills (2-hours)
 - Effect Hook & Conditional - Rendering
 - Creating React components and - State management
 - Deploying our React app to Netlify
+
+
+
+https://www.codeinwp.com/blog/angular-vs-vue-vs-react/

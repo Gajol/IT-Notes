@@ -18,3 +18,19 @@ Cardinality
 
 
 [^Observability]: [MAJORS, CHARITY. OBSERVABILITY ENGINEERING: Achieving Production Excellence. S.l.: O’REILLY MEDIA, 2022.](www.worldcat.org/isbn/9781492076445)
+
+
+For a software application to have observability, the following things must be true. You must be able to:
+•
+•	Understand the inner workings of your application
+•	Understand any system state your application many have gotten itself into
+•	Understand the things above, solely by observing that with external tools
+•	Understand that state, no matter how extreme or unusual
+A good litmus test for determining if those conditions are true is to ask yourself the following questions:
+•
+•	Can you continually answer open-ended questions about the inner workings of your software to explain any anomalous values?
+•	Can you understand what any particular user of your software may be experiencing?
+•	Can you determine the things above even if you have never seen or debugged this particular state or failure before?
+•	Can you determine the things above even if this anomaly has never happened before?
+•	Can you ask arbitrary questions about your system and find answers without needing to predict what those anomalies would be in advance?
+•	And can you do these things without having to ship any new code to handle or describe that state (which would have implied that you needed to understand it first in order to ... understand it)?

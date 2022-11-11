@@ -17,3 +17,7 @@ Questions:
 1. How is REST API URL composed?
 1. Clear URL vs URI understanding.   REST resource ...
   - Use Nouns in URL and Avoid CRUD verbs in URL (the HTTP methods PUT, GET, POST, DELETE) define the action.  Therefore verbs like add, delete, read should not be in the URL
+
+
+  WebSocket vs.
+  https://www.ably.io/blog/websockets-vs-sse 

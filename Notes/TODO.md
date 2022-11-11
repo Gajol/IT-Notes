@@ -15,3 +15,7 @@ https://www.linkedin.com/jobs/view/2871475279/?refId=b%2FsrZNU%2FSpWwOLDNT5fWnw%
 
 Web Application on Azure Kubernetes
 https://www.coursera.org/projects/deploy-web-app-azure-kubernetes-service
+
+
+Scrape website to PDF
+https://thenextweb.com/syndication/2021/01/10/how-to-turn-web-pages-into-pdfs-with-puppeteer-and-nodejs/

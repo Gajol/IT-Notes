@@ -1,8 +1,7 @@
 
-
-
 # Semantic Software Design
-From: [*Hewitt, Eben. Semantic Software Design: A New Theory and Practical Guide for Modern Architects, 2020.*](www.worldcat.org/isbn/978-1-4920-4594-6)
+From: [*Hewitt, Eben. Semantic Software Design: A New Theory and Practical Guide for Modern Architects, 2020.*](www.worldcat.org/isbn/978-1-4920-4594-6).  Available on [O'Reilly - Semantic Software Design](https://learning.oreilly.com/library/view/semantic-software-design)
+
 
 ## Simplexity
 
@@ -87,7 +86,7 @@ Tools:
 
 ## D3 Template
 
-This document is long and often done by architects (chief architect, application architect and software design architects).   This document can be 50-200 pages when printed, but the content could evolve collaboratively/iteratively using modern wiki-pages (Confluence).
+The Domain Definition Document Template (D3 Template) document is long and often done by architects (chief architect, application architect and software design architects).   This document can be 50-200 pages when printed, but the content could evolve collaboratively/iteratively using modern wiki-pages (Confluence).
 - Writing a hundred pages up front is not the answer.
 - Make sure to visit all of these concerns, understanding that they will evolve.
 
@@ -180,8 +179,6 @@ Template components:
 - Business drivers
 - Business Priorities
 - Assumptions
-
-
 
 # The Application Aspect
 
@@ -332,10 +329,11 @@ The architect’s role is not particularly well understood.
   - architecture tool choice considerations; shift in direction to a new kind of technology (blockchain, ...)
 - [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)
   - be aware of confirmation bias.
-  - use cards to help design.  Cards offer a generic  suggestion such as { }.
+  - use cards to help design.  Cards offer a generic  suggestion such as {Do something boring. Make a sudden, unpredictable, destructive action; incorporate. Emphasize differences.  Work at a different speed. Only one element of each kind. Would anybody want it? What would your closest friend do? } [Oblique Strategies - Wikipedia](https://en.wikipedia.org/wiki/Oblique_Strategies).
     - [web site with software design oblique strategies](https://www.obliquestrategies.app/)
       - take a break, do nothing for as long as possible, make
-    - [Python Oblique Strategies](https://pypi.org/project/obliquestrategies/)
+    - [Python Oblique Strategies - Brian Eno and Peter Schmidt - 1975](https://pypi.org/project/obliquestrategies/)
+    - [Start Day with an Oblique Strategy](http://stoney.sb.org/eno/oblique.html)
  - Build/Buy/Partner    
  - Due Diligence : Assess the technology and operational aspects of the target company (when performing a buy):  Maintainability, Manageability, Portability, Security, Usability, Performance, Functional Suitability, ...
  - Architectural Definition Pattern
@@ -348,7 +346,7 @@ The architect’s role is not particularly well understood.
  - Service-Oriented Organization: find the right level of abstraction (not too many or too few groupings), consider what factors influence change and group items that change together.   
    - SOLID :  Apply software OOD SOLID to "people organization design":  Single responsibility, Open-Closed (open for extension, closed for modification), Liskov Substitution Principle (people can substitute for their leader/architect), interface segregation, Dependency Inversion Principle -Things must depend on abstractions, not on concretions.
    - Cross-Functional Teams : Business knowledge, Systems Design, UI/UX, API design and service creation, strategy awarenews, testing, automation, data, infrastructure, networking, security, accessibility, ...
-- Scalable Business Machine:  Principels, Inputs, Processes, Outputs and Tools.  Similar to *Logic Models*
+- Scalable Business Machine:  Principles, Inputs, Processes, Outputs and Tools.  Similar to *Logic Models*
 
 - Managing Modernization as a Program
   - Work plan, Staffing and Resource Plan
@@ -368,17 +366,47 @@ The architect’s role is not particularly well understood.
   - Enable Transition : assess scope, develop capability, develop training, onboard trainers
   - Go to Market: Develop communications plan, external awareness, engagement, pilots
 
+### Lateral  Thinking
+
+| Vertical Thinking                            | Lateral Thinking                                             |
+| -------------------------------------------- | ------------------------------------------------------------ |
+| Selective                                    | Generative (reference Westrum culture process-oriented versus generative cultures) |
+| Moves only if direction to move to           | Moves in order to generate a direction                       |
+| Analytical                                   | Provacative                                                  |
+| Sequential                                   | Makes Jumps                                                  |
+| Fear : Must be correct at each step.         | Experimental: No need to be correct at each step             |
+| Use the negative to block pathways           | No negatives                                                 |
+| Conectnrate to exlcude what is irrelevant    | Welcome chance intrusions                                    |
+| Fixed labels, classifications and categories | No fixed labels, categories                                  |
+| Follows most likely happy path               | Explores least likely paths                                  |
+| Finite process                               | Probablistic process                                         |
+
+Tools
+
+- Challenge Idea Tool.   Typcially ask why, and create fish-bone diagrams and root-cause analys excercise.   Alternative is to ask why in a non-threatening way about a current-state or process to help us innovate and remove inefficiences
+- Bono's *Six Thinking Hats* - 1985
+
+| Hat Colour | Area of Concern                                              |
+| ---------- | ------------------------------------------------------------ |
+| White      | data, definitions, facts, figures, neutral and objective     |
+| Red        | Intuition, feeling, emotion                                  |
+| Black      | logical, careful, cautious.  The "devil's advocate"          |
+| Yellow     | Sunny and positive, finds reasons something will work        |
+| Green      | Growth, creativity, new alternatives, provacaitons           |
+| Blue       | Cool, the color of the sky, the meta-ht, organizing, looking at the process. |
+
+
+
 ### Governance
+
 - Define goals of governance board: reduce training time, improve consistency, improve documentation, limit risk ...
-- Define metrics : deployment time, availability, scalability, ...
+- Define metrics : deployment time, availability, scalability, ..., maturity model, # internal/external clients, adoption percentage, cost savings/avoidance, # of services, # of APIs, transactions per second, growth rate, cost to operate, metrics for success of a service
 - Service Portfolio : evangelize the product to other teams.  Tech organization best practices, cookbooks, checklists
 - Service Inventory and Metadata : lifecycle of services, registry, events produced, ...
 
-__ARA__
+### __ARA__
+
 - Service Design / Operations / Business Processes / Data / Errors / Performance / Security / QA / Deployment / Documentation Checklist : *good list of 14 items*
-
-
-
 
 ### When should architects be engaged:
 1. When something is going to cross a data center or other significant network boundary

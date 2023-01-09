@@ -15,7 +15,7 @@
 - 2015 US-EU Safe Harbor Europe’s highest court – concluded that the US-EU Safe Harbor agreement between the European Commission and the U.S. Department of Commerce was invalid.
 
 ## GPRD vs EU DPD
-Differences between GPDR and EU Data Protection Directive:
+Differences between GPDR and EU Data Protection Directive (DPD):
 
 |Area|GPDR|DPD|
 |--|--|--|
@@ -23,7 +23,7 @@ Differences between GPDR and EU Data Protection Directive:
 |Control of Personal Data|Gives individuals or data subjects rights/control over their personal data.  New legal concepts of opt-in and consent, right of access, right to be forgotten.  Must explain how data will be used||
 |Data sharing outside EU|??|EU-US Safe Harbor.  EU DPD prohibit sharing personal data unless the receiving country is perceived by the EU to adequately protect their data|
 |Data Controllers and Processors|Inclusion of data processors.  Both controllers and processors can be held responsible. The data processor is specifically responsible for the security of these personal data.  Data Protection Officer must be appointed as central contact.||
-|Additional Responsibilities|Additional responsibiliites to ensure the security of personal data through the concept of privacy data|DPD was simply reasonable protection for personal data.|
+|Additional Responsibilities|Additional responsibilities to ensure the security of personal data through the concept of privacy data|DPD was simply reasonable protection for personal data.|
 |Protocols for Data Breach & Penalities|Report within 72 hours.||
 |Extensions of GPDR|Applies to businesses and NGO that process personal data of EU residents||
 |Other|Must provide detail description of how data is used|Only high-level description of how data is used|

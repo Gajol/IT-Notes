@@ -30,7 +30,7 @@ Libraries
 
 [NumPy](https://towardsdatascience.com/10-quick-numpy-tricks-that-will-make-life-easier-for-a-data-scientist-35a0253c7479): arrays, structured data, scientific computation, statistical analysis
 
-Pandas: read, analys, manipulate and save tabular data.  Two data structures; series (KVP like a python dictionary), and, dataframe a two-dimensional data structure)
+Pandas: read, analys, manipulate and save tabular data.  Two data structures; series (KVP like a python dictionary), and, dataframe a two-dimensional data structure).  [Spreadsheet tutorial](https://towardsdatascience.com/spreadsheets-to-python-its-time-to-make-the-switch-ef49cf9463d5).
 
 Matplotlib: data visualization
 
@@ -41,6 +41,16 @@ OpenCV: images and video (canny edge detection, ..)
 NLTK: text: stemming, lemmatization, generating embedding, tokenization, visualization
 
 PyTorch: custom neural network and deep learning methods.
+
+[[What is WSGI? A Readable Explanation for Python Developers | by Yang Zhou | TechToFreedom | Medium](https://medium.com/techtofreedom/what-is-wsgi-a-readable-explanation-for-python-developers-e91beba35965)](https://medium.com/techtofreedom/what-is-wsgi-a-readable-explanation-for-python-developers-e91beba35965): Web Server Gateway Interface: communicate from python (pytorch, flask, etc) to a web-server (nginx, apache, ..)
+
+# Pipelines
+
+[MongoDB Aggregation Pipelines](https://www.mongodb.com/docs/manual/core/aggregation-pipeline/) PyMongo.  [Using Python with MongoDB aggregation pipelines](https://www.mongodb.com/developer/languages/python/python-quickstart-aggregation/).
+
+# Open Source Vulnerabilities
+
+[Goolge OSV.dev](https://osv.dev/list)
 
 
 

@@ -38,7 +38,7 @@ Westrum identifies six(6) aspects to how organizations process information.   Th
 |5. Failure leads to Scapegoating.|Failure leads to justice|Failure leads to Inquiry|
 |6. Novelty crushed|Novelty leads to Problems|Novelty implemented|
 
-Copied from [Google Westrum Article](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture):
+Copied from [Google Westrum Article](https://cloud.google.com/architecture/ /devops-culture-westrum-organizational-culture):
 
 __High cooperation__. Create cross-functional teams that include representatives from each functional area of the software delivery process (business analysts, developers, quality engineers, ops, security, and so on). This practice lets everyone share the responsibility for building, deploying, and maintaining a product. It's also important that there is good cooperation within the team.
 

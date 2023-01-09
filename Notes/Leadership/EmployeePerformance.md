@@ -27,3 +27,5 @@
   - What are you working on? User story 748.
   - What’s that about? To make feature X.
   - But why are you making that feature? How does it support the overall strategy? Errr…
+
+  https://thenewstack.io/a-guide-to-okrs-and-overcoming-the-pain-of-them/

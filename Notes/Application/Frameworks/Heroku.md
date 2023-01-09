@@ -11,3 +11,8 @@ Part of Salesforce.   Salesforce.com acquired Heroku as a wholly owned subsidiar
 
 # Influence on Development
 1. Heroku created the [12-factor app methodology](https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology)
+
+- Performance: For 12-factor apps, you’re scaling out for a lot of copies of the code, meaning performance must be a priority.
+- Elasticity: Focus on scalable components that can grow and shrink as needed. Use Chaos Monkey to help scale up.
+- Resilience: You want to loosely couple your pieces. By each component doing only one thing, uptime increases.
+- Security: All data should be encrypted whenever possible, building security into design.

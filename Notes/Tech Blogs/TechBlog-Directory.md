@@ -4,7 +4,8 @@
 - [We Hack Purple](https://wehackpurple.com/) : Canadian cyber training to help people create secure software (Craig met @ TO Cyber event).   Book "Alice and Bob Learn Application Security"
 
 # Tech Blogs & Podcasts
-[The New Stack](https://thenewstack.io/podcasts/)
+[The New Stack Podcasts](https://thenewstack.io/podcasts/)
+[The New Stack](https://thenewstack.io/)
 
 ## Access Management
 - [Okta](https://www.okta.com/blog)

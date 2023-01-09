@@ -18,7 +18,7 @@ Decisions
 Legacy Data
 1. Discussions on legacy data, and applications to access
 1. Design to time-box legacy data
-  [ ] - Need the term for vaulting data and application
+    [ ] - Need the term for vaulting data and application
 1. Changes to Legacy Applications to support Read-Only activities.
 1. Changes to Legacy Applications to remove user-group access
    1. ASU update to Software Centre
@@ -183,4 +183,51 @@ Building Data Pipeline - kinda dull, but has a DW and the key aspects - https://
 - Web Applications on Azure Kubernetes - WAAK.  Has been SA&A by their information security team.
 - Workday SFTP : ensure it is FIPS compliant -2021-02
 - OpenStack - CI/CD Pipeline - see PB for Names Liza T
--
+
+# Workday History
+
+(founded from former PeopleSoft folks – since Oracle’s hostile takeover of PeopleSoft)
+
+Have to pay – but good start : https://www.ciopages.com/store/human-resources-capabilities-model/
+
+Role of Business Architect
+
+[Procure to Pay](https://www.gartner.com/document/code/311367?ref=ddisp&refval=311367) – Gartner Magic Quadrant: 
+
+[Strategic Sourcing](https://www.gartner.com/document/code/275081?ref=grbody&refval=3913508) – Gartner Magic Quadrant
+
+[Procurement and Strategic Source Applications](https://www.gartner.com/explore/initiatives/overview/15955) – Gartner
+
+# Technology
+
+## Google Tag Manager
+
+uses [Google Tag Manager](https://www.analyticsmania.com/post/ultimate-google-tag-manager-data-layer-tutorial/) (GTM) - 
+
+###  Data Layer
+
+Technically speaking, a Data Layer is a JavaScript array that stores certain information. If that does not ring a bell, here’s a more simple explanation.
+
+- It’s an invisible/virtual layer of a website where you, your developers, or various tools can store data (about user, page content, etc.). From there, Google Tag Manager reads that information, uses it in tags/triggers/variables or sends further to other tools, Google Analytics, Google Ads, Facebook Pixel, you name it.
+
+- Once you place GTM container’s JavaScript Snippet in your [website’s source code](https://www.analyticsmania.com/post/how-to-install-google-tag-manager/), the Data Layer is automatically created. You don’t need to add anything more (unless you want to fill it with additional data).
+
+ Add data to data layer
+
+```html	
+<head>
+  <script>
+     window.dataLayer = window.dataLayer || [];
+     window.dataLayer.push [{
+      pagePostAuthor: 'Julius Fedorovicius'
+    }];
+  </script>
+  <!-- Google Tag Manager -->
+  ...
+  <!-- End Google Tag Manager -->
+</head>
+```
+
+ 
+
+ 

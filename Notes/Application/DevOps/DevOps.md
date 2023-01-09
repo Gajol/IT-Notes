@@ -52,9 +52,7 @@ Automate, Automate
 - automate builds, deployments, infrastructure provisioning
 - reduce opportunity for error
 
-## GitLab :
-How GitLab fits into DevOps
-
+## GitLab : How GitLab fits into DevOps
 - Discrepancy between low-performers and high-performers (organizations)
 - Evolution in GitLab from teams trying to implement DevOps and best-practices.  
 - Struggling with tooling, understanding how the tools fit together, and getting the tools to work together.
@@ -68,10 +66,20 @@ DORA quick check cloud.google.com/DevOps (DORA quick check) - quick questions.
 
 ## SRE versus Availability
 - Availability is a subset of Reliability.  There are many facets or reliability you can measure in addition to availability. This year's GitLab looked at:
-- Do you define SLA for SRE
-- Do you have error budgets for developers.
+- Do you define SLA for SRE?
+- Do you have error budgets for developers.?
 
-# DevOps - DZzone
+# DevOps Principles
+
+1. Create a collaborative environment
+2. Automate, automate, automate.   Automate in all areas, continuous integration, continuous deployment, infrastructure provisioning and configuration, security compliance verificatio, functionality tests, software deployment.
+3. Monitor the process continuously.   Monitor deployment, applications, logs, infrastructure and systems.   Identify concerns and problems.
+4. Implement end-to-end responsibility.   Development and operations responsibility on a single team. 
+5. Foster continuous improvement.  Team continous to support and evolve the product throughout its lifecycle.
+6. Fail.  Learn from failures.  Chance culture to see failure as an opportunity to learn, improve and benefit.
+7. Client first.  Team must be open to ever-changing customer and client needs.
+
+# DevOps - DZone
 
 [DZone - How to Become a DevOps Engineer](https://dzone.com/articles/how-to-become-devops-engineer) -
 
@@ -89,7 +97,7 @@ Plan, Develop (Code/Build), Test, Maintain, Document.
 |Security |With the use of cloud and other DevOps tools, an important aspect of modern-day applications is Security. This gave way to the rise of DevSecOps||
 |Orchestration and Containers|Various methods are used to complete the integration of an application. Secure configuration and communication between different services is an important skill for a DevOps Engineer.|Kubernetes, Docker, Swarm|
 
-# DevOps Best Practices for Enterprise
+# BMC - DevOps Best Practices for Enterprise
 Reference [BMC - DevOps Best Practices for Enterprise Architecture - 2016](https://www.bmc.com/blogs/devops-best-practices-enterprise-architecture/)
 - agile principles for development and ops
 - [shift left testing](https://www.bmc.com/blogs/what-is-shift-left-shift-left-testing-explained/) (recall article is 2016 - in 2021 shift left refers to shifting security left - DevSecOps).   The shifting left of testing improves release cycle planning, allows more predictability on product quality and reliability
@@ -105,9 +113,7 @@ Reference [BMC - DevOps Best Practices for Enterprise Architecture - 2016](https
 - Infrastructure as Code
 - Microservices
 
-
-
-# Deployment Pipelines
+## Deployment Pipelines
 [BMC Deployment Pipelines CI/CD](https://www.bmc.com/blogs/deployment-pipeline/)
 Components of a pipeline:
 - Build Automation / Continuous Integration
@@ -120,8 +126,6 @@ Pipeline tool cateogries:
 - Containerisation
 - Configuration management
 - Monitoring
-
-
 
 ## Configuration management
 [BMC Configuration Management](https://www.bmc.com/blogs/devops-configuration-management/)Configuration management occurs when a configuration platform is used to automate, monitor, design and manage otherwise manual configuration processes. System-wide changes take place across servers and networks, storage, applications, and other managed systems.
@@ -216,6 +220,25 @@ Insane or Kaizen Habits
 # Culture
 - The way to change culture is not to first change how people think, but instead to start by changing how people behave—what they do* - [reference: Google DORA Westrum Organizational Culture](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture)
 - [Westrum Culture Metric - Google](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture#how_to_measure_organizational_culture): ESDC ITStrategy includes this metric and measure [ESDC IT Strategy Team](https://sara-sabr.github.io/ITStrategy/strategy-transform-high-performing-org.html#business-case)
+
+## DevOps Mindset
+
+A DevOps mindset creates collaborative bonds between development and operations teams.  This units the actions of development, operations and quality assurance; which is the foundation of DevOps.
+
+- constant collaboration and communication.
+- gradual changes: incremental rollouts enables delivery teams to release a quality product to end-users.  Efficiencies in roll-outs allow changes, updates and roll-backs. 
+- Shared end-to-end responsibility.  An atmosphere of cooperation, teamwork and encouraging members to look for ways to make work easier for their teammates
+- Early problem-solving.  Tasks are completed as early in the project lifecycle as possible.   Problems are tackled and resolved earlier.  
+
+### Human Centric Design & Agile / Lean /  DevOps
+
+- [Jeff Patton -0 Agile Alliance](https://www.agilealliance.org/author/5066898/).  [O'Reilly User Story Mapping](https://learning.oreilly.com/library/view/user-story-mapping/9781491904893/) - Rock Breaking (Epic -> Stories -> Themes) - focus on Storytelling.  Data, Observation, Insight, Opportunities.
+
+[Understanding how Design Thinking, Lean and Agile Work Together](https://www.mindtheproduct.com/understanding-design-thinking-lean-agile-work-together/)
+
+1. Design Thinking: Explore the problem.
+2. Lean: Build the right things.
+3. Agile: Build the thing right.
 
 ## TO DO - Read / Absorb / ETC
 - [3 Principles of DevOps - 2012 Article: ](https://itrevolution.com/the-three-ways-principles-underpinning-devops/) - [OneDrive - 3 Principles of DevOps](https://1drv.ms/b/s!AkwXSmFk-_xpgoci2Ke4gezYoAf6xw?e=WDvG4h)

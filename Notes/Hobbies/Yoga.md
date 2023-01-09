@@ -1,3 +1,0 @@
-
-
-Travis Elliot (Youtube)

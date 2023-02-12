@@ -7,6 +7,10 @@
 [The New Stack Podcasts](https://thenewstack.io/podcasts/)
 [The New Stack](https://thenewstack.io/)
 
+## Salary
+
+[Comprehensive.io - Salary Information](https://www.comprehensive.io/)
+
 ## Access Management
 - [Okta](https://www.okta.com/blog)
 - [Keycloak](https://www.keycloak.org/blog)

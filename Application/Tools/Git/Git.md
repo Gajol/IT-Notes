@@ -63,3 +63,16 @@ git push -f origin master
 
 # Git Sub Modules
 - [Git Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules ) : allow you to work with other git projects inside your project and separate the git commits.
+
+
+
+# Git Flow (OLD)
+https://danielkummer.github.io/git-flow-cheatsheet/
+
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+Gitflow is a legacy Git workflow that was originally a disruptive and novel strategy for managing Git branches. Gitflow has fallen in popularity in favor of [trunk-based workflows](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development), which are now considered best practices for modern continuous software development and DevOps practices. Gitflow also can be challenging to use with CI/CD. This post details Gitflow for historical purposes.
+
+Trunk-based development is currently the standard for high-performing engineering teams since it sets and maintains a software release cadence by using a simplified Git branching strategy. Plus, trunk-based development gives engineering teams more flexibility and control over how they deliver software to the end user.
+
+# Feature Flags
+https://www.atlassian.com/continuous-delivery/principles/feature-flags

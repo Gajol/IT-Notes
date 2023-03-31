@@ -10,9 +10,7 @@ Videos from Don Norman of the NNG (Nielsen Norman Group ) – I might be a bit b
 
 # Bus Rides
 
-Busrides is a product of the CSPS Digital Academy, and a destination created to deepen your understanding of everything digital and government.
-
-[Busrides (csps-efpc.gc.ca)](https://busrides-trajetsenbus.csps-efpc.gc.ca/)
+Busrides is a product of the CSPS Digital Academy, and a destination created to deepen your understanding of everything digital and government. See [Busrides (csps-efpc.gc.ca)](https://busrides-trajetsenbus.csps-efpc.gc.ca/)
 
 #  Inclusive Design
 
@@ -24,11 +22,7 @@ Busrides is a product of the CSPS Digital Academy, and a destination created to 
 
 [posters/accessibility at master · UKHomeOffice/posters · GitHub](https://github.com/UKHomeOffice/posters/tree/master/accessibility)
 
- [posters/accessibility-posters-set.pdf at master · UKHomeOffice/posters · GitHub](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf)
-
-
-
-
+[posters/accessibility-posters-set.pdf at master · UKHomeOffice/posters · GitHub](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf)
 
 # GC Data Demos 
 

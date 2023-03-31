@@ -3,16 +3,20 @@
 
 ## Business:
 1. Design services digitally from end‑to‑end to meet the Government of Canada users and other stakeholders’ needs
-  - identify internal and external users and stakeholders.  
-  - identify their needs for each policy, program and business service  
-  - include policy requirement applying to specific users and SH groups (accessibility, gender-based plus analysis and official languages in the creation of the service)
-  - perform Algorithmic Impact Assessment (AIA) to support risk mitigation activities when deploying automated decision system (Directive on Automated Decision Making)
-  - model end-to-end business service delivery
 
-1. Architect to be outcome‑driven and strategically aligned to the department and to the Government of Canada
+     - identify internal and external users and stakeholders.  
 
-1. Promote horizontal enablement of the enterprise
+     - identify their needs for each policy, program and business service  
 
+     - include policy requirement applying to specific users and SH groups (accessibility, gender-based plus analysis and official languages in the creation of the service)
+
+     - perform Algorithmic Impact Assessment (AIA) to support risk mitigation activities when deploying automated decision system (Directive on Automated Decision Making)
+
+     - model end-to-end business service delivery
+
+2. Architect to be outcome‑driven and strategically aligned to the department and to the Government of Canada
+
+3. Promote horizontal enablement of the enterprise
 ## Information
 1. Collect data to address the needs of the users and other stakeholders
 1. Manage and reuse data strategically and responsibly
@@ -30,7 +34,7 @@
 1. Follow DevSecOps principles
 
 ## Security
-1. Build security into the system life cycle across all architectural layers ( [GC Patch Management Guidanc](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/patch-management-guidance.html) )
+1. Build security into the system life cycle across all architectural layers ( [GC Patch Management Guidance](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/patch-management-guidance.html) )
 1. Ensure secure access to systems and services
 1. Maintain secure operations
 
@@ -46,7 +50,7 @@
 # Releated
 
 ## GC Patch Management Guidance
-[GC Patch Management Guidanc](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/patch-management-guidance.html) provides an overview of patch management, defines the patch management lifecycle, emergency patch definition and management, operational environments (self-managed data centre, SSC, cloud, ...), and key performance indicators (KPI).  
+[GC Patch Management Guidance](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/patch-management-guidance.html) provides an overview of patch management, defines the patch management lifecycle, emergency patch definition and management, operational environments (self-managed data centre, SSC, cloud, ...), and key performance indicators (KPI).  
 
 ### Key Performance Indicators (KPI) for Patch Management
 Coverage:

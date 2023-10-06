@@ -1,4 +1,4 @@
-GC EARB
+# GC EARB
 
 Cloud Based Application Inventory
 https://wiki.gccollab.ca/Cloud-based_Application_Inventory

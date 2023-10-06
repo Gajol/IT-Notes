@@ -92,7 +92,14 @@ Doug Nielsen, "automation doesn't reduce the number of jobs, no more than LEDs s
 - Exponential technology watch
 
 # GC
+
+2022
+
+- [GC Digital Ambition](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-operations-strategic-plans/canada-digital-ambition.html)
+- [GC Digital Playbook](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
+
 [DOSP](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-operations-strategic-plans/digital-operations-strategic-plan-2021-2024.html)
+
  - [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
  - [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603)
  - [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603)

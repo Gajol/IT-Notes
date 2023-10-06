@@ -19,9 +19,23 @@ An expression indicating that people should be chosen for jobs or roles based on
 
 "I don't lack emotion, I just process it differently. "
 
+"Travel is the best education there is." — Doug Nielsen's mom (maybe remembered from elsewhere)
+
 # Business
 Peter Drucker, father of business consulting, famously stated decades ago: *the purpose of any business is to create a customer*
 . A business does that with only two functions: marketing and innovation.
+
+## Innovation
+
+"To the extent you can, try to arrange your life so you have big blocks of time to work in. You'll shy away from hard tasks if you know you might be interrupted." — Paul Graham Lisp & Y Combinator co-founder [ [quote](http://paulgraham.com/greatwork.html) ]
+
+## Economics
+
+“Anything you cannot communicate without reading will be forgotten instantly.”
+― **Herbert A. Simon** - Nobel Laureate Attention Economics
+
+“I resolved to major in economics, until I learned that it required an accounting course. I switched to political science, which had no such requirement. (A strange beginning for someone who was later to be a founding father of a business school and a Nobel Laureate in economics.)”
+― **Herbert A. Simon,** [Models of My Life](https://www.goodreads.com/work/quotes/382850)
 
 # People
 *Stay away from negative people, they have a problem for every solution.* - Albert Einstein (need to confirm)
@@ -36,6 +50,16 @@ Architecture
 *Never shoot for the best architecture, but rather the least worst architecture.*
 
 *Maintainability is inversely proportional to the number of public classes, dependencies and microservices - Simon Bronw (Modular Monolith)
+
+## Friedrich Nietzsche ( Philosopher 1844 - 1900)
+
+https://en.wikipedia.org/wiki/Friedrich_Nietzsche
+
+## World Leaders
+
+"Give us the tools and we will finish the job" — Churchil from book Freedom Forge
+
+"I never lose.  I either win or learn." — Nelson Mandela
 
 # Project Management
 - *How does a project get to be a year behind schedule? One day at a time.* - [Fred Brooks 1979 Software Project Management - The Mythical man Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month). [the mythical man-month - 1975 - isbn](http://www.worldcat.org/isbn/0-201-00650-2)

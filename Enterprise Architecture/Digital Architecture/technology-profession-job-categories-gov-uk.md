@@ -100,7 +100,7 @@ A principal enterprise architect leads at the highest level and is responsible f
 - be responsible for the overall direction of business and digital capabilities
 - be responsible for the creation, maintenance and consumption of a Digital Twin
 
-Digital Strategy Lead
+## Digital Strategy Lead
 
 This job title was not included in the DDaT professional capability framework.   The description included:
 

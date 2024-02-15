@@ -1,19 +1,17 @@
-# Public Safety Digital Strategy
+#  Public Safety Digital Strategy
 
-## Executive Summary
+# Executive Summary
+
+Public Safety's digital strategy is the foundation for its modernization efforts.  A rapidly evolving technology and geopolitical landscape impacts the department's ability to fulfil its mandate.  The strategy ensures the organization can leverage new and emerging technology, enhance digital services and explore innovative opportunities.  The strategy provides a framework to address the challenges of disruptive technologies and global intelligence priorities.
 
 The digital strategy underpins ACME's modernization efforts.  ACME is focused on upgrading its Information Technology systems in order to keep pace with the rapid evolving technology landscape in which it operates.
 
-ACME's digital strategy is focused on ensuring ACME can leverage new and emerging technology, add business value and modernization processes, enhance digital services and user experience, and explore new ways to deliver on ACME's mandate.  The strategy enables ACME to effectively address the emerging challenges posed by disruptive technology and the constantly shifting global intelligence priorities.
-
-The digital strategy defines  strategic objectives to ensure the business modernization efforts are build on strong digital processes, principles and platforms.   
-
 The objectives are: 
 
-1. Digital Service: Human centered digital services. 
+1. Digital Service: Delivering human centered digital services with modern digital experiences.
 2. Digital Workforce: Providing our people with the knowledge, skills and competencies to work effectively in a digital environment.  Enable a digital culture through tools, skills and behavioural change.
-3. Digital Workplace: Improve service delivery through simplified processes & technology
-4. Digital Foundation: Build a resilient secure technology infrastructure.
+3. Digital Workplace: Improving service delivery through simplified processes & technology.
+4. Digital Foundation: Building a resilient secure technology infrastructure.
 
 The digital strategy is expected to have significant impact on the business leading to several key outcomes.  
 
@@ -21,219 +19,230 @@ The digital strategy is expected to have significant impact on the business lead
 - New, digitally enabled services and products
 - New business models (partner sharing, new information sources - OSINT partnerships, shared-services partnerships CSE, ...)
 
-## Vision
+# Vision
 
-> "Enabling trusted intelligence and advice through digital technologies."
+The digital vision for TODO department is:
 
-> ~~"A safe, secure and prosperous Canada, through trusted intelligence and advice enabled by digital technologies."~~
+> Ensuring our systems, services and capabilities are relevant for the ~~current and future digital environment~~ dynamic digital world.
 
-## Drivers
+# Drivers
 
-Technology has revolutionized every aspect of our society including the way ACME delivers on its mandate.  The digital strategy defines ACME's ambitions to transform digital products, services and technology and attract and retain digital talent.  Digital and data are the foundations for a leading intelligence organization.  Adapting to new challenges, effective decision-making and meeting client expectations is only feasible with skilled digital experts,  modern digital technology, leveraging quality data in a culture supporting innovation.  The changing digital landscape has created many drives necessitating the need for a digital strategy.  These drivers can be grouped into operationing landscape changes and chronic pain points:
+Public Safety operates in a complex global ever changing landscape.  Global stability is impacted by climate, economic and geopolitical instability.  The landscape is shifting faster than we are able to adapt.  This sentiment is well expressed by the director in May, 2022:
 
-### Operating Landscape Challenges
+>  Geopolitical, economic, societal, environmental and technological changes are all converging to reshape the world around us at an accelerating pace. People everywhere, including in Canada, are contending with the human, social and economic impacts of these transformations. These trends are impacting our threat environment, and in turn, CSIS as an intelligence agency. — CSIS Director David Vigneault, [May 4, 2022 UBC](https://www.canada.ca/en/security-intelligence-service/news/2022/05/remarks-by-director-david-vigneault-to-the-university-of-british-columbia.html)
 
-- **Disruptive Technology**: Rapid advancements in technology like artificial intelligence, cloud adoption, ~~cyber threats~~, internet of things (IoT) and edge computing are transforming the intelligence landscape.  The digital strategy aims to leverage these technologies to improve data collection, analysis, and security.
-- **State Actors and Global Connectivity**: The internet has connected the world digitally.  Threats and adversaries can operate across borders more easily.  The digital strategy establishes collaboration with international partners to share information more effectively.
+The rapid pace of technological innovation in areas like social media, artificial intelligence, and cryptocurrency is radically transforming society and government.  Social media has transformed the way people communicate, consume information and form opinions.  Social media is also used to impact democratic institutions and proliferate misinformation.  AI is used throughout industry; self-driving cars, trucks and taxis are disrupting transportation.  AI is also used deep fakes, cyber-attacks and ransomware campaigns.  Cryptocurrencies allow threat actors to raise funds anonymously.
 
-- **Employee Experience / Changing Expectations**: Rapid changes in technology and the dramatic shift-to-digital during the pandemic have changes how Canadians do business.  Employees expect and deserve similar experiences in the workplace.  Employee expectations include digital tools to streamline their work processes, engaging communication and collaboration platforms, workplace flexibility.   The prevalence of technology, and cyber threats have also increased employees need to trust in the security and privacy of their personal information.  Modern solutions are required to attract and retain the talented workers required to fulfil our mandate.
+In order to keep up with the fast-changing technological landscape, Public Safety must develop innovative strategies and processes that leverage digital technologies, including data analytics, automation, and cyber. This digital strategy is designed to adapt and respond to these changes.   The core drivers are:
 
-- **Public Trust and Accountability**: There is growing expectations for ACME to be transparent and account.  The digital strategy guidance to modernize intelligence sharing, dissemination and disclosure to help foster trust by Canadian's in ACME.
+1. Agility in the face of change
+2. Alignment with the Government of Canada's Digital Priorities: 
+3. Evolving Expectations
+4. Cyber Security
 
-- **Competitive Advantage**: ACME needs to leverage digital technology to stay ahead of the threats.  The digital strategy provides a completive advantage by enabling innovative approaches to intelligence lifecycle with case management and compliance solutions.
+**Agility in the face of change**: Global events such as cyber attacks, disinformation campaigns and changing geopolitical stage require an organization and technology that is more adaptive and responsive to change.  Leveraging new technologies, such as cloud computing, open-source intelligence and big data analytics, is needed to keep up with the pace of change.
 
-- **Core Drivers / GC Digital Imperative**:  The Government of Canada digital imperative, the GC Digital Ambition, necessitates that ACME modernize and provide secure and digital services. ACME's programs and services are expected to be optimized for digital and available anytime, anywhere and from any device.
+**Alignment with the Government of Canada's Digital Priorities**: The GC Digital Ambition requires Public Safety to embrace a culture shift towards full digital delivery and to adopt a client-centric approach. This involves taking an agile, user-focused, and outcome-based approach to digital service delivery.
 
-### Chronic Business Pain Points
+**Evolving Expectations**: Digital services, and the use of modern technologies, are raising the expectations of employees, Canadians and global partners. Meeting user expectations through digital services provides an advantage for the business and in hiring and retaining talented employees. Public Safety needs to keep pace with increasing digital expectations to be able to remain effective in the evolving threat environment.
 
-The following persistent pain points have impeded business efficiency and effectiveness.  The Digital Strategy strives to improve by using automation and adopting enterprise digital standard solutions.
+**Cyber Security**: The emergence of new technologies has made cyber threat activity more sophisticated and challenging to defend against. To maintain the security of Public Safety's information and services, ongoing investment and attention are required. This includes modernizing existing capabilities and implementing new security controls, updating existing controls, and educating staff on the latest threats and best practices.
 
-- **Significant Technology Debt**:  Many of our aging systems are unable to meet our business user's expectations.  The ongoing costs to support and manage aging technology and impact on employee morale impedes ACME's ability to acquire digital talent and invest resources on more capable technology solutions.  
+## Digital Strategy and Department Strategies
 
-- **Manual Inefficient Processes**: The majority of business processes are complex and require significant attention and effort.    Following modern process practices reduces the cognitive load XXXLKJLKJD
+![digital strategy](DigitalStrategy.jpg "Digital Strategy and Departmental Strategies")
 
-> “...a wealth of information creates a poverty of attention...”
-> ― Herbert A. Simon Nobel Laureate
+# Pillars
+
+The drivers identify the need for a strategy.  The following pillars identify clear areas of focus required to address these challenges, and provide a foundation to help drive departmental strategies forward.  These four digital strategy pillars work together to create a cohesive and effective digital environment for the department. 
+
+- **Digital service**: Public Safety Canada will provide effective digital services to employees, citizens and partners by modernizing its systems and using modern, emerging technology to support its operations.
+- **Digital workforce**: Public Safety Canada will have a digital-savvy workforce that is equipped with the skills and resources to succeed in the digital age.
+- **Digital workplace**: Public Safety Canada will create a digital workplace that is efficient, collaborative, and secure, where employees can thrive and be productive.
+- **Digital foundation**: Public Safety Canada will have a reliable, secure, and adaptable technology infrastructure that enables the delivery of services and supports the department's digital transformation.
+
+## Digital Services
+
+The digital service pillar involves modernizing and transforming Public Safety digital services by partnering with the business to build people-centered digital services.  This includes dedicated resources to enable human-centric digital solutions, co-ordinated planning and development of digital investments, and adopting digital standards to innovate and iterate solutions.
+
+## Digital Workforce
+
+The digital workforce pillar fosters  a digital-savvy workforce that is equipped to use digital tools to advance the department's mission. Through training and upskilling initiatives, the pillar ensures that its employees have the necessary skills to leverage digital tools effectively. A digital culture that embraces innovation, encourages collaboration, and promotes continuous learning is a key component of this pillar.
+
+## Digital Workplace
+
+The digital workplace pillar is about creating an efficient, collaborative, and secure digital environment for employees to work in, leveraging automation and data-driven decision making.  This environment is optimized, to the extent possible, for secure, safe remote work, ensuring employees have the flexibility and resources they need to excel in their work.
+
+## Digital Foundation
+
+The foundation pillar provides a strong technical infrastructure to support the department's operations.The foundation ensures that the department has a secure, efficient, and up-to-date technology infrastructure capable of supporting its operations. This includes improving the department's ability to use open-source intelligence, modernizing its enterprise resource planning and human resource systems, and establishing a protected-B network to facilitate the secure sharing of information. By addressing these critical technology gaps, the department will be better positioned to meet its goals and deliver on its mission.
+
+Each pillar provides guidance for department initiatives:
+
+| **Digital Services**                                         | **Digital Workforce**                                        | **Digital Workplace**                                        | **Digital Foundation**                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Collaborate with the business to  provide effective digital services to employees, citizens and partner. | Foster a digital-savvy workforce  that is equipped with the skills and resources to succeed in the digital age. | Create a digital workplace that  is efficient, collaborative, and secure, where employees can thrive and be  productive. | Provide a reliable, secure, and  adaptable technology infrastructure that enables the delivery of services and  supports the department's digital transformation |
+| Dedicate  resources to enable co-designed digital services   | Invest in digital and data competencies                      | Invest in OSINT strategies,  technologies and  skill development. | Modernize technology, low-side smart                         |
+| Collaborate and partner with programmes  to plan and develop digital | Promote and communicate digital  adoption.                   | Provide tools to securely collaborate globally.              | Optimize Cyber Security                                      |
+| Encourage prototyping to explore  possibilities.             | Engage digitally native champions  •Enable digital innovation by evolving  digital policy and governance | Automate                                                     | Leverage partnerships for solutions and  services.           |
+| Iterate service improvement in all  digital solutions.       |                                                              | Improve decision making by leveraging  data  and analytics   |                                                              |
+
+## Keys to Success
+
+The digital strategy guides the digital transformation.  The success is dependent on enabling support for ambitious transformations.  The enabling support includes:
+
+**Predictable investment in Digital**:  Change and transformation is a mulit-year initiatve.  Having predictable funding for multi-phased program delivery available for information management and information technology (IM/IT) and innovation is required.
+
+**People First Mindset**: A people-first leadership mindset, with a culture value diverse, multi-disciplinary views is key.  Emotional leadership where employees are seen, heard and valued will help to attract the talent in cloud, AI and cyber security needed for success. Employees who feel connected and valued are more likely to be engaged and productive. 
+
+**Digital and Data Literacy**: The transformation encompasses significant change.  For employees to feel empowered by the change, mature change management methodologies need to be embraced.  Change starts with engagement  and communication.  Additionally, employees, should be provided the opportunity to learn and practice safely new digital skills.
+
+**IM/IT Operating Model**: The delivery of services needs to mature to include a partnership with the business.  Creating a multi-disciplinary team enables human-centric design and service delivery which is rapidly adopted.  A prioritization framework to make investments transparent to the enterprise is required.
+
+# Portfolios
+
+**NOTE:** 
+
+>  The following section is a rough-draft.  Buy-in and collaboration on the major objective/action-plan within the pillars is an important first step before elaborating.  The following are some key bullet-points for each objective/action-plan that would typically be included in a DPSD (Departmental Plan on Service and Digital). 
 >
-> "Time in an attention economy is the only scarce commodity."  — Satya Nadella, CEO Microsoft
+>  **TODO**: ?? Are we going to have an accompanying DPSP with prioritized initiatives??
 
-- **Service Desk Frustration**:  The high-rate of calls to the Service Desk reduces its ability to respond timely.  Account password resets continues to consume significant call centre resources due to a lack of  password management capabilities which would enable the user to self-manage their passwords. 
-- **Risk aversion**.  TODO: The culture of change is averse to accepting risk.  The ability to identify hybrid approaches to risk acceptance and management is needed.   A desire to manage risk, but the inability of risk to be transferred and accepted by business owners.  Governance, including risk management, should align with the complexity of the solution enabling rapid, adaptable solutions. ( IS owns risk and risk management )
-- **Others** ???
-  - Not Using Our Data: Cannot Fully Leverage Data
-  - Isolated Systems: Disconnected / Siloed Information and Knowledge
-  - Dated Communication: Our employee engagement platforms do not have the capabilties to engage employees in modern, meaningful methods.  
-  - Inability to Work from Home: Very few of our business processes and information can be conducted without physically being at the office.
-  - No common understanding of technical capability catalog (application catalog) 
-  - ?? Lacking mobile worker concerns - mobile ops, @stations/posts, @doe??
-- TODO: Consider simplifying: **GAC is more simple : 4 drivers:**
-  - Need for Agility, GC Digital Direction, Changing Expectations, Cyber Security (tech debt / ATO)
+## Overview
 
-TODO:
+The digital strategy proposes four (4) portfolios to align with department priorities and business outcomes.  The digital strategy represents a significant change.  The extent of change might be unmanageable if attempted all at once.  It is recommended to focus by prioritizing the initiatives.  The prioritized initiatives must be supported by the keys to success (funding, staffing and processes).
 
-> TODO: Deputy CIO : Enterprise solutions enforcement (check CSPS discussion notes)
->
-> Jackey: laundry list of specific pain points (encrypted email?, )
+![digital portfolios](digital-strategy-portfolio.png "Digital Strategy and related Portfolios")
 
-##  Digital Strategy Objective
+| **Digital Services**                   | **Digital Workforce**          | **Digital Workplace**         | **Digital Foundation** |
+| -------------------------------------- | ------------------------------- | ----------------------------- | ---------------------- |
+| Collecting and Sharing Intelligence    | Digital Skills Journey          | Business Process Automation   | Protected B Cloud      |
+| Investment in Multilateral Partnership | Digital Native Change Champions | Collaboration                 | Secret Cloud           |
+| Trust with Canadians                   |                                 | Project and Task Management   |                        |
+|                                        |                                 | Learning Management System    |                        |
+|                                        |                                 | Data, Information & Analytics |                        |
+| ***TBD**: Business Direction Required |                                 |                               |                        |
 
-The digital strategy objective is:
+## Portfolios
 
-> Use new and emerging digital technologies to add business value, improve user experience, operational excellence, and enable innovation to adjust within a changing digital environment.
+## Serving Canadians & Partners via Digital Services
 
-## Strategic Objectives & Initiatives
+The following initiatives help better serve our employees, our partners and clients throughout the intelligence cycle.
 
-> copying GAC's - these capture the Services/Programs, People - skills, training, empowerment, People- Experience, Technology Excellence* better than others.. )
+Collecting and Sharing Intelligence
 
-### Digital Service
+- **TODO**: ?? which programs which identify the gap in the ability to collect or share intelligence ?? - Need business input.
+- "Public Safety provides hundreds of briefings each year" ([reference](https://www.canada.ca/en/security-intelligence-service/corporate/collecting-and-sharing-intelligence.html)):  How are these managed?  Is there a need for a robust framework that captures the outcomes and business value of these briefings?
+- [Democratic Institutions - Public Inquiry - Justice Hogue](https://www.canada.ca/en/democratic-institutions/news/2023/09/government-of-canada-launches-public-inquiry-into-foreign-interference.html):  Are there any digital gaps known or anticipated from the inquiry?  "...mandated to assess the capacity of federal entities to *<u>detect, deter and counter foreign interference</u>* targeting Canada’s democratic processes, and to make any recommendations she deems appropriate to better protect Canada’s democratic processes from foreign interference, including in relation to the creation and dissemination of intelligence, relevant supports and protections for members of diasporas, and the mechanisms that were in place to protect the integrity of 43rd and 44th elections."
 
-The digital service objective embraces Government of Canada Standards to improve the quality of service delivery.  
+Investment in Multilateral Partnerships: 
 
-| Strategic Initiative                                       | Goals[^Goals-Description]                      |
-| ---------------------------------------------------------- | ---------------------------------------------- |
-| Dedicate resources to enable co-designed digital service   |                                                |
-| Shift to product management operating model for programmes | Develop solutions using agile product concepts |
+- Investment in 5EE, and the secure exchange of information and intelligence in a compliant, transparent manner.  5EE programs to digitize collaboration and intelligence sharing compliantly.  
 
+Trust with Canadians
 
+- Establish a compliance framework (OCFI) to ensure compliance with legislative and standards framework.
 
-### Digital Workforce
+TODO-REPLACE Management
 
-| Strategic Initiative                                         | Goals |
-| ------------------------------------------------------------ | ----- |
-| Invest in digital & data competencies                        |       |
-| Promote and communicate digital adoption                     |       |
-| Evolve digital policy and governance with a focus on enablement. |       |
+- Evolution of compliance management system to TODO-REPLACE
+- Creation of TODO-REPLACE-EMS
 
+## Enabling our Digital Workforce
 
+Ensuring employees have the necessary training, skills and experience to succeed in the department's digital transformation is key to its success.  The department People Strategy includes aspects relating to an employee's journey throughout their career.  The digital strategy engages and ensures the journey includes the necessary opportunities for employees to acquire and maintain digital leadership skills.
 
-### Digital Workplace
+Equally important is for employees to be empowered and trusted to make business impacts.  The digital strategy aims to evolve digital policy and governance with a focus on enablement.
 
-| Strategic Initiative                                         | Goals                                                        |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Provide secure solutions to enable more workplace flexiblity | Greate protected and high-security zones enabling work from anywhere.  Encourage business processes to be processed on lowest classification network as possible. |
-| Provide Collaboration                                        |                                                              |
-| Provide engaging digital experience platform.                | Modernize the intranet to meet employee expectations and enable effective employee engagement. |
+- Digital Skills Journey: Engage with human resources to include digital skills competency building across all levels of leadership. Investing in our employees to increase digital literacy is a key success factor to eensure our peopel can fully realize the value of modern solutions.
+- Digital Native Change Champions Network:  Create a structure for identifying and training digital change management champions.  Create a structure, leveraging collaboration technology, for these employees effectively support others.  Measure success by tracking adoption and satisfaction levels.  Provide rotational opportunities and iteratively improve across major transformational initiaitves.
 
-### Digital Foundation
+## Enabling our Digital Workplace
 
-| Strategic Initiative                                         | Goals |
-| ------------------------------------------------------------ | ----- |
-| Implement Enterprise Architecture                            |       |
-| Hybrid Governance: Governance matches Complexity of Solution (Dave's Chart) |       |
-| Product Aligned Operating Model (*FINTRAC**)- Shift to Product Management |       |
+### Business Process Automation
 
-Strategic Initiatives (LIST 10 before NIGHTIME)
+Leveraging existing investments in business process automation, including an assessment of low-code and no-code solutions to enable business-led automation compliant with the departments policy framework.
 
-Digital Architecture
+- Leverage existing investments in TODO-REPLACE and TODO-REPLACE to enable process optimization and delivery including the threat management and compliance systems.
+- Explore existing business process automation investments to reveal opportunities to optimize, simplify and reduce duplication.
+- Identify and pilot a citizen-developed low-code opportunity using existing accredited technology.
 
-### FINTRAC: TO BE DELETED
+### Collaboration
 
-Establish Digital Foundations
+Digital collaboration in a compliant manner helps the transformation to digital where information is managed promoting a compliant and transparent culture.
 
-- Build digital capacity and processes
-- Establish foundational digital architecture
-- Continuous Security
-- Upgrade and build core infrastructure and migrate technology assets
+- Enterprise Content Management solution
+- Employee Engagement Platform on both the high and low networks
+- Learning Management System
+- Low-Side Collaboration Platform: Assess collaboration needs beyond O365 and prioritize future phases of Protected B development.  Wikis and task management are commonly provided by other technology suites like MediaWiki, Atlassian Confluence and Jira.
 
-Automating Core Business
+### Project and Task Management
 
-- Address current and future legislative and regulatory priorities
-- Enhance and automate <u>intelligence</u> core business
-- Enhance and automate <u>compliance</u> core business
-- Enhance and expand data analytics program
+Providing ease-of-use digital tools for project and task management allows employees to be more efficient and effective in their work.  These tools also provide accountability and insights to allow for iterative continuous improvement of business processes.
 
-Building a Digital Office
+- Deploy and Enterprise Project and Task Management solution for use by all employees in an secure and information management compliant manner.
 
-- Enable greater productivity and collaboration form the office or from home
-- Effectively manage human and financial resources
+### Learning Management System
 
-## Principles
+An effective, modern learning management system is key to providing meaning, engaging learning for the department.
 
-Prioritization: Prioritization is key  to help achieve ACME's digital ambition. 
+- Modernize high-side learning management system (LMS) identifying which training is required in the secure environment.
 
-Business-Led, Technology-Enabled: TODO: Define (Should there be an initiative / action to guide this change in roles and responsibilities?? - since the Digital Strategy to help drive organizational change)  
+### Data, Information & Analytics
 
-## GC Digital Ambition Alignment
+Empower employees to leverage the department's data and information respecting established policy and access management frameworks.
 
-TODO: complete table once more solid Strategic Objective / Strategic Initiative list is available.
+- Evolve Business Intelligence; consolidating on a rationalized, affordable, compliant, sustainable technology stack.
+- Modernize and communicate self-serve application suite available to employees to manage large data sets.  
 
-| GC Digital Ambition Strategic Theme                          | ACME Digital Strategy Alignment                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Excellence in technology and operations                      | link to Strategic Initiatives : portfolio health, digital services, cloud |
-| Data-enabled digital services and programs maximize public value of data and information | link to Strategic Initiatives : common solutions / enterprise standards (minimize data silos), integrated systems |
-| Action-ready digital policy and strategy                     | link to Strategic Initiatives : ? governance (read ambition) |
-| Structural evolution in funding, talent, and culture         | link to Strategic Initiatives : culture, hybrid governance,  |
+## Stengthening our Digital Foundation
 
+This foundation pillar modernizes the departments technical infrastructure footprint.  
 
+### Cloud Protected B 
 
-# Checklist
+Providing a secure cloud foundation is critical to the ongoing sustainability of department.  
 
-The following checklist identifies key-points from stakeholders and other sources.  The purpose is to validate and discuss whether these are important in to consider in the strategy.
+- Establish Core Protected B capability
+- Migrate HR business processes to cloud.
 
-## Gartner | Sylvie
+### Secret Cloud
 
-- [ ] Does Digital Strategy focus on culture, operating model, organization structure and talent?  Recommend to focus on <u>not</u> focus on projects.   Also focusing on "compliance" does <u>not</u> work.
-- [ ] Timelines & Roadmap:  Should the strategy lay-out near-term / long-term roadmap?
+The efficiency of migrating workloads to Protect B has not been assessed.  The data classifications of workloads and the accompanying mitigation measures might result in Protected B solutions be infeasible.  The need to investigate opportunities for a Secret Cloud offering and targeted applications is a strategic priority.
 
-## Jackey
+- Secret Cloud:  Identify applications suitable for Secret Cloud where the entire workload would feasibly be contained in the environment and not reliant on cross-domain-solutions and high-side mirror-applications.  As this option is in its nascent stages there are many options, and effective vendor and partner engagement is key to success.
 
-- [ ] Driver: Future of HUMINT.  We need to decide what we need to be good at.  What we can outsource and partner with.  How do we enable the business as a technology team?
-- [ ] What Do We Need.  The dependencies Jackey identified in the "Food For Thought" slide deck.  Where does this belong in the strategy?  In the strategy or in the departmental plan?
+# Addressing Business Risk
 
-## Dave B
+Alongside the pillars to drive the digital strategy is an overarching need to reduce technology ownership, improve cyber security and consolidate infrastructure ownership.  These activities aim to reduce the overall risk of the department.
 
-- [ ] Why Digital Strategy?  Prevalence of technology.  We have to be where the action is.  We need to extend operations to the cloud.  We need to be efficient in technology.  The tools (technology) needs to be fit-for-purpose.
-- [ ] Business-Led:  Does the Digital Strategy need to define, guide on business led and identify this as a strategic objective?   What would be strategic-objective :arrow_right: strategic initiative :arrow_right: goals? 
-- [ ] Goal: Hybrid Development / Citizen Developer: Different governance based on complexity of solution.  Changing governance, roles & responsibilities based on the complexity.
-- [ ] ? Establish EA practice, services, governance (policies, standards, reference architectures supporting, critical business processes, ...)
-- [ ] Other Considerations
-  - [ ] Gartner Recommendations from #1 / #2
-  - [ ] Org Changes : Cap. Hub, ...
-  - [ ] Shared Infrast...
-  - [ ] Why will this succeed vs past?  Lessons learned adopted/ applied/consultaitons - Leadership
-  - [ ] Personas - Future of Work - DDA
-  - [x] 3-5years key-factors affecting us (air-gap safe solutions, digital talent, retention, change threat/tech, debt, ...) - are these not the "drivers"?
+### Modernize Technology, Low-Side First
 
-## GAC
+Leverage and continue to invest in enterprise application portfolio management (APM) capabilities.  Use these insights provided by APM to prioritize projects to retire or migrate legacy applications.  Adopt a low-side smart mindset inspired by the GC Cloud First concept.  
 
-- [ ] Keys to Success:  Their DPSP identifies Keys to Success: Requirements to Support Digital Transformation: Invest in Digital, Focus on Talent, Increase Digital and Data Literacy and Evolve our IM/IT Operating Model.  Where does this belong in the "Digital Strategy"?   In the "Measure" section?
+- Cloud first is often called Cloud Smart recognizes that not all workloads need to be in the cloud, and that different applications and services have different needs. The goal of cloud smart is to optimize systems and processes for the best possible outcome, rather than blindly moving everything to the cloud regardless of the cost or benefits.  Low-side smart aims to identify the classification of the business workload, and, triage if it is suitable for more cost-efficient network like a PB network.
 
-## General
+### Optimize Cyber Security
 
-- [ ] Mindset and Culture:  Learning mindset, growth mindset (versus fixed mindset) - learning from opportunities.
-- [ ] People:  Equipping people with the organizational knowledge, skills and adaptability to be effective in a digital environment (TODO: reword)
-- [ ] Business: Capabilities & Services:  We are lacking an endorsed business capabilities and service-catalog lists.   Services can be GC-services and/or internal-services (both operational and adminsitrative)
+Ongoing investment and attention in cyber security is required as identified in a recent business case.  As the department moves more business process to lower security zones following the "low-side smart" guidance, increased capacity in cyber security is required to protect these investments.
+
+- Cyber Security:  Investments in establishing the technology, workforce, policies to support key cyber cornerstones like monitoring, auditing and vulnerability testing.
+
+### Shared Infrastructure
+
+Consolidating responsibilities for infrastructure will optimize efficiencies within the department.  In 2023, the study identified several key initiatives.  
+
+- Phase 1 of Shared Infrastructure Study
+
+# Missing
+
+These items, among others, might be useful inclusions in a digital strategy:
+
+- DEI : no mention of diversity, equity and inclusivity
+- mutli-disciplinary team: no mention of the value of including people "not like you" in the teams, agile develop to evoke challenging discussions, and, obtain different perspectives
+- partnerships:  Missing 3rd party / OGD development of solutions which could leverage the DevOps pipeline.
+- Prioritization framework:   Transparent culture and sharing or prioritizations (and aware of what investments are being made)
+- ...
 
 # Glossary
 
-Agile Product Management: Agile product management is a modern methodology for building and enhancing products. Instead of following a fixed plan, it emphasizes collaboration among cross-functional teams, rapid development, and constant feedback. Products are developed in small, manageable increments, which enables teams to respond to changing market conditions and customer needs effectively. It's a customer-centric approach that promotes innovation and delivers value quickly, making it a valuable strategy in today's dynamic business environment.  
-
-Digitally Native: A digitally native employee, often referred to as a "digital native," is an individual who has grown up in an environment where digital technology and the internet have been pervasive from a young age. This term is often associated with generational cohorts such as Millennials (born approximately 1981-1996) and Generation Z (born approximately 1997 and later) but can apply to anyone who has had extensive exposure to digital technology from childhood.  The characteristics of digital native employees are; tech-savvy, digital communication skills, adaptable, quick-learners, online collaborators, digitally creative, information gathering, mobile technology reliance, data privacy awareness, connectivity expectations, social media engaged, digital native mindset.
-
-Experience: Today people expect a seamless and easy experience when booking holidays, ordering groceries and doing their banking.  This same experience is expected in the work environment.  
-
-IT: Information Technology
-
-# References
-
-[CSIS Public Report 2020](https://www.canada.ca/en/security-intelligence-service/corporate/publications/2020-public-report.html)
-
-[CSIS Public Report 2022](https://www.canada.ca/en/security-intelligence-service/corporate/publications/csis-public-report-2022.html)
-
-
-
-# FINTRAC
-
-~~FINTRACs Strategic Objectives~~
-
-1. ~~Establish Digital Foundations~~
-2. ~~Automating Core Business~~
-3. ~~Building a Digital Office~~
-
-~~FINTRAC~~
-
-1. ~~establish a digital foundation,~~ 
-2. ~~automate core business and~~ 
-3. ~~build a digital office.~~
-
-[^Goals-Description]: Goals are not included as a list of projects or actions currently.  This level of granularity is lacking in GAC.  FINTRAC includes this detail, but it seems project/workplan/monster-spreadsheet wishlist in nature.
+Technical Debt:  Technical debt occurs when a)refreshes are not not regularly conducted, b) institutional knowledge is not captured, c) interdependencies are not captures, and, d) if transformations do not keep pace with business and industry change velocity. — paraphrased from GC Digital Ambition

@@ -1148,3 +1148,14 @@ A modern business process that respects attention economics should exhibit sever
 13. **Training and Education:** Providing employees with training and education on attention management techniques, including strategies for handling digital distractions and maintaining focus.
 
 In essence, a modern business process that respects attention economics should aim to optimize the allocation of attention and cognitive resources within the organization, ensuring that employees can work efficiently and effectively in an age of information overload and digital distractions.
+
+
+
+# Strategy 
+
+## Vision and Mission
+
+What is the Mission section within a strategy document
+
+In the context of strategy documents, the "mission" section typically outlines the organization's overall purpose and goals. It describes the organization's reason for existing, as well as the problem or need it is trying to address. This section often includes a vision statement, which provides a more idealistic view of what the organization hopes to achieve. It's important to note that the mission section is different from the "objectives" or "goals" section, which is more specific and actionable.
+

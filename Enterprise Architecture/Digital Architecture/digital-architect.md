@@ -8,11 +8,13 @@ A digital architect leads the practice of introducing the overall technical visi
 - redefine the solution design process from problem to experience
 - focus on achieving digital success
 
-## Roles
+### Roles
 
 - lead digital initiatives and teams; including business and technology members
 - drive change that creates a business opportunity through technology innovation
 - lead organization towards their goals by providing the tools and approaches to manage the complexity of digital transformation
+
+### Roles : LinkedIn Article
 
 Digital architects will (from [LinkedIn Article](https://www.linkedin.com/pulse/role-digital-architect-gaurav-aggarwal/)):
 
@@ -23,14 +25,22 @@ Digital architects will (from [LinkedIn Article](https://www.linkedin.com/pulse/
 
 > "Digital Architects own the journey; from ideation, conceptualization, user requirements to an executable technical journey." — [Gaurav Agarwaal](https://www.linkedin.com/in/gauravagg/)
 
-Digital architect owns:
+### Digital architect owns:
 
 - creating the digital vision
 - creation of the digital strategy
 - defining the plan
 - taking action (or defining the actions)
 
+## Roles: 
 
+**Ideation** **and** **Conceptualization:** Digital architects play a critical role in the ideation and conceptualization phase of a project. They understand the business goals and create a vision that translates these goals into a practical, technology-driven solution.
+
+**User** **Requirements:** Digital architects also ensure that the needs and expectations of end-users are met. They work with stakeholders to capture user requirements and ensure that the final product delivers a superior user experience.
+
+**Technical** **Journey:** This aspect is perhaps the most significant. Digital architects are responsible for ensuring that the technology chosen and the overall architecture are scalable, secure, and maintainable. They are the "masters of the technical journey" and own the responsibility of designing, developing, and deploying the solution.
+
+In summary, digital architects are the driving force behind successful digital projects. They ensure that the right technology is used in the right way, and that the solution meets both business and user needs.
 
 ## Skills
 
@@ -184,6 +194,30 @@ Questions that help a digital architect understand the business ?? need ??
 - Problem Definition:  What problem are we trying to solve
 
 # Enterprise Architecture
+
+## Domains
+
+**Digital** **Architecture:** Digital architecture is the highest level of architecture in an enterprise. It defines the overall digital strategy and sets the direction for the business in terms of technology use, digital transformation, and customer experience. It typically covers areas such as cloud computing, cybersecurity, big data, and digital marketing.
+
+- **Solution** **Architecture:** Solution architecture sits one level below digital architecture and focuses on designing specific solutions or systems that address a business need or challenge. It defines the structure and behavior of a specific solution, often involving the integration of multiple components and technologies.
+- **Technical** **Architecture:** Technical architecture is the most granular level of architecture, focusing on the design and specification of individual technologies and their interconnections. It provides the detailed specifications for the technologies that make up a solution or system, such as databases, web servers, and APIs.
+
+Digital architecture is about the big picture and long-term strategy, solution architecture is about specific solutions and systems, and technical architecture is about the nuts and bolts of the technologies that make up these solutions and systems.
+
+Business architecture deals with the organization's business model, strategy, and processes. It sits at a similar level to digital architecture and focuses on how the organization operates, delivers value, and achieves its strategic goals.
+
+- Business Architecture: In contrast to digital architecture, which is focused on technology, business architecture is concerned with the "business side" of things, including defining the organization's capabilities, value streams, and governance structures. It provides the context for solution, data, information, and technical architectures to ensure that all architectural decisions align with the organization's overall strategy and objectives.
+- Business architecture is a crucial component of an enterprise architecture framework, and it ensures that technology solutions are developed and implemented in a way that supports the organization's business goals and objectives.
+
+Data, information, and security architecture fit into this view at different levels and in different ways:
+
+- **Data** **Architecture:** Data architecture is a sub-discipline of technical architecture and deals with the design, management, and usage of data in an organization. It typically focuses on how data is stored, accessed, and integrated across various systems, and it supports the larger solution and digital architectures by providing the foundation for data-driven decision-making and analytics.
+- **Information** **Architecture:** Information architecture focuses on organizing and presenting content in a way that makes it easy for users to understand and navigate. It sits at the intersection of solution architecture and user experience design, and it plays a crucial role in ensuring that digital solutions and systems are intuitive and user-friendly.
+- **Security** **Architecture:** Security architecture is a cross-cutting concern that spans all levels of architecture, from digital to technical. It involves designing and implementing security measures that protect data, systems, and networks from threats and vulnerabilities. It's essential for ensuring that digital solutions and systems are secure and compliant with relevant regulations and standards.
+
+Data, information, and security architecture are essential components of a holistic architecture framework, supporting the design, implementation, and management of digital solutions and systems that are effective, efficient, and secure.
+
+## Modelling
 
 **Modelling**: Model what is needed to change: operating model, map business capabilities, align technoloyg to organization strategic goals.
 
@@ -721,6 +755,20 @@ Corporations
 
 Airbnb: [Open source data tools - Apache Superset and Apache Airflow](https://preset.io/blog/max-speaks-with-former-airbnb-data-leaders-on-building-data-organizations/).  Data memorization, manage open source projects, building a data culture, political capital for data, where is data management heading?
 
+# People
 
+USA think tank CSIS challenges IC to [re-think the skillset level needed](https://www.csis.org/analysis/thinking-small-how-intelligence-community-can-catalyze-digital-transformation) to leverage data, indicate hobby-level people might be suitable.
+
+> While it is often noted that the [IC has long struggled ](https://intelligence.house.gov/UploadedFiles/Final_Start_Report_v4.pdf)to recruit, clear, and onboard science and technology talent, these small data, mission-specific problems do not require the world’s leading computer scientists and mathematicians. Often what they need are eager, technically inclined people with “hobby-grade” coding skills and a basic understanding of data analysis. If leaders look close enough, they may find that there is more latent technical talent in their organizations than they realize. — [CSIS Think Small, Catalyze Digital Transformation](https://www.csis.org/analysis/thinking-small-how-intelligence-community-can-catalyze-digital-transformation)
+
+**1.** **Hobby** **Grade:** The individual has a basic understanding of the technical domain and may have some experience with related tools or technologies, but they are still primarily engaged in the area as a hobby or interest.
+
+**2.** **Novice:** The individual has some experience in the technical domain and has a solid understanding of fundamental concepts and skills. However, they may still be relatively new to the field and may require guidance or supervision.
+
+**3.** **Intermediate:** The individual has a good level of knowledge and experience in the technical domain, and can work independently on most tasks. They are able to apply their skills effectively and may be starting to specialize in certain areas.
+
+**4.** **Advanced:** The individual is highly skilled and experienced in the technical domain, and can handle complex tasks independently. They are recognized as a subject matter expert and may mentor or guide others.
+
+**5.** **World-Leading:** The individual is a recognized expert in the technical domain, with deep knowledge and experience. They are capable of solving complex problems and driving innovation in the field, and may be a thought leader or influencer in the industry.
 
 [^topline]: A company's gross sales or revenue , reported at the top of an income statement.  What would a government department's top line be?   
